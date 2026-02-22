@@ -1,0 +1,110 @@
+{
+  "4": [
+    {
+      "word": "AIR",
+      "question": "The invisible gaseous substance surrounding the earth? (3-4 letters)",
+      "level": 1
+    },
+    {
+      "word": "BIRD",
+      "question": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak?",
+      "level": 1
+    },
+    {
+      "word": "CAT",
+      "question": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws? (3-4 letters)",
+      "level": 1
+    },
+    {
+      "word": "DOOR",
+      "question": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle?",
+      "level": 1
+    },
+    {
+      "word": "FISH",
+      "question": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water?",
+      "level": 1
+    }
+  ],
+  "5": [
+    {
+      "word": "APPLE",
+      "question": "The round fruit of a tree of the rose family, which typically has thin red or green skin?",
+      "level": 2
+    },
+    {
+      "word": "BREAD",
+      "question": "Food made of flour, water, and yeast or another leavening agent, mixed together and baked?",
+      "level": 2
+    },
+    {
+      "word": "CHAIR",
+      "question": "A separate seat for one person, typically with a back and four legs?",
+      "level": 2
+    },
+    {
+      "word": "DANCE",
+      "question": "Move rhythmically to music, typically following a set sequence of steps?",
+      "level": 2
+    },
+    {
+      "word": "EARTH",
+      "question": "The planet on which we live; the world?",
+      "level": 2
+    }
+  ],
+  "6": [
+    {
+      "word": "ANIMAL",
+      "question": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system?",
+      "level": 3
+    },
+    {
+      "word": "BOTTLE",
+      "question": "A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids?",
+      "level": 3
+    },
+    {
+      "word": "CAMERA",
+      "question": "A device for recording visual images in the form of photographs, film, or video signals?",
+      "level": 3
+    },
+    {
+      "word": "DOCTOR",
+      "question": "A qualified practitioner of medicine; a physician?",
+      "level": 3
+    },
+    {
+      "word": "FAMILY",
+      "question": "A group of one or more parents and their children living together as a unit?",
+      "level": 3
+    }
+  ],
+  "7": [
+    {
+      "word": "AIRPORT",
+      "question": "A complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft, with facilities for passengers?",
+      "level": 4
+    },
+    {
+      "word": "BICYCLE",
+      "question": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals?",
+      "level": 4
+    },
+    {
+      "word": "COUNTRY",
+      "question": "A nation with its own government, occupying a particular territory?",
+      "level": 4
+    },
+    {
+      "word": "DIAMOND",
+      "question": "A precious stone consisting of a clear and colorless crystalline form of pure carbon?",
+      "level": 4
+    },
+    {
+      "word": "ELEPHANT",
+      "question": "A heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears? (8 letters)",
+      "level": 4
+    }
+  ]
+}

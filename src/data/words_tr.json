@@ -1,0 +1,110 @@
+{
+  "4": [
+    {
+      "word": "UÇAK",
+      "question": "Gökyüzünde yolcu taşıyan hava aracı?",
+      "level": 1
+    },
+    {
+      "word": "KAPI",
+      "question": "Odaya girmeden önce açtığımız şey?",
+      "level": 1
+    },
+    {
+      "word": "KEDİ",
+      "question": "Miyav diyerek gezen evcil hayvan?",
+      "level": 1
+    },
+    {
+      "word": "MASA",
+      "question": "Üzerinde yemek yediğimiz mobilya?",
+      "level": 1
+    },
+    {
+      "word": "ELMA",
+      "question": "Kırmızı veya yeşil olan popüler bir meyve?",
+      "level": 1
+    }
+  ],
+  "5": [
+    {
+      "word": "KABLO",
+      "question": "Elektrik veya veri ileten tel?",
+      "level": 2
+    },
+    {
+      "word": "RADYO",
+      "question": "Sesli yayın dinlemeye yarayan cihaz?",
+      "level": 2
+    },
+    {
+      "word": "BİLGİ",
+      "question": "Öğrenme veya araştırma sonucu elde edilen gerçek?",
+      "level": 2
+    },
+    {
+      "word": "DENİZ",
+      "question": "Tuzlu suyla kaplı büyük su kütlesi?",
+      "level": 2
+    },
+    {
+      "word": "KİTAP",
+      "question": "İçinde hikayeler, bilgiler barındıran basılı eser?",
+      "level": 2
+    }
+  ],
+  "6": [
+    {
+      "word": "BİNA",
+      "question": "Duvarları ve çatısı olan büyük yapı? (Aslen 4 harf, test için 6 harf olarak düşünülecek kelimeler: BİNAYA, KAPLAN...)",
+      "level": 3
+    },
+    {
+      "word": "KAPLAN",
+      "question": "Çizgili, büyük ve yırtıcı kedi?",
+      "level": 3
+    },
+    {
+      "word": "MEYDAN",
+      "question": "Şehrin ortasındaki geniş açık alan?",
+      "level": 3
+    },
+    {
+      "word": "YILDIZ",
+      "question": "Gece gökyüzünde parlayan gök cismi?",
+      "level": 3
+    },
+    {
+      "word": "YAPRAK",
+      "question": "Ağacın genelde yeşil renkli fotosentez organı?",
+      "level": 3
+    }
+  ],
+  "7": [
+    {
+      "word": "OTOBÜS",
+      "question": "Toplu taşımada kullanılan büyük yolcu aracı? (6 Harf)",
+      "level": 4
+    },
+    {
+      "word": "TELEFON",
+      "question": "Uzaktakilerle iletişim kurmaya yarayan cihaz?",
+      "level": 4
+    },
+    {
+      "word": "PENCERE",
+      "question": "Odaların dışarıya açılan, genellikle camlı kısmı?",
+      "level": 4
+    },
+    {
+      "word": "ŞEMSİYE",
+      "question": "Yağmurdan veya güneşten korunmak için kullanılan eşya?",
+      "level": 4
+    },
+    {
+      "word": "SAKLAMBAÇ",
+      "question": "Birinin yumup diğerlerinin saklandığı çocuk oyunu? (9 Harf)",
+      "level": 4
+    }
+  ]
+}
