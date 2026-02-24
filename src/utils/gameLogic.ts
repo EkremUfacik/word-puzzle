@@ -9,8 +9,8 @@ const wordData = {
 export type TimeMode = 30 | 60 | 120 | 300; // in seconds
 
 export interface Question {
-  word: string;
-  question: string;
+  a: string;
+  q: string;
   level?: number;
 }
 
@@ -43,22 +43,44 @@ export function generateLetterBank(word: string, lang: 'tr' | 'en'): string[] {
 // Get a random question based on current length, language, and difficulty level
 export function getQuestion(lang: 'tr' | 'en', length: number, level: number = 1): Question {
   const data = wordData[lang] as any;
-  // If we don't have words of exact length, find the closest available length
-  let availableLengths = Object.keys(data)
-    .map(Number)
-    .sort((a, b) => a - b);
-  let targetLength = length;
+  let availableLengths: number[] = [];
+  let wordsOfLength: Question[] = [];
 
-  if (!availableLengths.includes(targetLength)) {
-    // fallback to maximum available length if we exceed it
-    targetLength = availableLengths[availableLengths.length - 1];
+  if (Array.isArray(data)) {
+    // Handling new flat array format
+    availableLengths = Array.from(new Set(data.map((w: any) => String(w.a).length))).sort(
+      (a, b) => a - b
+    );
+    let targetLength = length;
+
+    if (!availableLengths.includes(targetLength)) {
+      targetLength =
+        availableLengths.length > 0 ? availableLengths[availableLengths.length - 1] : length;
+    }
+
+    wordsOfLength = data.filter((w: any) => String(w.a).length === targetLength);
+  } else {
+    // Handling legacy length-keyed object format
+    availableLengths = Object.keys(data)
+      .map(Number)
+      .sort((a, b) => a - b);
+    let targetLength = length;
+
+    if (!availableLengths.includes(targetLength)) {
+      targetLength =
+        availableLengths.length > 0 ? availableLengths[availableLengths.length - 1] : length;
+    }
+
+    wordsOfLength = data[targetLength.toString()] || [];
   }
-
-  const wordsOfLength: Question[] = data[targetLength.toString()];
 
   // Filter by difficulty level
   const filteredWords = wordsOfLength.filter((w) => w.level === level);
   const pool = filteredWords.length > 0 ? filteredWords : wordsOfLength;
+
+  if (pool.length === 0) {
+    return { a: 'HATA', q: 'Soru bulunamadı.', level: 1 };
+  }
 
   const randomIndex = Math.floor(Math.random() * pool.length);
   return pool[randomIndex];

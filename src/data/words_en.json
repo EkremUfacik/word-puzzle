@@ -1,109 +1,2522 @@
 {
   "4": [
     {
-      "word": "AIR",
-      "question": "The invisible gaseous substance surrounding the earth? (3-4 letters)",
-      "level": 1
+      "q": "The place where a person or family lives permanently",
+      "a": "HOME"
     },
     {
-      "word": "BIRD",
-      "question": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak?",
-      "level": 1
+      "q": "One side of a leaf of paper in a book or magazine",
+      "a": "PAGE"
     },
     {
-      "word": "CAT",
-      "question": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws? (3-4 letters)",
-      "level": 1
+      "q": "Something that costs no money to use or own",
+      "a": "FREE"
     },
     {
-      "word": "DOOR",
-      "question": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle?",
-      "level": 1
+      "q": "The indefinite continued progress of existence and events",
+      "a": "TIME"
     },
     {
-      "word": "FISH",
-      "question": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water?",
-      "level": 1
+      "q": "Information about recent events or happenings",
+      "a": "NEWS"
+    },
+    {
+      "q": "To look at something or the scene you see from a window",
+      "a": "VIEW"
+    },
+    {
+      "q": "The specific day of the month or year",
+      "a": "DATE"
+    },
+    {
+      "q": "The part of the body that is opposite to the chest",
+      "a": "BACK"
+    },
+    {
+      "q": "A number of connected items or names written down",
+      "a": "LIST"
+    },
+    {
+      "q": "A a by which a person, place, or thing is known",
+      "a": "NAME"
+    },
+    {
+      "q": "A period of three hundred and sixty-five days",
+      "a": "YEAR"
+    },
+    {
+      "q": "Coming immediately after the current one",
+      "a": "NEXT"
+    },
+    {
+      "q": "Activity involving mental or physical effort done for a purpose",
+      "a": "WORK"
+    },
+    {
+      "q": "Facts and statistics collected together for reference",
+      "a": "DATA"
+    },
+    {
+      "q": "To create or construct something by putting parts together",
+      "a": "MAKE"
+    },
+    {
+      "q": "A large and important town or human settlement",
+      "a": "CITY"
+    },
+    {
+      "q": "Of the highest quality or excellence",
+      "a": "BEST"
+    },
+    {
+      "q": "To be desired or approved of; the opposite of bad",
+      "a": "GOOD"
+    },
+    {
+      "q": "Informal term for facts or details about a subject",
+      "a": "INFO"
+    },
+    {
+      "q": "Great in vertical extent; far above the ground",
+      "a": "HIGH"
+    },
+    {
+      "q": "A set of written or printed pages bound together",
+      "a": "BOOK"
+    },
+    {
+      "q": "To look at and understand the meaning of written as",
+      "a": "READ"
+    },
+    {
+      "q": "Something that is required because it is essential",
+      "a": "NEED"
+    },
+    {
+      "q": "A person who operates a computer or a specific service",
+      "a": "USER"
+    },
+    {
+      "q": "Letters and packages conveyed by the postal system",
+      "a": "MAIL"
+    },
+    {
+      "q": "Containing as much or as many as is possible",
+      "a": "FULL"
+    },
+    {
+      "q": "The period between birth and death",
+      "a": "LIFE"
+    },
+    {
+      "q": "To have information or understanding about something",
+      "a": "KNOW"
+    },
+    {
+      "q": "The twenty-four hour periods that make up a week",
+      "a": "DAYS"
+    },
+    {
+      "q": "An amount or piece that combines with others to form a whole",
+      "a": "PART"
+    },
+    {
+      "q": "Actually existing as a thing or occurring in fact",
+      "a": "REAL"
+    },
+    {
+      "q": "An individual article or unit in a collection",
+      "a": "ITEM"
+    },
+    {
+      "q": "A long, narrow mark or band on a surface",
+      "a": "LINE"
+    },
+    {
+      "q": "To cause something to go or be taken to a destination",
+      "a": "SEND"
+    },
+    {
+      "q": "A category of people or things having common characteristics",
+      "a": "TYPE"
+    },
+    {
+      "q": "To reach out for and grasp something with your hands",
+      "a": "TAKE"
+    },
+    {
+      "q": "A particular part of a place, city, or country",
+      "a": "AREA"
+    },
+    {
+      "q": "To have a desire or a wish for something",
+      "a": "WANT"
+    },
+    {
+      "q": "Measuring a great distance from end to end",
+      "a": "LONG"
+    },
+    {
+      "q": "A system of symbols used to represent secret meanings",
+      "a": "CODE"
+    },
+    {
+      "q": "To allow something to be visible or seen",
+      "a": "SHOW"
+    },
+    {
+      "q": "An object or gesture used to convey information",
+      "a": "SIGN"
+    },
+    {
+      "q": "A folder or collection of data stored in a computer",
+      "a": "FILE"
+    },
+    {
+      "q": "A connection between two things, especially on the internet",
+      "a": "LINK"
+    },
+    {
+      "q": "Allowing access or not closed or blocked",
+      "a": "OPEN"
+    },
+    {
+      "q": "An instance of a particular situation or an investigation",
+      "a": "CASE"
+    },
+    {
+      "q": "Identical or not different from something else",
+      "a": "SAME"
+    },
+    {
+      "q": "An activity played for entertainment or competition",
+      "a": "GAME"
+    },
+    {
+      "q": "The provision of what is necessary for health or welfare",
+      "a": "CARE"
+    },
+    {
+      "q": "The overall dimensions or magnitude of an object",
+      "a": "SIZE"
+    },
+    {
+      "q": "A building where goods and services are sold",
+      "a": "SHOP"
+    },
+    {
+      "q": "The main body of a written or printed work",
+      "a": "TEXT"
+    },
+    {
+      "q": "A measure or quantity measured against another quantity",
+      "a": "RATE"
+    },
+    {
+      "q": "The visible shape or configuration of something",
+      "a": "FORM"
+    },
+
+    {
+      "q": "An intense feeling of deep affection",
+      "a": "LOVE"
+    },
+    {
+      "q": "The most important or largest part of something",
+      "a": "MAIN"
+    },
+    {
+      "q": "To use a phone to speak to someone or give a name to",
+      "a": "CALL"
+    },
+    {
+      "q": "To rescue someone from danger or keep money for the future",
+      "a": "SAVE"
+    },
+    {
+      "q": "A small piece of stiff paper or plastic used for games or identity",
+      "a": "CARD"
+    },
+    {
+      "q": "Paid positions of regular employment",
+      "a": "JOBS"
+    },
+    {
+      "q": "Any nutritious substance that people or animals eat",
+      "a": "FOOD"
+    },
+    {
+      "q": "The exchange of a commodity for money",
+      "a": "SALE"
+    },
+    {
+      "q": "A person aged between 13 and 19 years old",
+      "a": "TEEN"
+    },
+    {
+      "q": "A part of the inside of a building set apart by walls",
+      "a": "ROOM"
+    },
+    {
+      "q": "To link or connect things together",
+      "a": "JOIN"
+    },
+    {
+      "q": "The direction in which the sun sets",
+      "a": "WEST"
+    },
+    {
+      "q": "To direct one's eyes toward someone or something",
+      "a": "LOOK"
+    },
+    {
+      "q": "The side of the body that is toward the north when facing east",
+      "a": "LEFT"
+    },
+    {
+      "q": "A group of players forming one side in a game or contest",
+      "a": "TEAM"
+    },
+    {
+      "q": "A period of seven days",
+      "a": "WEEK"
+    },
+    {
+      "q": "A brief record of facts or ideas written down as an aid to memory",
+      "a": "NOTE"
+    },
+    {
+      "q": "To remain alive or dwell in a particular place",
+      "a": "LIVE"
+    },
+    {
+      "q": "The sixth month of the year",
+      "a": "JUNE"
+    },
+    {
+      "q": "A detailed proposal for doing or achieving something",
+      "a": "PLAN"
+    },
+    {
+      "q": "The amount of money needed to buy or do something",
+      "a": "COST"
+    },
+    {
+      "q": "The seventh month of the year",
+      "a": "JULY"
+    },
+    {
+      "q": "A procedure intended to establish the quality or performance of something",
+      "a": "TEST"
+    },
+    {
+      "q": "To move toward or arrive at a place",
+      "a": "COME"
+    },
+    {
+      "q": "A strong open vehicle with two or four wheels, often used in supermarkets",
+      "a": "CART"
+    },
+    {
+      "q": "To engage in activity for enjoyment and recreation rather than work",
+      "a": "PLAY"
+    },
+    {
+      "q": "A smaller amount of",
+      "a": "LESS"
+    },
+    {
+      "q": "A regularly updated website or web page run by an individual",
+      "a": "BLOG"
+    },
+    {
+      "q": "A large public green area in a town used for recreation",
+      "a": "PARK"
+    },
+    {
+      "q": "A position to the left or right of an object or person",
+      "a": "SIDE"
+    },
+    {
+      "q": "To freely transfer the possession of something to someone",
+      "a": "GIVE"
+    },
+    {
+      "q": "To give something to someone in exchange for money",
+      "a": "SELL"
+    },
+    {
+      "q": "The physical structure of a person or animal",
+      "a": "BODY"
+    },
+    {
+      "q": "The direction in which the sun rises",
+      "a": "EAST"
+    },
+    {
+      "q": "An association of people with a common interest",
+      "a": "CLUB"
+    },
+    {
+      "q": "A wide way leading from one place to another for vehicles",
+      "a": "ROAD"
+    },
+    {
+      "q": "A thing given willingly to someone without payment",
+      "a": "GIFT"
+    },
+    {
+      "q": "Solid, firm, and rigid; not easily broken or bent",
+      "a": "HARD"
+    },
+    {
+      "q": "Equivalent to the product of two and two",
+      "a": "FOUR"
+    },
+    {
+      "q": "The color of the clear sky and the deep sea",
+      "a": "BLUE"
+    },
+    {
+      "q": "Achieved without great effort; not difficult",
+      "a": "EASY"
+    },
+    {
+      "q": "A fixed luminous point in the night sky which is a large remote body",
+      "a": "STAR"
+    },
+    {
+      "q": "The end part of a person's arm beyond the wrist",
+      "a": "HAND"
+    },
+    {
+      "q": "To have or retain possession of something",
+      "a": "KEEP"
+    },
+    {
+      "q": "A very young child or infant",
+      "a": "BABY"
+    },
+    {
+      "q": "A fixed or limited period for which something lasts",
+      "a": "TERM"
+    },
+    {
+      "q": "A story or event recorded by a camera as a set of moving images",
+      "a": "FILM"
+    },
+    {
+      "q": "The upper part of the human body containing the brain and eyes",
+      "a": "HEAD"
+    },
+    {
+      "q": "The smallest structural and functional unit of an organism",
+      "a": "CELL"
+    },
+    {
+      "q": "To or at a distance from a particular place or person",
+      "a": "AWAY"
+    },
+    {
+      "q": "On one occasion or at a single time",
+      "a": "ONCE"
+    },
+    {
+      "q": "Completely confident that one is right",
+      "a": "SURE"
+    },
+    {
+      "q": "Road vehicles, typically with four wheels and an engine",
+      "a": "CARS"
+    },
+    {
+      "q": "To communicate information or a story to someone",
+      "a": "TELL"
+    },
+    {
+      "q": "Having the power, skill, or means to do something",
+      "a": "ABLE"
+    },
+    {
+      "q": "A yellow precious metal, often used for jewelry",
+      "a": "GOLD"
+    },
+    {
+      "q": "The expression or application of human creative skill and imagination",
+      "a": "ARTS"
+    },
+    {
+      "q": "The time or a period of time before the moment of speaking",
+      "a": "PAST"
+    },
+    {
+      "q": "The number equivalent to the sum of two and three",
+      "a": "FIVE"
+    },
+    {
+      "q": "The part of the earth's surface that is not covered by water",
+      "a": "LAND"
+    },
+    {
+      "q": "Having been finished or arrived at a conclusion",
+      "a": "DONE"
+    },
+    {
+      "q": "At any time",
+      "a": "EVER"
+    },
+    {
+      "q": "A single distinct meaningful element of speech or writing",
+      "a": "a"
+    },
+    {
+      "q": "A statement of money owed for goods or services",
+      "a": "BILL"
+    },
+    {
+      "q": "To speak in order to give information or express ideas",
+      "a": "TALK"
+    },
+    {
+      "q": "Informal term for children",
+      "a": "KIDS"
+    },
+    {
+      "q": "In accordance with fact or reality",
+      "a": "TRUE"
+    },
+    {
+      "q": "In addition; besides",
+      "a": "ELSE"
+    },
+    {
+      "q": "A small area on a surface having a different color from its surroundings",
+      "a": "MARK"
+    },
+    {
+      "q": "The solid mineral material forming part of the surface of the earth",
+      "a": "ROCK"
+    },
+    {
+      "q": "Small sums of money given to someone as a reward for their services",
+      "a": "TIPS"
+    },
+    {
+      "q": "Short for technology or technical",
+      "a": "TECH"
+    },
+    {
+      "q": "To come into the presence or company of someone",
+      "a": "MEET"
+    },
+    {
+      "q": "To be aware of a person or object through touching or emotion",
+      "a": "FEEL"
+    },
+    {
+      "q": "An institution for receiving, lending, and safeguarding money",
+      "a": "BANK"
+    },
+    {
+      "q": "A situation involving exposure to danger or loss",
+      "a": "RISK"
+    },
+    {
+      "q": "A built-up area with a name, larger than a village but smaller than a city",
+      "a": "TOWN"
+    },
+    {
+      "q": "A female child or young woman",
+      "a": "GIRL"
+    },
+    {
+      "q": "Objects for children to play with",
+      "a": "TOYS"
+    },
+    {
+      "q": "A club-and-ball sport in which players use clubs to hit balls into holes",
+      "a": "GOLF"
+    },
+    {
+      "q": "A thing that is borrowed, especially a sum of money to be paid back",
+      "a": "LOAN"
+    },
+    {
+      "q": "Measuring a great distance from side to side",
+      "a": "WIDE"
+    },
+    {
+      "q": "A category of things or people with a common feature",
+      "a": "SORT"
+    },
+    {
+      "q": "Either of two equal periods into which something is divided",
+      "a": "HALF"
+    },
+    {
+      "q": "An act of lifting and putting down one foot in walking",
+      "a": "STEP"
+    },
+
+    {
+      "q": "A large body of water surrounded by land",
+      "a": "LAKE"
+    },
+    {
+      "q": "A combustion or burning that produces heat and light",
+      "a": "FIRE"
+    },
+    {
+      "q": "An informal talk or conversation between people",
+      "a": "CHAT"
+    },
+    {
+      "q": "The standard language used to create web pages",
+      "a": "HTML"
+    },
+    {
+      "q": "The fact or process of losing something or someone",
+      "a": "LOSS"
+    },
+    {
+      "q": "The front part of a person's head from forehead to chin",
+      "a": "FACE"
+    },
+    {
+      "q": "The lowest part or surface of something",
+      "a": "BASE"
+    },
+    {
+      "q": "At or within a short distance in space or time",
+      "a": "NEAR"
+    },
+    {
+      "q": "To remain in a particular place or condition",
+      "a": "STAY"
+    },
+    {
+      "q": "To move around a central point or axis",
+      "a": "TURN"
+    },
+    {
+      "q": "The male ruler of an independent state or kingdom",
+      "a": "KING"
+    },
+    {
+      "q": "A thing made to be similar or identical to another",
+      "a": "COPY"
+    },
+    {
+      "q": "Informal short term for pictures or photographs",
+      "a": "PICS"
+    },
+    {
+      "q": "Money in the form of coins or banknotes",
+      "a": "CASH"
+    },
+    {
+      "q": "A town or city with a harbor where ships load or unload",
+      "a": "PORT"
+    },
+    {
+      "q": "To come to an end or cease from action",
+      "a": "STOP"
+    },
+    {
+      "q": "In a short time from now",
+      "a": "SOON"
+    },
+    {
+      "q": "The element of a person that enables them to think and feel",
+      "a": "MIND"
+    },
+    {
+      "q": "Unable to be found or unable to find one's way",
+      "a": "LOST"
+    },
+    {
+      "q": "A journey for pleasure in which several places are visited",
+      "a": "TOUR"
+    },
+    {
+      "q": "A list of dishes available in a restaurant",
+      "a": "MENU"
+    },
+    {
+      "q": "A feeling of expectation and desire for a certain thing",
+      "a": "HOPE"
+    },
+    {
+      "q": "A desire or hope for something to happen",
+      "a": "WISH"
+    },
+    {
+      "q": "A period of time equal to sixty minutes",
+      "a": "HOUR"
+    },
+    {
+      "q": "Extremely large or enormous",
+      "a": "HUGE"
+    },
+    {
+      "q": "Having a friendly, generous, and considerate nature",
+      "a": "KIND"
+    },
+    {
+      "q": "To go from one place to another or change position",
+      "a": "MOVE"
+    },
+    {
+      "q": "A symbol or design used by an organization",
+      "a": "LOGO"
+    },
+    {
+      "q": "Pleasant, agreeable, or satisfactory",
+      "a": "NICE"
+    },
+    {
+      "q": "A group of musicians who play together",
+      "a": "BAND"
+    },
+    {
+      "q": "To show the way by going in front",
+      "a": "LEAD"
+    },
+    {
+      "q": "A sum of money saved or made available for a purpose",
+      "a": "FUND"
+    },
+    {
+      "q": "Belonging to the sex that can beget offspring",
+      "a": "MALE"
+    },
+    {
+      "q": "A short poem or other set of as set to music",
+      "a": "SONG"
+    },
+    {
+      "q": "Happening or arriving after the expected time",
+      "a": "LATE"
+    },
+    {
+      "q": "To drop or descend freely from a higher to a lower level",
+      "a": "FALL"
+    },
+    {
+      "q": "A thought or suggestion as to a possible course of action",
+      "a": "IDEA"
+    },
+    {
+      "q": "A device or implement used to carry out a particular function",
+      "a": "TOOL"
+    },
+    {
+      "q": "A naturally raised area of land, smaller than a mountain",
+      "a": "HILL"
+    },
+    {
+      "q": "Free from danger or the risk of harm",
+      "a": "SAFE"
+    },
+    {
+      "q": "To give food to a person or animal",
+      "a": "FEED"
+    },
+    {
+      "q": "A corridor or passage in a building",
+      "a": "HALL"
+    },
+    {
+      "q": "A large boat for transporting people or goods by sea",
+      "a": "SHIP"
+    },
+    {
+      "q": "Receiving money for work or services",
+      "a": "PAID"
+    },
+    {
+      "q": "Any of the fine threadlike strands growing from the skin",
+      "a": "HAIR"
+    },
+    {
+      "q": "A woody perennial plant with a trunk and branches",
+      "a": "TREE"
+    },
+    {
+      "q": "A continuous vertical structure that encloses an area",
+      "a": "WALL"
+    },
+    {
+      "q": "An alcoholic drink made from fermented grape juice",
+      "a": "WINE"
+    },
+    {
+      "q": "To formally express a choice in an election",
+      "a": "VOTE"
+    },
+    {
+      "q": "One of a set of explicit regulations or principles",
+      "a": "RULE"
+    },
+    {
+      "q": "The plural of foot; the body parts used for walking",
+      "a": "FEET"
+    },
+    {
+      "q": "A hinged or sliding barrier for closing an entrance",
+      "a": "DOOR"
+    },
+    {
+      "q": "Fairly low in temperature; between warm and cold",
+      "a": "COOL"
+    },
+    {
+      "q": "The largest continent in the world",
+      "a": "ASIA"
+    },
+    {
+      "q": "A high-level programming language or a type of coffee",
+      "a": "JAVA"
+    },
+    {
+      "q": "To move past or go beyond something",
+      "a": "PASS"
+    },
+    {
+      "q": "Sums of money paid for professional services or advice",
+      "a": "FEES"
+    },
+    {
+      "q": "The thin layer of tissue forming the outer covering of a body",
+      "a": "SKIN"
+    },
+    {
+      "q": "A small circular band, typically of precious metal, worn on a finger",
+      "a": "RING"
+    },
+    {
+      "q": "Extending far down from the top or surface",
+      "a": "DEEP"
+    },
+    {
+      "q": "To cease work or movement in order to relax",
+      "a": "REST"
+    },
+    {
+      "q": "A small area of still water, or a place to swim",
+      "a": "POOL"
+    },
+    {
+      "q": "A limbless cold-blooded vertebrate animal with gills and fins",
+      "a": "FISH"
+    },
+    {
+      "q": "A group of things wrapped or tied together for transport",
+      "a": "PACK"
+    },
+    {
+      "q": "Existing as a result of birth",
+      "a": "BORN"
+    },
+    {
+      "q": "A competition between runners, horses, or vehicles",
+      "a": "RACE"
+    },
+    {
+      "q": "A sum of money that is owed or due",
+      "a": "DEBT"
+    },
+    {
+      "q": "The tough central part of various fruits, such as an apple",
+      "a": "CORE"
+    },
+    {
+      "q": "The hard fibrous material that forms the main substance of a tree",
+      "a": "WOOD"
+    },
+    {
+      "q": "A regular payment made to a landlord for the use of property",
+      "a": "RENT"
+    },
+    {
+      "q": "The absence of light or a deep shade of color",
+      "a": "DARK"
+    },
+    {
+      "q": "A person who receives or entertains guests",
+      "a": "HOST"
+    },
+    {
+      "q": "Treating people equally without favoritism or discrimination",
+      "a": "FAIR"
+    },
+    {
+      "q": "No longer alive or functioning",
+      "a": "DEAD"
+    },
+    {
+      "q": "A journey or excursion, typically for pleasure",
+      "a": "TRIP"
+    },
+    {
+      "q": "Lacking sufficient money to live comfortably",
+      "a": "POOR"
+    },
+    {
+      "q": "The organs of sight in humans and animals",
+      "a": "EYES"
+    },
+    {
+      "q": "An area of land used for growing crops or raising animals",
+      "a": "FARM"
+    },
+    {
+      "q": "A person with power and authority over others",
+      "a": "LORD"
+    },
+    {
+      "q": "To perceive sound through the ears",
+      "a": "HEAR"
+    },
+    {
+      "q": "A married woman in relation to her spouse",
+      "a": "WIFE"
+    },
+    {
+      "q": "An area or stretch of land with a particular characteristic",
+      "a": "ZONE"
+    },
+    {
+      "q": "Having a level surface without raised areas",
+      "a": "FLAT"
+    },
+    {
+      "q": "The steady and continuous movement of a liquid",
+      "a": "FLOW"
+    },
+    {
+      "q": "A way or track laid down for walking",
+      "a": "PATH"
+    },
+    {
+      "q": "A system of rules created by a government",
+      "a": "LAWS"
+    },
+    {
+      "q": "To miss or pass over something intentionally",
+      "a": "SKIP"
+    },
+    {
+      "q": "The kinds of food that a person habitually eats",
+      "a": "DIET"
+    },
+    {
+      "q": "A large organized body of armed personnel trained for war",
+      "a": "ARMY"
+    },
+    {
+      "q": "A set of toothed wheels that work together in a machine",
+      "a": "GEAR"
+    },
+    {
+      "q": "A large number or amount of something",
+      "a": "LOTS"
+    },
+    {
+      "q": "Strong and solid, or a professional business partnership",
+      "a": "FIRM"
+    },
+    {
+      "q": "To push oneself off the ground into the air",
+      "a": "JUMP"
+    },
+    {
+      "q": "A round object used in games and sports",
+      "a": "BALL"
+    },
+    {
+      "q": "The object of a person's ambition or effort",
+      "a": "GOAL"
+    },
+    {
+      "q": "The natural movement of the air",
+      "a": "WIND"
+    },
+    {
+      "q": "The inner surface of the hand between the wrist and fingers",
+      "a": "PALM"
+    },
+    {
+      "q": "Physical suffering or discomfort caused by illness or injury",
+      "a": "PAIN"
+    },
+    {
+      "q": "The outside limit of an object, area, or surface",
+      "a": "EDGE"
+    },
+    {
+      "q": "The part of a plant that attaches it to the ground",
+      "a": "ROOT"
+    },
+    {
+      "q": "A pale red color",
+      "a": "PINK"
+    },
+    {
+      "q": "The firing of a gun or a kick toward a goal",
+      "a": "SHOT"
+    },
+    {
+      "q": "Of or at a low temperature",
+      "a": "COLD"
+    },
+    {
+      "q": "The lower extremity of the leg below the ankle",
+      "a": "FOOT"
+    },
+    {
+      "q": "A large body of matter with no definite shape",
+      "a": "MASS"
+    },
+    {
+      "q": "The quality of being hot or high temperature",
+      "a": "HEAT"
+    },
+    {
+      "q": "Living or growing in the natural state; not domesticated",
+      "a": "WILD"
+    },
+    {
+      "q": "A piece of work to be done or undertaken",
+      "a": "TASK"
+    },
+    {
+      "q": "Easy to mold, cut, compress, or fold; not hard",
+      "a": "SOFT"
+    },
+    {
+      "q": "Material such as coal, gas, or oil that is burned to produce power",
+      "a": "FUEL"
+    },
+    {
+      "q": "To move at a regular pace by lifting and setting down each foot",
+      "a": "WALK"
+    },
+    {
+      "q": "To stay where one is or delay action until a particular time",
+      "a": "WAIT"
+    },
+    {
+      "q": "A prickly bush or shrub that typically bears red or pink flowers",
+      "a": "ROSE"
+    },
+    {
+      "q": "To take hold of and remove something from its place",
+      "a": "PICK"
+    },
+    {
+      "q": "A heavy or bulky thing that is being carried or is about to be carried",
+      "a": "LOAD"
+    },
+    {
+      "q": "A label attached to someone or something for identification",
+      "a": "TAGS"
+    },
+    {
+      "q": "To let fall or allow to fall vertically",
+      "a": "DROP"
+    },
+    {
+      "q": "Having a great deal of money or assets",
+      "a": "RICH"
+    },
+    {
+      "q": "To give work to someone for wages or a salary",
+      "a": "HIRE"
+    },
+    {
+      "q": "A position in the hierarchy of the armed forces or an organization",
+      "a": "RANK"
+    },
+    {
+      "q": "A unit of linear measure equal to one twelfth of a foot",
+      "a": "INCH"
+    },
+    {
+      "q": "Atmospheric water vapor frozen into ice crystals and falling in white flakes",
+      "a": "SNOW"
+    },
+    {
+      "q": "A place with temporary accommodation of huts or tents",
+      "a": "CAMP"
+    },
+    {
+      "q": "To put as much as can be held into a container",
+      "a": "FILL"
+    },
+    {
+      "q": "A military building designed to be defended from attack",
+      "a": "FORT"
+    },
+    {
+      "q": "A unit of heredity which is transferred from parent to offspring",
+      "a": "GENE"
+    },
+    {
+      "q": "A flat, thin, round object",
+      "a": "DISC"
+    },
+    {
+      "q": "A small vessel for traveling over water",
+      "a": "BOAT"
+    },
+    {
+      "q": "A person or thing regarded as a representative symbol",
+      "a": "ICON"
+    },
+    {
+      "q": "The actors in a play, movie, or show",
+      "a": "CAST"
+    },
+    {
+      "q": "The spiritual or immaterial part of a human being",
+      "a": "SOUL"
+    },
+    {
+      "q": "A piece of cloth with a distinctive design used as a symbol",
+      "a": "FLAG"
+    },
+    {
+      "q": "The basic unit of a chemical element",
+      "a": "ATOM"
+    },
+    {
+      "q": "A strong, hard magnetic silvery-gray metal",
+      "a": "IRON"
+    },
+    {
+      "q": "A completely empty space",
+      "a": "VOID"
+    },
+    {
+      "q": "A piece of furniture with a flat surface used for writing or working",
+      "a": "DESK"
+    },
+    {
+      "q": "A moral fault or a bad habit",
+      "a": "VICE"
+    },
+    {
+      "q": "A moral or legal obligation",
+      "a": "DUTY"
+    },
+    {
+      "q": "A large, heavy, mammal with thick fur and a very short tail",
+      "a": "BEAR"
+    },
+    {
+      "q": "An increase in wealth or resources",
+      "a": "GAIN"
+    },
+    {
+      "q": "The state of being without or not having enough of something",
+      "a": "LACK"
+    },
+    {
+      "q": "To change the size of a graphics image on a screen",
+      "a": "ZOOM"
+    },
+    {
+      "q": "A short sequence of a movie or broadcast",
+      "a": "CLIP"
+    },
+    {
+      "q": "Metal drawn out into the form of a thin flexible thread",
+      "a": "WIRE"
+    },
+    {
+      "q": "A narrow strip of material used to hold or fasten something",
+      "a": "TAPE"
+    },
+    {
+      "q": "Unsolicited or undesired electronic messages",
+      "a": "SPAM"
+    },
+    {
+      "q": "A substance with a pH less than 7",
+      "a": "ACID"
+    },
+    {
+      "q": "A monetary unit in various countries equal to one hundredth of a basic unit",
+      "a": "CENT"
+    },
+    {
+      "q": "The integer denoted by the symbol 0",
+      "a": "ZERO"
+    },
+    {
+      "q": "To move by turning over and over on an axis",
+      "a": "ROLL"
+    },
+    {
+      "q": "An act of washing the body in a tub of water",
+      "a": "BATH"
+    },
+    {
+      "q": "A set of type of one particular face and size",
+      "a": "FONT"
+    },
+    {
+      "q": "The second letter of the Greek alphabet",
+      "a": "BETA"
+    },
+    {
+      "q": "To be unsuccessful in achieving one's goal",
+      "a": "FAIL"
+    },
+    {
+      "q": "A type of music of black American origin with improvisation",
+      "a": "JAZZ"
+    },
+    {
+      "q": "To have on one's body as clothing or ornament",
+      "a": "WEAR"
+    },
+    {
+      "q": "Not occurring very often",
+      "a": "RARE"
+    },
+    {
+      "q": "Long rigid pieces of metal or wood used as a barrier",
+      "a": "BARS"
+    },
+    {
+      "q": "Consisting of two parts, elements, or aspects",
+      "a": "DUAL"
+    },
+    {
+      "q": "To move from a lower position to a higher one",
+      "a": "RISE"
+    },
+    {
+      "q": "A feathered vertebrate with wings",
+      "a": "BIRD"
+    },
+    {
+      "q": "A polite or formal way of referring to a woman",
+      "a": "LADY"
+    },
+    {
+      "q": "A thing made or used for sitting on",
+      "a": "SEAT"
+    },
+    {
+      "q": "A charge payable for the use of a bridge or road",
+      "a": "TOLL"
+    },
+    {
+      "q": "A sleeveless cloak, typically a short one",
+      "a": "CAPE"
+    },
+    {
+      "q": "Used by a speaker to refer to something belonging to them",
+      "a": "MINE"
+    },
+    {
+      "q": "The abstract science of number, quantity, and space",
+      "a": "MATH"
+    },
+    {
+      "q": "The natural satellite of the earth",
+      "a": "MOON"
+    },
+    {
+      "q": "An unpleasant emotion caused by the belief that someone is dangerous",
+      "a": "FEAR"
+    },
+    {
+      "q": "To strike a person or an animal repeatedly and violently",
+      "a": "BEAT"
+    },
+    {
+      "q": "Upper limbs of the human body",
+      "a": "ARMS"
+    },
+    {
+      "q": "To put or keep out of sight",
+      "a": "HIDE"
+    },
+    {
+      "q": "Moving or operating at a low speed",
+      "a": "SLOW"
+    },
+    {
+      "q": "The number equivalent to the product of three and three",
+      "a": "NINE"
+    },
+    {
+      "q": "A small round mark of a different color",
+      "a": "SPOT"
+    },
+    {
+      "q": "To increase in size or develop over time",
+      "a": "GROW"
+    },
+    {
+      "q": "Water falling in drops from the atmosphere",
+      "a": "RAIN"
+    },
+    {
+      "q": "A type of low-frequency sound or a kind of fish",
+      "a": "BASS"
+    },
+    {
+      "q": "A hollow place or an opening in a solid object",
+      "a": "HOLE"
+    },
+    {
+      "q": "Domesticated animals kept for companionship",
+      "a": "PETS"
+    },
+    {
+      "q": "To travel in or on a vehicle or animal",
+      "a": "RIDE"
+    },
+    {
+      "q": "Two things that are used together or are similar",
+      "a": "PAIR"
+    },
+    {
+      "q": "Very bad, harmful, or wicked",
+      "a": "EVIL"
+    },
+    {
+      "q": "The official currency used in many European countries",
+      "a": "EURO"
+    },
+    {
+      "q": "The pointed top of a mountain",
+      "a": "PEAK"
+    },
+    {
+      "q": "A white crystal substance used for seasoning food",
+      "a": "SALT"
+    },
+    {
+      "q": "A hollow metal object that makes a ringing sound when struck",
+      "a": "BELL"
+    },
+    {
+      "q": "A narrow road or a designated strip for racing",
+      "a": "LANE"
+    },
+    {
+      "q": "Very long periods of time",
+      "a": "AGES"
+    },
+    {
+      "q": "A device used to connect an appliance to an electrical outlet",
+      "a": "PLUG"
+    },
+    {
+      "q": "To prepare food by heating it",
+      "a": "COOK"
+    },
+    {
+      "q": "A vehicle with two wheels that you pedal",
+      "a": "BIKE"
+    },
+    {
+      "q": "To be deprived of or fail to keep something",
+      "a": "LOSE"
+    },
+    {
+      "q": "To attempt to find or look for something",
+      "a": "SEEK"
+    },
+    {
+      "q": "The top layer of earth in which plants grow",
+      "a": "SOIL"
+    },
+    {
+      "q": "A way out of a building or a room",
+      "a": "EXIT"
+    },
+    {
+      "q": "Small metal objects used to open locks",
+      "a": "KEYS"
+    },
+    {
+      "q": "A moving ridge on the surface of water",
+      "a": "WAVE"
+    },
+    {
+      "q": "Dedicated or consecrated to a religious purpose",
+      "a": "HOLY"
+    },
+    {
+      "q": "A material made of a network of wire or thread",
+      "a": "MESH"
+    },
+    {
+      "q": "The head of a college or university faculty",
+      "a": "DEAN"
+    },
+    {
+      "q": "A sampling or collection of opinions on a subject",
+      "a": "POLL"
+    },
+    {
+      "q": "A strong force or feeling that unites people",
+      "a": "BOND"
+    },
+    {
+      "q": "A type of heavy cotton cloth used for trousers",
+      "a": "JEAN"
+    },
+    {
+      "q": "An endorsement on a passport allowing entry to a country",
+      "a": "VISA"
+    },
+    {
+      "q": "Not mixed with any other substance or material",
+      "a": "PURE"
+    },
+    {
+      "q": "A curved piece of glass used in cameras or glasses",
+      "a": "LENS"
+    },
+    {
+      "q": "To produce a picture by making lines on paper",
+      "a": "DRAW"
+    },
+    {
+      "q": "Having a pleasant degree of heat",
+      "a": "WARM"
+    },
+    {
+      "q": "A group of people who work on a ship or project",
+      "a": "CREW"
+    },
+    {
+      "q": "The limbs used by a human or animal for walking",
+      "a": "LEGS"
+    },
+    {
+      "q": "The back part of something",
+      "a": "REAR"
+    },
+    {
+      "q": "A mechanism for keeping a door or lid fastened",
+      "a": "LOCK"
+    },
+    {
+      "q": "A unit of distance equal to 1,760 yards",
+      "a": "MILE"
+    },
+    {
+      "q": "A round, deep dish used for food",
+      "a": "BOWL"
+    },
+    {
+      "q": "A large armored vehicle or a container for liquid",
+      "a": "TANK"
+    },
+    {
+      "q": "The branch of armed forces that fights at sea",
+      "a": "NAVY"
+    },
+    {
+      "q": "A container used for cooking or serving food",
+      "a": "DISH"
+    },
+    {
+      "q": "A narrow opening in a machine for coins",
+      "a": "SLOT"
+    },
+    {
+      "q": "A color between black and white",
+      "a": "GRAY"
+    },
+    {
+      "q": "To feel intense dislike for something",
+      "a": "HATE"
+    },
+    {
+      "q": "Small white or brown grains used as food",
+      "a": "RICE"
+    },
+    {
+      "q": "A shape produced by a curve that crosses itself",
+      "a": "LOOP"
+    },
+    {
+      "q": "The capital city of Italy",
+      "a": "ROME"
+    },
+    {
+      "q": "A white liquid produced by cows",
+      "a": "MILK"
+    },
+    {
+      "q": "A sturdy item of footwear covering the ankle",
+      "a": "BOOT"
+    },
+    {
+      "q": "To use force to move something away from you",
+      "a": "PUSH"
+    },
+    {
+      "q": "Loved or cherished by someone",
+      "a": "DEAR"
+    },
+    {
+      "q": "An alcoholic drink made from fermented malt",
+      "a": "BEER"
+    },
+    {
+      "q": "To receive money in return for work",
+      "a": "EARN"
+    },
+    {
+      "q": "One of two children born at the same birth",
+      "a": "TWIN"
+    },
+    {
+      "q": "A set of outer clothes made of the same fabric",
+      "a": "SUIT"
+    },
+    {
+      "q": "A small piece of something broken off",
+      "a": "CHIP"
+    },
+    {
+      "q": "A sound caused by the reflection of sound waves",
+      "a": "ECHO"
+    },
+    {
+      "q": "To move something toward yourself by using force",
+      "a": "PULL"
+    },
+    {
+      "q": "The US government agency responsible for space travel",
+      "a": "NASA"
+    },
+    {
+      "q": "A machine used to move liquids by suction",
+      "a": "PUMP"
+    },
+    {
+      "q": "A formal test of knowledge or proficiency",
+      "a": "EXAM"
+    },
+    {
+      "q": "Confident and brave; showing an ability to take risks",
+      "a": "BOLD"
+    },
+    {
+      "q": "Attractive in a pretty or endearing way",
+      "a": "CUTE"
+    },
+    {
+      "q": "The unit of reproduction of a flowering plant",
+      "a": "SEED"
+    },
+    {
+      "q": "A person of the same age or status",
+      "a": "PEER"
+    },
+    {
+      "q": "The flesh of an animal used as food",
+      "a": "MEAT"
+    },
+    {
+      "q": "A sudden loud noise",
+      "a": "BANG"
+    },
+    {
+      "q": "Any of the hard parts that form the skeleton",
+      "a": "BONE"
+    },
+    {
+      "q": "Small insects or errors in computer code",
+      "a": "BUGS"
+    },
+    {
+      "q": "A hinged barrier used to close an opening",
+      "a": "GATE"
+    },
+    {
+      "q": "Actively engaged in work or another activity",
+      "a": "BUSY"
+    },
+    {
+      "q": "The part of the body connecting the head to the shoulders",
+      "a": "NECK"
+    },
+    {
+      "q": "One of the parts used by a bird or plane for flying",
+      "a": "WING"
+    },
+    {
+      "q": "Very small in size",
+      "a": "TINY"
+    },
+    {
+      "q": "A long, hollow cylinder of metal or glass",
+      "a": "TUBE"
+    },
+    {
+      "q": "A strip of leather or fabric worn around the waist",
+      "a": "BELT"
+    },
+    {
+      "q": "Success or failure apparently brought by chance",
+      "a": "LUCK"
+    },
+    {
+      "q": "The face of a clock or a control on a radio",
+      "a": "DIAL"
+    },
+    {
+      "q": "A sweet food made from flour, sugar, and eggs",
+      "a": "CAKE"
+    },
+    {
+      "q": "A small restaurant selling coffee and light meals",
+      "a": "CAFE"
+    },
+    {
+      "q": "A covering for the foot, typically made of leather",
+      "a": "SHOE"
+    },
+    {
+      "q": "A granular substance found on beaches",
+      "a": "SAND"
+    },
+    {
+      "q": "A sea mammal with flippers or a tight closing",
+      "a": "SEAL"
+    },
+    {
+      "q": "A tube used to convey water, gas, or oil",
+      "a": "PIPE"
+    },
+    {
+      "q": "A flat surface on a ship or a pack of cards",
+      "a": "DECK"
+    },
+    {
+      "q": "Having little or no fat; not thick",
+      "a": "THIN"
+    },
+    {
+      "q": "Feeling ill or affected by physical illness",
+      "a": "SICK"
+    },
+    {
+      "q": "Small domesticated carnivorous mammals with soft fur",
+      "a": "CATS"
+    },
+    {
+      "q": "To pick something up or a machine that carries people between floors",
+      "a": "LIFT"
+    },
+    {
+      "q": "A large building containing many different stores and restaurants",
+      "a": "MALL"
+    },
+    {
+      "q": "An area of land next to a house, usually with grass",
+      "a": "YARD"
+    },
+    {
+      "q": "To flow rapidly in a steady stream from a container",
+      "a": "POUR"
+    },
+    {
+      "q": "Fine dry powder consisting of tiny particles of earth or waste",
+      "a": "DUST"
+    },
+    {
+      "q": "The top covering of a house or building",
+      "a": "ROOF"
+    },
+    {
+      "q": "To touch with the lips as a sign of love or greeting",
+      "a": "KISS"
+    },
+    {
+      "q": "To move or do something with great speed",
+      "a": "RUSH"
+    },
+    {
+      "q": "A system of physical exercises and breathing control for relaxation",
+      "a": "YOGA"
+    },
+    {
+      "q": "A device that produces light, usually using electricity",
+      "a": "LAMP"
+    },
+    {
+      "q": "A person who is in charge of workers or an organization",
+      "a": "BOSS"
+    },
+    {
+      "q": "A piece of music or an activity performed by one person alone",
+      "a": "SOLO"
+    },
+    {
+      "q": "Of great or more than average height",
+      "a": "TALL"
+    },
+    {
+      "q": "To stop sleeping or to become conscious",
+      "a": "WAKE"
+    },
+    {
+      "q": "A musical instrument played by hitting it with sticks or hands",
+      "a": "DRUM"
+    },
+    {
+      "q": "The absence of difficulty or effort",
+      "a": "EASE"
+    },
+    {
+      "q": "An evergreen tree with needle-shaped leaves",
+      "a": "PINE"
+    },
+    {
+      "q": "To care for or look after something",
+      "a": "TEND"
+    },
+    {
+      "q": "A deep inlet of the sea almost surrounded by land",
+      "a": "GULF"
+    },
+    {
+      "q": "To chase and kill wild animals for food or sport",
+      "a": "HUNT"
+    },
+    {
+      "q": "A building equipped with machinery for grinding grain into flour",
+      "a": "MILL"
+    },
+    {
+      "q": "To be on fire or to damage something with heat",
+      "a": "BURN"
+    },
+    {
+      "q": "A stiff, sticky earth that can be molded when wet",
+      "a": "CLAY"
+    },
+    {
+      "q": "Lacking physical strength or energy",
+      "a": "WEAK"
+    },
+    {
+      "q": "Having or showing experience, knowledge, and good judgment",
+      "a": "WISE"
+    },
+    {
+      "q": "The ratio or probability of something happening",
+      "a": "ODDS"
+    },
+    {
+      "q": "The flat green part of a plant that grows from a stem",
+      "a": "LEAF"
+    },
+    {
+      "q": "A fine, strong, soft fiber produced by silkworms",
+      "a": "SILK"
+    },
+    {
+      "q": "A wild carnivorous animal that looks like a large dog",
+      "a": "WOLF"
+    },
+    {
+      "q": "To strike or hit something with the foot",
+      "a": "KICK"
+    },
+    {
+      "q": "An occasion when food is eaten, or the food which is eaten",
+      "a": "MEAL"
+    },
+    {
+      "q": "To cause physical pain or injury to someone",
+      "a": "HURT"
+    },
+    {
+      "q": "To slide accidentally and lose one's balance",
+      "a": "SLIP"
+    },
+    {
+      "q": "The fourth planet from the sun, known as the Red Planet",
+      "a": "MARS"
+    },
+    {
+      "q": "A small round piece of medicine that you swallow",
+      "a": "PILL"
+    },
+    {
+      "q": "A plant with a fresh taste used in tea and candy",
+      "a": "MINT"
+    },
+    {
+      "q": "To turn around and around quickly",
+      "a": "SPIN"
+    },
+    {
+      "q": "To clean something using water and usually soap",
+      "a": "WASH"
+    },
+    {
+      "q": "A substance used with water for washing and cleaning",
+      "a": "SOAP"
+    },
+    {
+      "q": "An imaginary line about which a body rotates",
+      "a": "AXIS"
+    },
+    {
+      "q": "A person who is admired for their courage or achievements",
+      "a": "HERO"
+    },
+    {
+      "q": "A nobleman of the highest rank below a prince",
+      "a": "DUKE"
+    },
+    {
+      "q": "The speed at which someone walks or runs",
+      "a": "PACE"
+    },
+    {
+      "q": "A fixed regular payment earned for work or services",
+      "a": "WAGE"
+    },
+    {
+      "q": "The first appearance of light in the sky before sunrise",
+      "a": "DAWN"
+    },
+    {
+      "q": "An outer garment with sleeves, worn for warmth",
+      "a": "COAT"
+    },
+    {
+      "q": "A small model of a human, used as a child's toy",
+      "a": "DOLL"
+    },
+    {
+      "q": "Small rodents with long tails; the plural of mouse",
+      "a": "MICE"
+    },
+    {
+      "q": "Of very great extent or quantity; immense",
+      "a": "VAST"
+    },
+    {
+      "q": "To cover or enclose something in paper or cloth",
+      "a": "WRAP"
+    },
+    {
+      "q": "A temporary state of mind or feeling",
+      "a": "MOOD"
+    },
+    {
+      "q": "A test of knowledge, especially as a competition",
+      "a": "QUIZ"
+    },
+    {
+      "q": "A long, sturdy piece of timber or a ray of light",
+      "a": "BEAM"
+    },
+    {
+      "q": "To move something so that it covers an opening",
+      "a": "SHUT"
+    },
+    {
+      "q": "A covering for the face, worn for protection or disguise",
+      "a": "MASK"
+    },
+    {
+      "q": "A hard black mineral that is burned as fuel",
+      "a": "COAL"
+    },
+    {
+      "q": "A large tawny-colored cat that lives in prides",
+      "a": "LION"
+    },
+    {
+      "q": "The flesh of a cow, bull, or ox used as food",
+      "a": "BEEF"
+    },
+    {
+      "q": "The mass of bubbles formed by waves breaking on the shore",
+      "a": "SURF"
+    },
+    {
+      "q": "A curved piece of metal used for catching or holding things",
+      "a": "HOOK"
+    },
+    {
+      "q": "Thin, flexible string or rope made from twisted strands",
+      "a": "CORD"
+    },
+    {
+      "q": "A plant that is grown on a large scale for food",
+      "a": "CROP"
+    },
+    {
+      "q": "To make musical sounds with the voice",
+      "a": "SING"
+    },
+    {
+      "q": "A unit of weight equal to two thousand pounds",
+      "a": "TONS"
+    },
+    {
+      "q": "To attach something at the top so the lower part is free",
+      "a": "HANG"
+    },
+    {
+      "q": "The state of being known or talked about by many people",
+      "a": "FAME"
+    },
+    {
+      "q": "Oval objects produced by birds, eaten as food",
+      "a": "EGGS"
+    },
+    {
+      "q": "A precious stone that is clear and deep red in color",
+      "a": "RUBY"
+    },
+    {
+      "q": "The main long thin part of a plant above the ground",
+      "a": "STEM"
+    },
+    {
+      "q": "A melody or a sequence of musical notes",
+      "a": "TUNE"
+    },
+    {
+      "q": "A tall plant that produces yellow grains on a large ear",
+      "a": "CORN"
+    },
+    {
+      "q": "A group of people who judge a court case",
+      "a": "JURY"
+    },
+    {
+      "q": "The part at the back of an animal's body that can move",
+      "a": "TAIL"
+    },
+    {
+      "q": "An area of short mown grass in a yard or park",
+      "a": "LAWN"
+    },
+    {
+      "q": "A liquid dish made by boiling meat or vegetables in stock",
+      "a": "SOUP"
+    },
+    {
+      "q": "A unit of data in a computer, usually equal to eight bits",
+      "a": "BYTE"
+    },
+    {
+      "q": "The part of the face used for smelling and breathing",
+      "a": "NOSE"
+    },
+    {
+      "q": "To leave a job or to stop doing an activity",
+      "a": "QUIT"
+    },
+    {
+      "q": "Either of the two organs in the chest used for breathing",
+      "a": "LUNG"
+    },
+    {
+      "q": "An uncastrated male bovine animal",
+      "a": "BULL"
+    },
+    {
+      "q": "A building or place where goods are bought and sold",
+      "a": "MART"
+    },
+    {
+      "q": "A story, especially one that might be legendary",
+      "a": "TALE"
+    },
+    {
+      "q": "A small, flat, round piece of metal used as money",
+      "a": "COIN"
+    },
+    {
+      "q": "Not genuine; not what it claims to be",
+      "a": "FAKE"
+    },
+    {
+      "q": "A substance or treatment that ends a disease or ailment",
+      "a": "CURE"
+    },
+    {
+      "q": "A curved symmetrical structure spanning an opening",
+      "a": "ARCH"
+    },
+    {
+      "q": "A container filled with explosive material",
+      "a": "BOMB"
+    },
+    {
+      "q": "Physical injury or damage that is caused on purpose",
+      "a": "HARM"
+    },
+    {
+      "q": "A hoofed grazing animal with antlers in the male",
+      "a": "DEER"
+    },
+    {
+      "q": "An enclosed compartment used for heating or baking food",
+      "a": "OVEN"
+    },
+    {
+      "q": "Twelve o'clock in the middle of the day",
+      "a": "NOON"
+    },
+    {
+      "q": "A professional cook, typically the chief cook in a restaurant",
+      "a": "CHEF"
+    },
+    {
+      "q": "A small island",
+      "a": "ISLE"
+    },
+    {
+      "q": "Gracefully thin or slender",
+      "a": "SLIM"
+    },
+    {
+      "q": "To bend something over so that one part covers another",
+      "a": "FOLD"
+    },
+    {
+      "q": "A long, slender piece of wood or metal used for support",
+      "a": "POLE"
+    },
+    {
+      "q": "A prefix meaning very large or huge",
+      "a": "MEGA"
+    },
+    {
+      "q": "To shape into a curve or angle",
+      "a": "BEND"
+    },
+    {
+      "q": "The two fleshy parts which form the upper and lower edges of the mouth",
+      "a": "LIPS"
+    },
+    {
+      "q": "A small body of still water formed naturally or by hollowing",
+      "a": "POND"
+    },
+    {
+      "q": "A rubber covering, typically inflated, placed around a wheel",
+      "a": "TIRE"
+    },
+    {
+      "q": "To pull something along forcefully, roughly, or with difficulty",
+      "a": "DRAG"
+    },
+    {
+      "q": "Fully grown and developed fruit, ready to be eaten",
+      "a": "RIPE"
+    },
+    {
+      "q": "To depend on with full trust or confidence",
+      "a": "RELY"
+    },
+    {
+      "q": "Small hard fruits with a very hard shell",
+      "a": "NUTS"
+    },
+    {
+      "q": "A small metal spike with a flat head driven into wood",
+      "a": "NAIL"
+    },
+    {
+      "q": "The full extent of something from end to end",
+      "a": "SPAN"
+    },
+    {
+      "q": "A thing that someone says to cause amusement or laughter",
+      "a": "JOKE"
+    },
+    {
+      "q": "Small pieces of stiff material used to protect or cushion something",
+      "a": "PADS"
+    },
+    {
+      "q": "Small establishments providing food and lodging for travelers",
+      "a": "INNS"
+    },
+    {
+      "q": "Small bowl-shaped containers used for drinking",
+      "a": "CUPS"
+    },
+    {
+      "q": "A mass of small bubbles formed on real liquids by agitation",
+      "a": "FOAM"
+    },
+    {
+      "q": "A piece of writing that partakes of the nature of both speech and song",
+      "a": "POEM"
+    },
+    {
+      "q": "The edible seed of a climbing plant",
+      "a": "BEAN"
+    },
+    {
+      "q": "Prejudice in favor of or against one thing, person, or group",
+      "a": "BIAS"
+    },
+    {
+      "q": "To propel oneself through water using the limbs",
+      "a": "SWIM"
+    },
+    {
+      "q": "Producing a great deal of noise",
+      "a": "LOUD"
+    },
+    {
+      "q": "To address a solemn request or expression of thanks to a deity",
+      "a": "PRAY"
+    },
+    {
+      "q": "The Bishop of Rome as head of the Roman Catholic Church",
+      "a": "POPE"
+    },
+    {
+      "q": "Not clothed or covered; naked",
+      "a": "BARE"
+    },
+    {
+      "q": "A thin rectangular slab of baked clay or stone used for covering roofs or floors",
+      "a": "TILE"
+    },
+    {
+      "q": "The joint between the upper and lower parts of the human leg",
+      "a": "KNEE"
+    },
+    {
+      "q": "A waterbird with a broad blunt bill and webbed feet",
+      "a": "DUCK"
+    },
+    {
+      "q": "To plunge headfirst into water",
+      "a": "DIVE"
+    },
+    {
+      "q": "A sudden attack or invasion on an enemy or a place",
+      "a": "RAID"
+    },
+    {
+      "q": "The SI unit of electromotive force",
+      "a": "VOLT"
+    },
+    {
+      "q": "A substance such as mud or dust that soils someone or something",
+      "a": "DIRT"
+    },
+    {
+      "q": "A person who is knowledgeable and enthusiastic about a specific subject",
+      "a": "GEEK"
+    },
+    {
+      "q": "A fixed basin with a water supply and a drain",
+      "a": "SINK"
+    },
+    {
+      "q": "A firm hold or a tight grasp",
+      "a": "GRIP"
+    },
+    {
+      "q": "The SI unit of power, equivalent to one joule per second",
+      "a": "WATT"
+    },
+    {
+      "q": "A game in which a heavy ball is rolled down a lane to knock down objects",
+      "a": "POLO"
+    },
+    {
+      "q": "A hard permanent outgrowth on the head of certain mammals",
+      "a": "HORN"
+    },
+    {
+      "q": "A tailless amphibian with a short stout body and long hind legs",
+      "a": "FROG"
+    },
+    {
+      "q": "The official records of events or the part of a trunk of a tree that has fallen",
+      "a": "LOGS"
+    },
+    {
+      "q": "To break or cause to break suddenly with a sharp cracking sound",
+      "a": "SNAP"
+    },
+    {
+      "q": "An act of exchanging one thing for another",
+      "a": "SWAP"
+    },
+    {
+      "q": "To turn over with a quick movement",
+      "a": "FLIP"
+    },
+    {
+      "q": "A low, continuous humming sound",
+      "a": "BUZZ"
+    },
+    {
+      "q": "A loud, deep, resonant sound",
+      "a": "BOOM"
+    },
+    {
+      "q": "Not showing or feeling nervousness, anger, or other strong emotions",
+      "a": "CALM"
+    },
+    {
+      "q": "An implement with two or more prongs used for lifting food to the mouth",
+      "a": "FORK"
+    },
+    {
+      "q": "A flat shallow container with a raised rim, typically used for carrying food",
+      "a": "TRAY"
+    },
+    {
+      "q": "An aromatic plant with grayish-green leaves used as a culinary herb",
+      "a": "SAGE"
+    },
+    {
+      "q": "A large underground chamber, typically of natural origin",
+      "a": "CAVE"
+    },
+    {
+      "q": "The fine soft curly or wavy hair forming the coat of a sheep",
+      "a": "WOOL"
+    },
+    {
+      "q": "To grasp or seize suddenly and roughly",
+      "a": "GRAB"
+    },
+    {
+      "q": "Used to express dismay or apology when a mistake is made",
+      "a": "OOPS"
+    },
+    {
+      "q": "A device or enclosure designed of catching and retaining animals",
+      "a": "TRAP"
+    },
+    {
+      "q": "A person who acts unwisely or imprudently",
+      "a": "FOOL"
+    },
+    {
+      "q": "A place for the confinement of people accused or convicted of a crime",
+      "a": "JAIL"
+    },
+    {
+      "q": "A fine open fabric of cotton or silk made by looping or twisting threads",
+      "a": "LACE"
+    },
+    {
+      "q": "Unpleasant or repulsive in appearance",
+      "a": "UGLY"
+    },
+    {
+      "q": "A number of people or things in a more or less straight line",
+      "a": "ROWS"
+    },
+    {
+      "q": "The organs of hearing in humans and animals",
+      "a": "EARS"
+    },
+    {
+      "q": "A person's hand when the fingers are bent in toward the palm",
+      "a": "FIST"
+    },
+    {
+      "q": "Used to emphasize how small or insignificant someone or something is",
+      "a": "MERE"
+    },
+    {
+      "q": "Arguments or considerations against something",
+      "a": "CONS"
+    },
+    {
+      "q": "A car licensed to transport passengers in return for payment",
+      "a": "TAXI"
+    },
+    {
+      "q": "Damaged or shabby as a result of much use",
+      "a": "WORN"
+    },
+    {
+      "q": "A group of three related people or things",
+      "a": "TRIO"
+    },
+    {
+      "q": "A symmetrical three-dimensional shape, either solid or hollow",
+      "a": "CUBE"
+    },
+    {
+      "q": "Floor coverings of thick woven fabric",
+      "a": "RUGS"
+    },
+    {
+      "q": "The development of events beyond a person's control",
+      "a": "FATE"
+    },
+    {
+      "q": "Having a rounded and slightly elongated outline or shape like an egg",
+      "a": "OVAL"
+    },
+    {
+      "q": "A facility allowing computers or smartphones to connect to the internet",
+      "a": "WIFI"
+    },
+    {
+      "q": "A level or grade within a hierarchy",
+      "a": "TIER"
+    },
+    {
+      "q": "A nobleman of high rank",
+      "a": "EARL"
+    },
+    {
+      "q": "To refer to as being evidence of a justification of an argument",
+      "a": "CITE"
+    },
+    {
+      "q": "A dirty or untidy state of things or of a place",
+      "a": "MESS"
+    },
+    {
+      "q": "A length of thick strong cord made by twisting together strands",
+      "a": "ROPE"
+    },
+    {
+      "q": "A site for depositing garbage",
+      "a": "DUMP"
+    },
+    {
+      "q": "A flexible tube used for conveying water",
+      "a": "HOSE"
+    },
+    {
+      "q": "Establishments where beer and other alcoholic drinks are served",
+      "a": "PUBS"
+    },
+    {
+      "q": "Not severe, serious, or harsh",
+      "a": "MILD"
+    },
+    {
+      "q": "A group of close-knit and interrelated families",
+      "a": "CLAN"
+    },
+    {
+      "q": "The main body of a ship or boat",
+      "a": "HULL"
+    },
+    {
+      "q": "A simple roofed structure used as a storage space or shelter",
+      "a": "SHED"
+    },
+    {
+      "q": "A written message in business or diplomacy",
+      "a": "MEMO"
+    },
+    {
+      "q": "The alternate rising and falling of the sea",
+      "a": "TIDE"
+    },
+    {
+      "q": "A style of music with a strong rhythm",
+      "a": "FUNK"
+    },
+    {
+      "q": "A cylinder on which film, wire, or thread is wound",
+      "a": "REEL"
+    },
+    {
+      "q": "To tie or fasten something tightly",
+      "a": "BIND"
+    },
+    {
+      "q": "The male of some animals, such as deer and rabbits",
+      "a": "BUCK"
+    },
+    {
+      "q": "A unit of land area equal to 4,840 square yards",
+      "a": "ACRE"
+    },
+    {
+      "q": "A light blue-green color",
+      "a": "AQUA"
+    },
+    {
+      "q": "A destructive insect or other animal that attacks crops or livestock",
+      "a": "PEST"
+    },
+    {
+      "q": "A ridge of jagged rock or coral just above or below the surface of the sea",
+      "a": "REEF"
+    },
+    {
+      "q": "A long upholstered seat with a back and arms for two or more people",
+      "a": "SOFA"
+    },
+    {
+      "q": "A portable shelter made of cloth supported by poles",
+      "a": "TENT"
+    },
+    {
+      "q": "To gain unauthorized access to data in a system or computer",
+      "a": "HACK"
+    },
+    {
+      "q": "To have the courage to do something",
+      "a": "DARE"
+    },
+    {
+      "q": "A diurnal bird of prey with broad rounded wings and a long tail",
+      "a": "HAWK"
+    },
+    {
+      "q": "A young sheep",
+      "a": "LAMB"
+    },
+    {
+      "q": "Old or discarded articles that are considered useless or of little value",
+      "a": "JUNK"
+    },
+    {
+      "q": "A person who writes poems",
+      "a": "POET"
+    },
+    {
+      "q": "A long poem narrating the deeds and adventures of heroic figures",
+      "a": "EPIC"
+    },
+    {
+      "q": "A Japanese alcoholic drink made from fermented rice",
+      "a": "SAKE"
+    },
+    {
+      "q": "The French a for without",
+      "a": "SANS"
+    },
+    {
+      "q": "To be in or move into a sloping position",
+      "a": "LEAN"
+    },
+    {
+      "q": "A man; a fellow",
+      "a": "DUDE"
+    },
+    {
+      "q": "A system of religious veneration and devotion directed toward a particular figure",
+      "a": "CULT"
+    },
+    {
+      "q": "To run or travel somewhere in a great hurry",
+      "a": "DASH"
+    },
+    {
+      "q": "A structure of bars or wires in which birds or animals are confined",
+      "a": "CAGE"
+    },
+    {
+      "q": "Violent uncontrollable anger",
+      "a": "RAGE"
     }
   ],
   "5": [
     {
-      "word": "APPLE",
-      "question": "The round fruit of a tree of the rose family, which typically has thin red or green skin?",
+      "a": "APPLE",
+      "q": "The round fruit of a tree of the rose family, which typically has thin red or green skin?",
       "level": 2
     },
     {
-      "word": "BREAD",
-      "question": "Food made of flour, water, and yeast or another leavening agent, mixed together and baked?",
+      "a": "BREAD",
+      "q": "Food made of flour, water, and yeast or another leavening agent, mixed together and baked?",
       "level": 2
     },
     {
-      "word": "CHAIR",
-      "question": "A separate seat for one person, typically with a back and four legs?",
+      "a": "CHAIR",
+      "q": "A separate seat for one person, typically with a back and four legs?",
       "level": 2
     },
     {
-      "word": "DANCE",
-      "question": "Move rhythmically to music, typically following a set sequence of steps?",
+      "a": "DANCE",
+      "q": "Move rhythmically to music, typically following a set sequence of steps?",
       "level": 2
     },
     {
-      "word": "EARTH",
-      "question": "The planet on which we live; the world?",
+      "a": "EARTH",
+      "q": "The planet on which we live; the world?",
       "level": 2
     }
   ],
   "6": [
     {
-      "word": "ANIMAL",
-      "question": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system?",
+      "a": "ANIMAL",
+      "q": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system?",
       "level": 3
     },
     {
-      "word": "BOTTLE",
-      "question": "A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids?",
+      "a": "BOTTLE",
+      "q": "A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids?",
       "level": 3
     },
     {
-      "word": "CAMERA",
-      "question": "A device for recording visual images in the form of photographs, film, or video signals?",
+      "a": "CAMERA",
+      "q": "A device for recording visual images in the form of photographs, film, or video signals?",
       "level": 3
     },
     {
-      "word": "DOCTOR",
-      "question": "A qualified practitioner of medicine; a physician?",
+      "a": "DOCTOR",
+      "q": "A qualified practitioner of medicine; a physician?",
       "level": 3
     },
     {
-      "word": "FAMILY",
-      "question": "A group of one or more parents and their children living together as a unit?",
+      "a": "FAMILY",
+      "q": "A group of one or more parents and their children living together as a unit?",
       "level": 3
     }
   ],
   "7": [
     {
-      "word": "AIRPORT",
-      "question": "A complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft, with facilities for passengers?",
+      "a": "AIRPORT",
+      "q": "A complex of runways and buildings for the take-off, landing, and maintenance of civil aircraft, with facilities for passengers?",
       "level": 4
     },
     {
-      "word": "BICYCLE",
-      "question": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals?",
+      "a": "BICYCLE",
+      "q": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals?",
       "level": 4
     },
     {
-      "word": "COUNTRY",
-      "question": "A nation with its own government, occupying a particular territory?",
+      "a": "COUNTRY",
+      "q": "A nation with its own government, occupying a particular territory?",
       "level": 4
     },
     {
-      "word": "DIAMOND",
-      "question": "A precious stone consisting of a clear and colorless crystalline form of pure carbon?",
+      "a": "DIAMOND",
+      "q": "A precious stone consisting of a clear and colorless crystalline form of pure carbon?",
       "level": 4
     },
     {
-      "word": "ELEPHANT",
-      "question": "A heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears? (8 letters)",
+      "a": "ELEPHANT",
+      "q": "A heavy plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears? (8 letters)",
       "level": 4
     }
   ]

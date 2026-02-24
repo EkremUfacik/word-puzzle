@@ -159,12 +159,12 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
       const q = getQuestion(lang, length, level);
       setCurrentQuestion(q);
 
-      const bank = generateLetterBank(q.word, lang);
+      const bank = generateLetterBank(q.a, lang);
 
       setLetterBank(bank);
       setDisabledBankIndices([]);
       setBombedIndices([]);
-      setUserAnswer(Array(q.word.length).fill({ char: '', index: -1 }));
+      setUserAnswer(Array(q.a.length).fill({ char: '', index: -1 }));
     },
     [i18n.language, successScale, successColor, level]
   );
@@ -179,7 +179,7 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
       setDisabledBankIndices((prev) => [...prev, bankIndex]);
 
       if (firstEmptyIndex === userAnswer.length - 1 && currentQuestion) {
-        checkAnswer(newAnswer, currentQuestion.word);
+        checkAnswer(newAnswer, currentQuestion.a);
       }
     }
   };
@@ -250,7 +250,7 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
     let distractorsFound = 0;
     const newDisabled = [...disabledBankIndices];
     const newBombed: number[] = [];
-    const neededLetters = currentQuestion.word.split('');
+    const neededLetters = currentQuestion.a.split('');
     userAnswer.forEach((slot) => {
       if (slot.char) {
         const idx = neededLetters.indexOf(slot.char);
@@ -286,7 +286,7 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
     setStreak(0); // Reset streak
 
     // Auto-fill the entire word
-    const targetWord = currentQuestion.word;
+    const targetWord = currentQuestion.a;
     const newAnswer = targetWord.split('').map((char) => ({ char, index: -1 }));
     setUserAnswer(newAnswer);
 
@@ -382,7 +382,7 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
               </View>
 
               <Text className="mb-8 text-2xl font-bold leading-8 tracking-tighter text-white">
-                {currentQuestion.question}
+                {currentQuestion.q}
               </Text>
 
               <View className="flex-row justify-end">
