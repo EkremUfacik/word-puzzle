@@ -25,17 +25,12 @@ export default function CareerPathScreen({ onSelectLevel, stats }: Props) {
   let currentProgress = totalWords;
   let goal = 500;
 
-  if (totalWords >= 1500) {
-    currentLevel = 4;
-    currentRankName = 'LEXICON LEGEND';
-    nextRankName = 'MAX RANK';
-    goal = 1500;
-  } else if (totalWords >= 1000) {
+  if (totalWords >= 1000) {
     currentLevel = 3;
     currentRankName = 'PUZZLE MASTER';
-    nextRankName = 'LEXICON LEGEND';
-    goal = 1500;
-    currentProgress = totalWords - 1000;
+    nextRankName = 'MAX RANK';
+    goal = 1000;
+    currentProgress = totalWords;
   } else if (totalWords >= 500) {
     currentLevel = 2;
     currentRankName = 'WORD SMITH';
@@ -50,10 +45,10 @@ export default function CareerPathScreen({ onSelectLevel, stats }: Props) {
     currentProgress = totalWords;
   }
 
-  const progressPercent = Math.min(
-    100,
-    (currentProgress / (goal - (currentLevel === 1 ? 0 : currentLevel === 2 ? 500 : 1000))) * 100
-  );
+  const progressPercent =
+    currentLevel >= 3
+      ? 100
+      : Math.min(100, (currentProgress / (goal - (currentLevel === 1 ? 0 : 500))) * 100);
 
   return (
     <SafeAreaView className="flex-1 bg-black">
@@ -82,23 +77,6 @@ export default function CareerPathScreen({ onSelectLevel, stats }: Props) {
         <View className="w-full flex-col-reverse px-6">
           {/* Top Most Spacer */}
           <View className="ml-[25px] h-10 border-l-2 border-slate-300/20" />
-
-          {/* Level 4: LEXICON LEGEND */}
-          <View className="relative flex-row opacity-40">
-            <View className="z-10 mr-6 flex-col items-center">
-              <View className="flex h-12 w-12 items-center justify-center rounded-full border-4 border-black bg-[#1a2e25]">
-                <MaterialIcons name="lock" size={20} color="#94a3b8" />
-              </View>
-            </View>
-            <View className="flex-1 justify-center pb-2">
-              <View className="rounded-xl border border-white/5 bg-[#1a2e25]/40 p-4">
-                <Text className="text-base font-bold text-slate-400">LEXICON LEGEND</Text>
-              </View>
-            </View>
-          </View>
-
-          {/* Connector Spacer */}
-          <View className="ml-[25px] h-12 border-l-2 border-slate-300/30" />
 
           {/* Level 3: PUZZLE MASTER */}
           <View className="relative flex-row opacity-60">

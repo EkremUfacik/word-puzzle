@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import './global.css';
 import { useState } from 'react';
+import { ActivityIndicator } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import PreGameScreen from './src/screens/PreGameScreen';
@@ -8,6 +9,7 @@ import CareerPathScreen from './src/screens/CareerPathScreen';
 import GameplayScreen from './src/screens/GameplayScreen';
 import GameOverScreen from './src/screens/GameOverScreen';
 import { TimeMode } from './src/utils/gameLogic';
+import { useWords } from './src/hooks/useWords';
 import './src/utils/i18n'; // Initialize i18n
 
 export type ScreenState = 'CAREER_PATH' | 'PRE_GAME' | 'GAMEPLAY' | 'GAME_OVER';
@@ -20,6 +22,7 @@ export interface GameStats {
 }
 
 export default function App() {
+  const isWordsReady = useWords();
   const [currentScreen, setCurrentScreen] = useState<ScreenState>('CAREER_PATH');
   const [timeMode, setTimeMode] = useState<TimeMode>(60);
   const [currentLevel, setCurrentLevel] = useState<number>(1);
@@ -49,6 +52,17 @@ export default function App() {
     setCurrentLevel(level);
     setCurrentScreen('PRE_GAME');
   };
+
+  if (!isWordsReady) {
+    return (
+      <SafeAreaProvider>
+        <SafeAreaView className="flex-1 items-center justify-center bg-[#0a0a0a]">
+          <StatusBar style="light" />
+          <ActivityIndicator size="large" color="#ffffff" />
+        </SafeAreaView>
+      </SafeAreaProvider>
+    );
+  }
 
   return (
     <SafeAreaProvider>

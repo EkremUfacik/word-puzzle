@@ -1,10 +1,14 @@
 import wordsTr from '../data/words_tr.json';
 import wordsEn from '../data/words_en.json';
 
-const wordData = {
+let wordData: any = {
   tr: wordsTr,
   en: wordsEn,
 };
+
+export function setWordData(data: any) {
+  wordData = data;
+}
 
 export type TimeMode = 30 | 60 | 120 | 300; // in seconds
 

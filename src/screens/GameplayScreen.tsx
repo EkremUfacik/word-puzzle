@@ -238,7 +238,11 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
       }, 600);
     } else {
       setStreak(0);
-      setDisabledBankIndices([]);
+
+      // Sadece cevap kutularındaki harfleri disabled listesinden çıkaralım, bombalananlar kapalı kalsın
+      const currentSelectedIndices = answerSlots.map((s) => s.index).filter((idx) => idx !== -1);
+      setDisabledBankIndices((prev) => prev.filter((idx) => !currentSelectedIndices.includes(idx)));
+
       setUserAnswer(Array(targetWord.length).fill({ char: '', index: -1 }));
     }
   };
@@ -247,32 +251,43 @@ export default function GameplayScreen({ timeMode, level, onGameOver, onQuit }: 
     if (!currentQuestion) return;
     setTimeLeft((prev) => Math.max(prev - 2, 0));
 
+    // 1. Kullanıcının önceden seçtiği harfleri bul ve disabled listesinden çıkart.
+    const userSelectedIndices = userAnswer.map((slot) => slot.index).filter((idx) => idx !== -1);
+    const previouslyBombed = disabledBankIndices.filter(
+      (idx) => !userSelectedIndices.includes(idx)
+    );
+
+    // 2. Kullanıcının girdiği harfleri sıfırla
+    setUserAnswer(Array(currentQuestion.a.length).fill({ char: '', index: -1 }));
+
     let distractorsFound = 0;
-    const newDisabled = [...disabledBankIndices];
-    const newBombed: number[] = [];
+    // 2. Sadece önceden bombalanmış olanları kapalı tutuyoruz, kullanıcının seçtiklerini geri açıyoruz
+    const newDisabled = [...previouslyBombed];
+    const freshlyBombed: number[] = [];
     const neededLetters = currentQuestion.a.split('');
-    userAnswer.forEach((slot) => {
-      if (slot.char) {
-        const idx = neededLetters.indexOf(slot.char);
-        if (idx !== -1) neededLetters.splice(idx, 1);
-      }
-    });
 
     for (let i = 0; i < letterBank.length && distractorsFound < 5; i++) {
+      // Eğer zaten kapalıysa (önceden bombalanmışsa vs.), atla
       if (!newDisabled.includes(i)) {
         const char = letterBank[i];
         const neededIdx = neededLetters.indexOf(char);
         if (neededIdx === -1) {
           newDisabled.push(i);
-          newBombed.push(i);
+          freshlyBombed.push(i);
           distractorsFound++;
         } else {
           neededLetters.splice(neededIdx, 1);
         }
       }
     }
+
     setDisabledBankIndices(newDisabled);
-    setBombedIndices(newBombed);
+    // Sadece yeni bombalananlar animasyon izine girsin:
+    setBombedIndices(freshlyBombed);
+
+    // Animasyon tamamlanınca genel bombed stesine atılabilir ama `isBombed` propu LetterTile'da
+    // sade animasyon için kullanılıyorsa, freshlyBombed olarak kalması animasyonun sadece onlarda
+    // çalışmasını sağlar.
 
     // Trigger bomb animation
     bombAnim.value = withSequence(

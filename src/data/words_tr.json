@@ -178,7 +178,7 @@
     {
       "q": "Süs eşyası yapımında kullanılan değerli ve renkli bir taş.",
       "a": "AKİK",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Işığın veya sesin bir yere çarpıp geri dönmesi, yansıma.",
@@ -243,7 +243,7 @@
     {
       "q": "Gülgillerden, meyvesi yenen dikenli bir ağaç türü.",
       "a": "ALIÇ",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Anlama yeteneği kıt, sersemlemiş kimse.",
@@ -393,7 +393,7 @@
     {
       "q": "Keman ve çello gibi yaylı çalgıları çalmaya yarayan çubuk.",
       "a": "ARŞE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Matematikte toplama işleminde kullanılan işaretin adı.",
@@ -403,7 +403,7 @@
     {
       "q": "Operada sanatçıların solo olarak söylediği şarkı.",
       "a": "ARYA",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bir şeyi yapma isteği, güçlü dilek.",
@@ -899,7 +899,7 @@
     {
       "q": "Öpücük kelimesinin edebi dildeki karşılığı.",
       "a": "BUSE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Yiyecek, içecek veya gazete satılan küçük dükkan.",
@@ -1244,7 +1244,7 @@
     {
       "q": "Bir sonuca varmak için elde bulunan bilgi veya veri.",
       "a": "DONE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Sarı ve altın tonlarındaki renk.",
@@ -1254,7 +1254,7 @@
     {
       "q": "Gövdesi kızıl, yelesi siyah olan at rengi.",
       "a": "DORU",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Sevilen, güvenilen ve çok yakın olan arkadaş.",
@@ -1329,7 +1329,7 @@
     {
       "q": "Edebiyatla uğraşan, edebi eserler kaleme alan yazar.",
       "a": "EDİP",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bir işi başarmak için harcanan fiziksel veya zihinsel güç.",
@@ -1414,7 +1414,7 @@
     {
       "q": "Ulaşılmak istenen sonuç, amaç, gaye.",
       "a": "EREK",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Manevi bir mertebeye ulaştığına inanılan kimse, ermiş.",
@@ -1604,7 +1604,7 @@
     {
       "q": "Gök boşluğu, uzay.",
       "a": "FEZA",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Şarap veya turşu koymaya yarayan tahta kap.",
@@ -1684,7 +1684,7 @@
     {
       "q": "Dört ana yönden biri, gün batısı.",
       "a": "GARP",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bir şeyi zorla ele geçirme, yağmalama.",
@@ -2054,12 +2054,12 @@
     {
       "q": "Hızdaki değişim oranı.",
       "a": "İVME",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Eksikliği guatr yapan bir kimyasal element.",
       "a": "İYOT",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Açıklama.",
@@ -3294,7 +3294,7 @@
     {
       "q": "Kısa vadeli bir borçlanma aracı türü",
       "a": "REPO",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Poker gibi oyunlarda elindeki her şeyi ortaya koyma",
@@ -3344,7 +3344,7 @@
     {
       "q": "Hindistan ve Pakistan'ın resmi para birimi",
       "a": "RUPİ",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Uyku sırasında zihinde beliren hayaller ve olaylar",
@@ -3352,24 +3352,9 @@
       "level": 1
     },
     {
-      "q": "Zamanı ölçmeye yarayan araç",
+      "q": "Zamanı ölçmeye yarayan, kola takılan veya duvara asılan araç.",
       "a": "SAAT",
       "level": 1
-    },
-    {
-      "q": "Karışık olmayan, süssüz ve yalın",
-      "a": "SADE",
-      "level": 1
-    },
-    {
-      "q": "Bir oyunun veya sporun yapıldığı alan",
-      "a": "SAHA",
-      "level": 1
-    },
-    {
-      "q": "Bir şeyin gerçekliği, yalan olmayışı",
-      "a": "SAHİ",
-      "level": 2
     },
     {
       "q": "Doğada ötüşüyle bilinen küçük bir kuş",
@@ -3377,570 +3362,434 @@
       "level": 3
     },
     {
-      "q": "Haftanın pazartesiden sonra gelen günü",
-      "a": "SALI",
-      "level": 1
-    },
-    {
-      "q": "Limon veya altın rengi",
-      "a": "SARI",
-      "level": 1
-    },
-    {
-      "q": "Çıkılması zor, dik ve uçurumlu yer",
-      "a": "SARP",
+      "q": "İçinde hiçbir karışım olmayan, yalın, süssüz.",
+      "a": "SADE",
       "level": 2
     },
+    { "q": "Güneş'in ve limonun rengi.", "a": "SARI", "level": 1 },
+    { "q": "Haftanın pazartesiden sonra gelen günü.", "a": "SALI", "level": 1 },
     {
-      "q": "Üretilen bir malın para karşılığı el değiştirmesi",
-      "a": "SATI",
-      "level": 3
+      "q": "Yolun ana güzergahından ayrılan küçük yol.",
+      "a": "SAPA",
+      "level": 2
     },
+    { "q": "Çıkılması güç, dik ve yalçın yer.", "a": "SARP", "level": 2 },
     {
-      "q": "Birinin koruması altında olma, yardım",
-      "a": "SAYE",
-      "level": 3
-    },
-    {
-      "q": "Çokluğu belirtmek için kullanılan matematiksel birim",
+      "q": "Matematikte bir miktarı belirtmek için kullanılan birim.",
       "a": "SAYI",
       "level": 1
     },
+    { "q": "Kulağın duyabildiği titreşim, ses.", "a": "SEDA", "level": 2 },
+    { "q": "Gönül rahatlığı, eğlence, neşe.", "a": "SEFA", "level": 2 },
     {
-      "q": "Ses, yankı veya tını",
-      "a": "SEDA",
-      "level": 2
-    },
-    {
-      "q": "Gönül rahatlığı, eğlence ve neşe",
-      "a": "SEFA",
-      "level": 2
-    },
-    {
-      "q": "Cenaze duyurusu için camilerde okunan dini metin",
-      "a": "SELA",
-      "level": 2
-    },
-    {
-      "q": "Bisikletin veya motosikletin oturma yeri",
-      "a": "SELE",
-      "level": 2
-    },
-    {
-      "q": "Gökyüzü veya feza",
+      "q": "Gökyüzü veya Mevlevi dervişlerinin yaptığı ayin.",
       "a": "SEMA",
       "level": 2
     },
     {
-      "q": "Şehrin belirli bir bölümü, mahalleler topluluğu",
+      "q": "Bir şehrin bölümlerinden her biri, mahalle.",
       "a": "SEMT",
       "level": 1
     },
     {
-      "q": "Takvimde 365 gün süren zaman dilimi",
+      "q": "Dünyanın güneş etrafında bir kez dönmesiyle geçen süre.",
       "a": "SENE",
       "level": 1
     },
     {
-      "q": "Bitkilerin yetiştirilmesi için camla kaplı kapalı alan",
+      "q": "Bitkileri soğuktan korumak için yapılan cam veya plastik ev.",
       "a": "SERA",
       "level": 1
     },
     {
-      "q": "Birbirini takip eden, hızlı ve ardışık olan",
+      "q": "Hızlı, çabuk veya arka arkaya gelen şeyler.",
       "a": "SERİ",
-      "level": 1
-    },
-    {
-      "q": "Kolayca bükülmeyen, yumuşak olmayan",
-      "a": "SERT",
-      "level": 1
-    },
-    {
-      "q": "Bir şeyi önceden hissetme, sezgi",
-      "a": "SEZİ",
       "level": 2
     },
+    { "q": "Yumuşak olmayan, katı.", "a": "SERT", "level": 1 },
+    { "q": "Doğruluk, dürüstlük ve içten bağlılık.", "a": "SIDK", "level": 3 },
+    { "q": "Gevşek olmayan, dar veya gergin.", "a": "SIKI", "level": 1 },
+    { "q": "Ayrı düşülen yere veya yakınlara kavuşma.", "a": "SILA", "level": 2 },
+    { "q": "Eşek yavrusu.", "a": "SIPA", "level": 1 },
+    { "q": "Okullarda öğrencilerin oturduğu mobilya.", "a": "SIRA", "level": 1 },
     {
-      "q": "Gevşek olmayan, gergin ve dar",
-      "a": "SIKI",
-      "level": 1
-    },
-    {
-      "q": "Memleket özlemi veya doğduğu yere kavuşma",
-      "a": "SILA",
-      "level": 2
-    },
-    {
-      "q": "Yüz hatları veya çehre",
-      "a": "SİMA",
-      "level": 2
-    },
-    {
-      "q": "Eşek yavrusu",
-      "a": "SIPA",
-      "level": 1
-    },
-    {
-      "q": "Nesnelerin yan yana veya art arda dizilmesi",
-      "a": "SIRA",
-      "level": 1
-    },
-    {
-      "q": "Gövdenin arka bölümü",
+      "q": "Vücudumuzun arka kısmı, bel ile omuz arası.",
       "a": "SIRT",
       "level": 1
     },
     {
-      "q": "Duvarları kaplamak için kullanılan harç",
+      "q": "Duvarlara sürülen kireçli veya çimentolu karışım.",
       "a": "SIVA",
       "level": 1
     },
     {
-      "q": "Akışkan olan, gaz veya katı olmayan madde",
+      "q": "Su gibi akışkan olan maddelerin genel adı.",
       "a": "SIVI",
       "level": 1
     },
+    { "q": "Vücutta hissedilen hafif ve ince ağrı.", "a": "SIZI", "level": 1 },
+    { "q": "Yüz hatları, çehre.", "a": "SİMA", "level": 2 },
     {
-      "q": "Hafif ama sürekli olan ağrı",
-      "a": "SIZI",
-      "level": 2
-    },
-    {
-      "q": "Tahıl saklanan büyük depo",
-      "a": "SİLO",
-      "level": 4
-    },
-    {
-      "q": "Göğüs, kucak veya gönül",
-      "a": "SİNE",
-      "level": 3
-    },
-    {
-      "q": "Sofra kurmaya yarayan büyük, yuvarlak metal tepsi",
-      "a": "SİNİ",
-      "level": 3
-    },
-    {
-      "q": "Cambazların ve hayvanların gösteri yaptığı büyük çadır",
+      "q": "Eğlence amaçlı kurulan, hayvanların ve cambazların olduğu yer.",
       "a": "SİRK",
       "level": 1
     },
     {
-      "q": "Çok konutlu ve güvenliği olan yerleşim alanı",
+      "q": "İnternet üzerindeki sanal adres veya konut alanı.",
       "a": "SİTE",
       "level": 1
     },
+    { "q": "Bir maçın sayısal sonucu.", "a": "SKOR", "level": 1 },
     {
-      "q": "Güldürü amacı taşıyan kısa tiyatro oyunu",
-      "a": "SKEÇ",
-      "level": 2
-    },
-    {
-      "q": "Bir maçta elde edilen sayısal sonuç",
-      "a": "SKOR",
-      "level": 1
-    },
-    {
-      "q": "Voleybolda topa sertçe vurarak rakip alana gönderme",
+      "q": "Voleybolda topu sertçe rakip sahaya vurma.",
       "a": "SMAÇ",
       "level": 2
     },
     {
-      "q": "Isınmak için içinde yakıt yakılan araç",
+      "q": "Odun veya kömür yakarak ısınmamızı sağlayan araç.",
       "a": "SOBA",
       "level": 1
     },
+    { "q": "Gazlı, ferahlatıcı, renksiz içecek.", "a": "SODA", "level": 1 },
     {
-      "q": "Saklambaç oyununda ebeyi yakalayınca söylenen söz",
-      "a": "SOBE",
-      "level": 1
-    },
-    {
-      "q": "Mideyi rahatlatmak için içilen gazlı içecek",
-      "a": "SODA",
-      "level": 1
-    },
-    {
-      "q": "Giriş kısmındaki geniş salon veya hol",
-      "a": "SOFA",
-      "level": 4
-    },
-    {
-      "q": "Dini kurallara çok bağlı olan kimse",
+      "q": "Dinine çok bağlı, ibadetlerini aksatmayan kimse.",
       "a": "SOFU",
       "level": 3
     },
+    { "q": "Müzikte tek bir kişinin yaptığı gösteri.", "a": "SOLO", "level": 1 },
+    { "q": "On dört dizelik bir şiir türü.", "a": "SONE", "level": 3 },
+    { "q": "Vurmaya yarayan kalın dal veya değnek.", "a": "SOPA", "level": 1 },
+    { "q": "Bir cevabı olan, öğrenilmek istenen şey.", "a": "SORU", "level": 1 },
     {
-      "q": "Bir kişinin tek başına yaptığı müzik performansı",
-      "a": "SOLO",
-      "level": 1
-    },
-    {
-      "q": "Dörtlüklerden oluşan bir şiir türü",
-      "a": "SONE",
-      "level": 4
-    },
-    {
-      "q": "Vurmak için kullanılan kalın değnek",
-      "a": "SOPA",
-      "level": 1
-    },
-    {
-      "q": "Bir şeyi öğrenmek için yöneltilen söz",
-      "a": "SORU",
-      "level": 1
-    },
-    {
-      "q": "Yemekte etin az yağda hızlıca pişirilmesi",
+      "q": "Tenha veya gizli yer; bir yemek pişirme tekniği.",
       "a": "SOTE",
       "level": 2
     },
     {
-      "q": "Yağı ve proteini bol olan fasulye türü bitki",
-      "a": "SOYA",
-      "level": 2
-    },
-    {
-      "q": "Dalgalar üzerinde tahta ile yapılan spor",
-      "a": "SÖRF",
-      "level": 1
-    },
-    {
-      "q": "Kapı ve pencerelerin yerleştiği ahşap çerçeve",
-      "a": "SÖVE",
-      "level": 4
-    },
-    {
-      "q": "Fiziksel güç gerektiren yarışmalı oyunların bütünü",
+      "q": "Vücut sağlığı için yapılan fiziksel hareketlerin bütünü.",
       "a": "SPOR",
       "level": 1
     },
     {
-      "q": "Anlık ihtiyaçlar için ayrılmış sınırlı yer veya ışık",
-      "a": "SPOT",
-      "level": 1
-    },
-    {
-      "q": "Öğrencilerin mesleki bilgi edinmek için yaptığı uygulama",
+      "q": "Bir işi öğrenmek için yapılan uygulama dönemi.",
       "a": "STAJ",
-      "level": 1
+      "level": 2
     },
+    { "q": "Herkesçe tanınan, çok ünlü kişi.", "a": "STAR", "level": 1 },
+    { "q": "Büyük maçların yapıldığı spor alanı.", "a": "STAT", "level": 1 },
     {
-      "q": "Çok ünlü ve başarılı sanatçı",
-      "a": "STAR",
-      "level": 1
-    },
-    {
-      "q": "Maçların yapıldığı büyük spor alanı",
-      "a": "STAT",
-      "level": 1
-    },
-    {
-      "q": "Bir kişinin kendine has giyim veya davranış tarzı",
+      "q": "Birinin kendine has giyim veya davranış biçimi.",
       "a": "STİL",
-      "level": 1
-    },
-    {
-      "q": "Gelecekte kullanılmak üzere biriktirilen mal",
-      "a": "STOK",
-      "level": 1
-    },
-    {
-      "q": "Rulo yapılarak açılan perde türü",
-      "a": "STOR",
-      "level": 1
-    },
-    {
-      "q": "Soru veya sorgulama",
-      "a": "SUAL",
-      "level": 3
-    },
-    {
-      "q": "Evlere içme suyu taşıyan kişi",
-      "a": "SUCU",
-      "level": 1
-    },
-    {
-      "q": "Barış, uzlaşma ve huzur durumu",
-      "a": "SULH",
-      "level": 3
-    },
-    {
-      "q": "İçinde çok miktarda sıvı barındıran",
-      "a": "SULU",
-      "level": 1
-    },
-    {
-      "q": "Doğal olmayan, insan yapımı",
-      "a": "SUNİ",
       "level": 2
     },
+    { "q": "Satılmak üzere bekletilen mal birikimi.", "a": "STOK", "level": 2 },
+    { "q": "Soru kelimesinin eski dildeki karşılığı.", "a": "SUAL", "level": 3 },
+    { "q": "Barış ortamı, kavganın olmaması.", "a": "SULH", "level": 3 },
+    { "q": "İçinde bol miktarda su bulunan.", "a": "SULU", "level": 1 },
+    { "q": "Erkek ördek; çok güzel kadın.", "a": "SUNA", "level": 3 },
+    { "q": "Kur'an-ı Kerim'in bölümlerinden her biri.", "a": "SURE", "level": 2 },
     {
-      "q": "Bir konunun izleyicilere sunulması",
-      "a": "SUNU",
-      "level": 2
-    },
-    {
-      "q": "Kur'an-ı Kerim'in her bir bölümü",
-      "a": "SURE",
-      "level": 2
-    },
-    {
-      "q": "Pirinç ve çiğ balıkla yapılan Japon yemeği",
+      "q": "Çiğ balık ve pirinçle yapılan Japon yemeği.",
       "a": "SUŞİ",
       "level": 1
     },
     {
-      "q": "Mat ve yumuşak yüzeyli deri türü",
-      "a": "SÜET",
-      "level": 2
-    },
-    {
-      "q": "Bir işin tamamlanması için tanınan zaman dilimi",
+      "q": "Bir işin başından sonuna kadar geçen zaman.",
       "a": "SÜRE",
       "level": 1
     },
     {
-      "q": "Bir arada yaşayan hayvan topluluğu",
+      "q": "Koyun veya inek gibi hayvanlardan oluşan grup.",
       "a": "SÜRÜ",
       "level": 1
     },
+    { "q": "Şiir yazan sanatçı.", "a": "ŞAİR", "level": 2 },
     {
-      "q": "Şiir yazan sanatçı",
-      "a": "ŞAİR",
-      "level": 1
-    },
-    {
-      "q": "Güldürmek amacıyla yapılan hareket veya söz",
+      "q": "Güldürmek amacıyla yapılan hareket veya söz.",
       "a": "ŞAKA",
       "level": 1
     },
+    { "q": "Talih, şanslı olma durumu.", "a": "ŞANS", "level": 1 },
+    { "q": "Batarya veya pil doldurma işlemi.", "a": "ŞARJ", "level": 1 },
+    { "q": "Doğu yönü; güneşin doğduğu taraf.", "a": "ŞARK", "level": 3 },
     {
-      "q": "Talih veya uğur",
-      "a": "ŞANS",
+      "q": "Bir işin olması için gereken temel bağlayıcı kural.",
+      "a": "ŞART",
       "level": 1
     },
+    { "q": "Taşıtların ana iskeleti.", "a": "ŞASE", "level": 3 },
+    { "q": "Gözleri farklı yönlere bakan kimse.", "a": "ŞAŞI", "level": 1 },
     {
-      "q": "Pil veya akümülatörün doldurulması",
-      "a": "ŞARJ",
-      "level": 1
-    },
-    {
-      "q": "Büyük ve görkemli kale benzeri yapı",
+      "q": "Masallardaki büyük, görkemli ve korunaklı yapı.",
       "a": "ŞATO",
-      "level": 1
+      "level": 2
     },
+    { "q": "Bir konuyu özetleyen çizelge veya taslak.", "a": "ŞEMA", "level": 2 },
+    { "q": "Bir metni açıklama veya yorumlama yazısı.", "a": "ŞERH", "level": 3 },
+    { "q": "Bir işi yapma isteği, heyecan.", "a": "ŞEVK", "level": 3 },
+    { "q": "Dini bir topluluğun başı.", "a": "ŞEYH", "level": 2 },
+    { "q": "Henüz mayalanmamış üzüm suyu.", "a": "ŞIRA", "level": 2 },
+    { "q": "Hastalığın geçmesi, iyileşme.", "a": "ŞİFA", "level": 2 },
     {
-      "q": "Duyguların ölçülü ve kafiyeli anlatımı",
+      "q": "Duyguların mısralarla anlatıldığı edebi yazı.",
       "a": "ŞİİR",
       "level": 1
     },
     {
-      "q": "İçecek koymaya yarayan cam kap",
-      "a": "ŞİŞE",
-      "level": 1
+      "q": "Bir spor karşılaşmasında sonucu belirlemek için yapılan hile.",
+      "a": "ŞİKE",
+      "level": 2
     },
     {
-      "q": "Yazın giyilen kısa pantolon",
-      "a": "ŞORT",
-      "level": 1
+      "q": "İnce bir pamuklu kumaş türü; bir yerleşim yeri.",
+      "a": "ŞİLE",
+      "level": 2
     },
+    { "q": "Allah'a ortak koşma.", "a": "ŞİRK", "level": 3 },
+    { "q": "Sıvı koymaya yarayan dar ağızlı cam kap.", "a": "ŞİŞE", "level": 1 },
+    { "q": "Bir dilin bölgesel konuşma tarzı, ağız.", "a": "ŞİVE", "level": 2 },
     {
-      "q": "Bir kurumun alt birimi veya kolu",
+      "q": "Bir kurumun alt birimi, dükkanın diğer şubesi.",
       "a": "ŞUBE",
       "level": 1
     },
+    { "q": "Eski dilde yemek, yiyecek.", "a": "TAAM", "level": 3 },
     {
-      "q": "Yasaklanmış dokunulmaz kabul edilen şey",
-      "a": "TABU",
-      "level": 2
-    },
-    {
-      "q": "Hükümdarların oturduğu büyük koltuk",
+      "q": "Hükümdarların oturduğu büyük, süslü koltuk.",
       "a": "TAHT",
-      "level": 1
-    },
-    {
-      "q": "Süs eşyası veya mücevherat",
-      "a": "TAKI",
-      "level": 1
-    },
-    {
-      "q": "Zırhlı ve paletli savaş aracı",
-      "a": "TANK",
-      "level": 1
-    },
-    {
-      "q": "Bir mülkün kime ait olduğunu gösteren belge",
-      "a": "TAPU",
       "level": 2
     },
+    { "q": "Karadeniz'e özgü küçük balıkçı teknesi.", "a": "TAKA", "level": 2 },
+    { "q": "Süs eşyası, mücevher.", "a": "TAKI", "level": 1 },
+    { "q": "Bir bütünün parçalarından her biri; adet.", "a": "TANE", "level": 1 },
+    { "q": "Doktorun hastalığa koyduğu isim.", "a": "TANI", "level": 2 },
+    { "q": "Zırhlı ve paletli savaş aracı.", "a": "TANK", "level": 1 },
+    { "q": "Mülkiyet belgesi.", "a": "TAPU", "level": 2 },
     {
-      "q": "Yağda kızartma yapmaya yarayan saplı mutfak gereci",
+      "q": "Bir kimsenin kendine has davranışı, biçimi.",
+      "a": "TARZ",
+      "level": 1
+    },
+    { "q": "Kaygı, üzüntü, keder.", "a": "TASA", "level": 1 },
+    {
+      "q": "Yemek pişirmeye yarayan metal mutfak kabı.",
       "a": "TAVA",
       "level": 1
     },
     {
-      "q": "Bayat olmayan yeni çıkmış",
-      "a": "TAZE",
-      "level": 1
+      "q": "Işığın renklerine ayrılmasıyla oluşan görüntü; spektrum.",
+      "a": "TAYF",
+      "level": 3
     },
+    { "q": "Vücudu saran esnek pantolon.", "a": "TAYT", "level": 1 },
+    { "q": "Bayat olmayan, yeni çıkmış.", "a": "TAZE", "level": 1 },
+    { "q": "Hızlı koşan bir av köpeği türü.", "a": "TAZI", "level": 2 },
+    { "q": "Erkek keçi.", "a": "TEKE", "level": 2 },
     {
-      "q": "Bir sanat eserindeki ana konu",
+      "q": "Bir sanat eserinin veya konuşmanın ana konusu.",
       "a": "TEMA",
       "level": 2
     },
+    { "q": "Dağın en yüksek noktası.", "a": "TEPE", "level": 1 },
+    { "q": "Düz olmayan, karşıt yönlü.", "a": "TERS", "level": 1 },
     {
-      "q": "Dağın veya yüksek bir yerin en üst noktası",
-      "a": "TEPE",
-      "level": 1
-    },
-    {
-      "q": "Bilgiyi ölçmek için yapılan sınav",
+      "q": "Bilgiyi veya kaliteyi ölçmek için yapılan sınav.",
       "a": "TEST",
       "level": 1
     },
+    { "q": "Sesin niteliği, karakteri.", "a": "TINI", "level": 3 },
     {
-      "q": "Raylar üzerinde giden vagonlar dizisi",
+      "q": "Şişe ağzını kapatmaya yarayan mantar veya plastik parça.",
+      "a": "TIPA",
+      "level": 1
+    },
+    { "q": "Bulaşıcı ve ağır bir hastalık.", "a": "TİFO", "level": 3 },
+    { "q": "Karla karışık sert rüzgarlı fırtına.", "a": "TİPİ", "level": 2 },
+    { "q": "Kelime aralarına konulan kısa çizgi.", "a": "TİRE", "level": 2 },
+    { "q": "Birinin unvanı, etiketi.", "a": "TİTR", "level": 3 },
+    { "q": "Saçları tutturmaya yarayan araç.", "a": "TOKA", "level": 1 },
+    {
+      "q": "Ekmek arasına malzeme konularak basılan sıcak yiyecek.",
+      "a": "TOST",
+      "level": 1
+    },
+    { "q": "Gelenek, görenek, toplumsal kural.", "a": "TÖRE", "level": 2 },
+    {
+      "q": "Demir raylar üzerinde giden vagonlu taşıt.",
       "a": "TREN",
       "level": 1
     },
     {
-      "q": "Fiyatı düşük olan pahalı karşıtı",
+      "q": "Bir tür balık avlama yöntemi; internette kışkırtma yapan kimse.",
+      "a": "TROL",
+      "level": 2
+    },
+    {
+      "q": "Bakır ve kalay karışımıyla elde edilen sert metal.",
+      "a": "TUNÇ",
+      "level": 2
+    },
+    { "q": "Madeni paranın resimsiz yüzü.", "a": "TURA", "level": 1 },
+    {
+      "q": "Sert, acımtırak ve turuncu-kırmızı renkli sebze.",
+      "a": "TURP",
+      "level": 1
+    },
+    { "q": "Eski dilde hukuk veya adalet.", "a": "TÜRE", "level": 3 },
+    {
+      "q": "Bir yarışta veya sınavda verilen gizli ipucu.",
+      "a": "TÜYO",
+      "level": 2
+    },
+    {
+      "q": "Fiyatı yüksek olmayan, ucuzun zıttı olmayan şey.",
       "a": "UCUZ",
       "level": 1
     },
     {
-      "q": "Kanatlı ve motorlu hava taşıtı",
+      "q": "Havada uçan, yolcu taşıyan büyük hava taşıtı.",
       "a": "UÇAK",
       "level": 1
     },
+    { "q": "Dudak kenarında çıkan küçük yara.", "a": "UÇUK", "level": 2 },
     {
-      "q": "Yerle göğün birleştiği çizgi",
+      "q": "Gök ile yerin birleşmiş gibi göründüğü çizgi.",
       "a": "UFUK",
       "level": 2
     },
+    { "q": "İyi şans getirdiğine inanılan şey.", "a": "UĞUR", "level": 1 },
+    { "q": "Eski dilde mektup getiren haberci.", "a": "ULAK", "level": 3 },
     {
-      "q": "Şans getirdiğine inanılan iyilik",
-      "a": "UĞUR",
+      "q": "Aynı topraklar üzerinde yaşayan insan topluluğu, millet.",
+      "a": "ULUS",
       "level": 2
     },
+    { "q": "Yüce, yüksek, kutsal.", "a": "ULVİ", "level": 3 },
     {
-      "q": "Bir şeyin gerçekleşmesini bekleme duygusu",
+      "q": "Gerçekleşmesini istediğimiz güzel duygu.",
       "a": "UMUT",
+      "level": 1
+    },
+    { "q": "Bir işi en iyi yapan, deneyimli kişi.", "a": "USTA", "level": 1 },
+    { "q": "Yaramazlık yapmayan çocuk.", "a": "USLU", "level": 1 },
+    { "q": "Bir işin yapılma yolu, yöntem.", "a": "USUL", "level": 3 },
+    { "q": "Bir amaca ulaşma, zafer.", "a": "UTKU", "level": 2 },
+    {
+      "q": "Dünyanın etrafında dönen veya sinyal gönderen araç.",
+      "a": "UYDU",
       "level": 2
     },
+    { "q": "Gece dinlenmek için daldığımız durum.", "a": "UYKU", "level": 1 },
     {
-      "q": "Bir işte uzmanlaşmış olan kişi",
-      "a": "USTA",
-      "level": 1
+      "q": "İki kelime arasındaki ses benzerliği, kafiye.",
+      "a": "UYAK",
+      "level": 2
     },
+    { "q": "Yakın olmayan, mesafeli.", "a": "UZAK", "level": 1 },
+    { "q": "Dünyanın dışındaki sonsuz boşluk.", "a": "UZAY", "level": 1 },
+    { "q": "Kısa olmayan, boyu fazla olan.", "a": "UZUN", "level": 1 },
+    { "q": "Bir bütünün parçası, organ.", "a": "UZUV", "level": 3 },
     {
-      "q": "Zihnin ve bedenin dinlendiği doğal dinlenme hali",
-      "a": "UYKU",
-      "level": 1
-    },
-    {
-      "q": "Gök cisimlerinin içinde bulunduğu sonsuz boşluk",
-      "a": "UZAY",
-      "level": 1
-    },
-    {
-      "q": "Boyu veya mesafesi fazla olan",
-      "a": "UZUN",
-      "level": 1
-    },
-    {
-      "q": "Bir devletin egemenliği altındaki topraklar",
+      "q": "Sınırları belli olan toprak parçası, vatan.",
       "a": "ÜLKE",
       "level": 1
     },
+    { "q": "Yüce amaç, ideal.", "a": "ÜLKÜ", "level": 3 },
+    { "q": "Umut kelimesinin eş anlamlısı.", "a": "ÜMİT", "level": 1 },
+    { "q": "Herkes tarafından tanınan, meşhur.", "a": "ÜNLÜ", "level": 1 },
     {
-      "q": "Doğadan elde edilen veya imal edilen şey",
+      "q": "Toprakta yetişen veya elde edilen sonuç, mahsul.",
       "a": "ÜRÜN",
-      "level": 2
-    },
-    {
-      "q": "Salkım halinde yetişen tatlı meyve",
-      "a": "ÜZÜM",
       "level": 1
     },
+    { "q": "Salkım salkım olan tatlı bir meyve.", "a": "ÜZÜM", "level": 1 },
+    { "q": "İçte kalan dert, düğüm.", "a": "UKDE", "level": 3 },
+    { "q": "Önceden verilen söz, söz verme.", "a": "VAAT", "level": 3 },
+    { "q": "Bir iş için tanınan süre.", "a": "VADE", "level": 2 },
+    { "q": "İki dağ arasındaki uzun çukurluk.", "a": "VADİ", "level": 2 },
+    { "q": "Çölde su bulunan yeşil alan.", "a": "VAHA", "level": 2 },
+    { "q": "Camide dini öğüt veren kişi.", "a": "VAİZ", "level": 3 },
+    { "q": "Yaşanan olay, durum.", "a": "VAKA", "level": 3 },
     {
-      "q": "Bir işin tamamlanması için tanınan süre",
-      "a": "VADE",
-      "level": 3
-    },
-    {
-      "q": "İki dağ arasındaki akarsu yatağı veya çukurluk",
-      "a": "VADİ",
-      "level": 2
-    },
-    {
-      "q": "Bir ili yöneten en üst düzey mülki amir",
+      "q": "Bir şehri veya ili yöneten en üst görevli.",
       "a": "VALİ",
       "level": 1
     },
     {
-      "q": "Çiçek koymak için kullanılan dekoratif kap",
-      "a": "VAZO",
-      "level": 1
-    },
-    {
-      "q": "Ayrılırken söylenen esenlik sözü",
-      "a": "VEDA",
+      "q": "Borulardaki akışı açıp kapayan musluk düzeneği.",
+      "a": "VANA",
       "level": 2
     },
+    { "q": "Çiçek koymaya yarayan süslü kap.", "a": "VAZO", "level": 1 },
     {
-      "q": "Metal parçaları birbirine bağlayan dişli çivi",
+      "q": "Eskiden yaygın olan öldürücü bir salgın hastalık.",
+      "a": "VEBA",
+      "level": 3
+    },
+    {
+      "q": "Ayrılırken söylenen söz veya yapılan tören.",
+      "a": "VEDA",
+      "level": 1
+    },
+    { "q": "Dostluğa bağlılık, sevgiyi sürdürme.", "a": "VEFA", "level": 3 },
+    { "q": "Anne-baba öldüğünde çocuğa bakan kişi.", "a": "VASİ", "level": 3 },
+    {
+      "q": "Bilgi işlemde kullanılan ham bilgi, data.",
+      "a": "VERİ",
+      "level": 2
+    },
+    { "q": "Bir kararı reddetme yetkisi.", "a": "VETO", "level": 2 },
+    {
+      "q": "Parçaları birbirine tutturmaya yarayan dişli metal.",
       "a": "VİDA",
       "level": 1
     },
     {
-      "q": "Ağır yükleri kaldırmaya yarayan iş makinesi",
+      "q": "Ağır yükleri kaldırmaya yarayan iş makinesi.",
       "a": "VİNÇ",
-      "level": 1
+      "level": 2
     },
     {
-      "q": "Bir ülkeye girmek için pasaporta alınan onay",
+      "q": "Bir ülkeye girmek için alınan izin belgesi.",
       "a": "VİZE",
       "level": 2
     },
     {
-      "q": "Giysilerin boyun kısmına gelen bölümü",
-      "a": "YAKA",
-      "level": 1
-    },
-    {
-      "q": "Deniz veya nehir kıyısına inşa edilmiş büyük ev",
-      "a": "YALI",
+      "q": "Vurulan sert darbe veya topa vuruş şekli.",
+      "a": "VOLE",
       "level": 2
     },
+    { "q": "Elektrik gerilim birimi.", "a": "VOLT", "level": 2 },
     {
-      "q": "Devletin koyduğu uyulması zorunlu kurallar",
+      "q": "Toprağı kazmaya yarayan ilkel tarım aracı.",
+      "a": "YABA",
+      "level": 3
+    },
+    { "q": "Giysinin boyun kısmına gelen bölümü.", "a": "YAKA", "level": 1 },
+    { "q": "Sahildeki büyük ve görkemli konak.", "a": "YALI", "level": 2 },
+    { "q": "Eskik yeri kapatmak için dikilen parça.", "a": "YAMA", "level": 1 },
+    { "q": "Bina, inşaat.", "a": "YAPI", "level": 1 },
+    { "q": "Vücuttaki kesik veya darbe izi.", "a": "YARA", "level": 1 },
+    { "q": "Bölünmüş olanın her bir parçası.", "a": "YARI", "level": 1 },
+    {
+      "q": "Devletin koyduğu kurallar bütünü, kanun.",
       "a": "YASA",
-      "level": 2
-    },
-    {
-      "q": "Altıdan sonra gelen sayı",
-      "a": "YEDİ",
       "level": 1
     },
     {
-      "q": "Kuşların barınmak için yaptığı yer",
-      "a": "YUVA",
+      "q": "Mektup, kitap gibi alfabeyle oluşturulan metin.",
+      "a": "YAZI",
       "level": 1
     },
-    {
-      "q": "Akıl yürütme ve kavrama yeteneği",
-      "a": "ZEKÂ",
-      "level": 2
-    },
-    {
-      "q": "Mektup konulan kağıt kap",
-      "a": "ZARF",
-      "level": 1
-    }
+    { "q": "Altıdan sonra gelen sayı.", "a": "YEDİ", "level": 1 },
+    { "q": "Aslanın boynundaki uzun tüyler.", "a": "YELE", "level": 2 },
+    { "q": "Zihni ve vücudu rahatlatma disiplini.", "a": "YOGA", "level": 1 },
+    { "q": "Kuşların veya hayvanların barınağı.", "a": "YUVA", "level": 1 },
+    { "q": "Mektup konulan kağıt kap.", "a": "ZARF", "level": 1 },
+    { "q": "Çabuk anlayan, akıllı.", "a": "ZEKİ", "level": 1 },
+    { "q": "Beğeni, keyif.", "a": "ZEVK", "level": 1 },
+    { "q": "Vücudu koruyan metal giysi.", "a": "ZIRH", "level": 2 },
+    { "q": "Eski dilde ışık.", "a": "ZİYA", "level": 3 }
   ],
   "5": [
     {
@@ -5051,7 +4900,7 @@
     {
       "q": "Güney yönünün eski dildeki karşılığı",
       "a": "CENUP",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Savaşta hattın bir bölümü veya bir binanın dışa bakan yüzü",
@@ -5106,7 +4955,7 @@
     {
       "q": "Yön veya taraf anlamına gelen eski bir kelime",
       "a": "CİHET",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Parasından veya malından vermeye kıyamayan kimse",
@@ -5681,7 +5530,7 @@
     {
       "q": "Zihin, bilinç veya bellek anlamındaki eski sözcük.",
       "a": "DİMAĞ",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bazı İslam ülkelerinde kullanılan para birimi.",
@@ -5701,7 +5550,7 @@
     {
       "q": "Yaşama gücü, hayat.",
       "a": "DİRİM",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Diskotek kelimesinin kısaltılmışı.",
@@ -5741,7 +5590,7 @@
     {
       "q": "Müzikte seslerin üzerine yazıldığı beş paralel çizgi, porte.",
       "a": "DİZEK",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Ağır araçlarda kullanılan bir yakıt veya motor türü.",
@@ -6001,12 +5850,12 @@
     {
       "q": "Devletler kelimesinin eski dildeki karşılığı.",
       "a": "DÜVEL",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Harman dövmek için altına çakmak taşı çakılmış tahta araç.",
       "a": "DÜVEN",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Belli bir yönteme veya sıralamaya göre kurulan sistem, nizam.",
@@ -6381,7 +6230,7 @@
     {
       "q": "Güneş doğmadan önceki alaca karanlık zamanı.",
       "a": "FECİR",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bir dava uğruna canını vermeye hazır olan kimse veya koruma.",
@@ -6571,7 +6420,7 @@
     {
       "q": "Patlayıcıları ateşlemek için kullanılan düzenek.",
       "a": "FÜNYE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Gönül çelen, büyüleyici güzellik veya büyü.",
@@ -6801,7 +6650,7 @@
     {
       "q": "Güneşin batış anı.",
       "a": "GURUP",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Kişinin kendine duyduğu saygı, onur.",
@@ -6866,7 +6715,7 @@
     {
       "q": "İşlemeli, geniş gözenekli dantel türü.",
       "a": "GÜPÜR",
-      "level": 4
+      "level": 3
     },
     {
       "q": "İki sporcunun birbirini yere sermeye çalıştığı ata sporu.",
@@ -6906,7 +6755,7 @@
     {
       "q": "Hizmet eden, yardımcı anlamındaki eski sözcük.",
       "a": "HADİM",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Hz. Muhammed'in sözleri veya davranışları.",
@@ -7121,37 +6970,37 @@
     {
       "q": "Kaba dokunmuş, çok büyük ve derin çuval.",
       "a": "HARAR",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Bir şeye zarar gelmesi, bozulma (Eski dil).",
       "a": "HALEL",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Çok üzülmek, hayıflanmak veya acımak.",
       "a": "HAYIF",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Büyükbaş hayvanların boyunlarına takılan ağaç parça.",
       "a": "HAMUT",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Mutfak dışında, genellikle rüşvet veya yasa dışı kazanç.",
       "a": "HANUT",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Göl veya deniz sularının toplandığı çukur bölge.",
       "a": "HAVZA",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Eski binalarda duvarların arasına yatay olarak konulan ağaç.",
       "a": "HATIL",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Salatalığın diğer adı.",
@@ -7197,12 +7046,12 @@
     {
       "q": "Bir şeyi eksiksiz hale getirme, tamamlama veya bitirme.",
       "a": "İTMAM",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Madenleri eritme işlemi veya fırında cevheri sıvı hale getirme sanatı.",
       "a": "İZABE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Acele yapılması gereken, gecikmesinde sakınca bulunan iş.",
@@ -7302,7 +7151,7 @@
     {
       "q": "Değeri veya süresi kalmamış, eskimiş olan (hukuk terimi).",
       "a": "KADÜK",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Hayvanları veya kuşları hapsetmeye yarayan telli kutu.",
@@ -7422,7 +7271,7 @@
     {
       "q": "Edebi metinlerde kullanılan 'damla' kelimesi.",
       "a": "KATRE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Sulak yerlerde yetişen, uzun boylu bir ağaç türü.",
@@ -7892,17 +7741,17 @@
     {
       "q": "Pehlivanların giydiği meşin pantolon.",
       "a": "KİSVE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Böceklerin dış iskeletini oluşturan madde.",
       "a": "KİTİN",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Eski mahalle muhtarı veya yardımcısı.",
       "a": "KİZİR",
-      "level": 4
+      "level": 3
     },
     { "q": "Sıvı ölçü birimi.", "a": "LİTRE", "level": 1 },
     { "q": "Güneyden esen sıcak rüzgar.", "a": "LODOS", "level": 2 },
@@ -8095,7 +7944,7 @@
     {
       "q": "Kırıkların tedavisinde kullanılan yardımcı araç veya aparat.",
       "a": "ORTEZ",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Eskiden bitkilerle tedavi yapan kimse.",
@@ -8170,7 +8019,7 @@
     {
       "q": "Yün eğirmek için kullanılan ağaç araç.",
       "a": "ÖREKE",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Belli bir amaç için kurulan grup, teşkilat.",
@@ -8306,7 +8155,7 @@
     {
       "q": "Çok ince kağıt veya şeffaf plastik film.",
       "a": "PELÜR",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Kırmızı ile beyazın karışımı olan renk.",
@@ -8607,7 +8456,7 @@
     {
       "q": "Motorun parçalarının birbirine alışma süreci.",
       "a": "RODAJ",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Hızla gökyüzüne fırlatılan hava aracı.",
@@ -9747,7 +9596,7 @@
     {
       "q": "Alimler veya din bilginleri anlamındaki eski kelime.",
       "a": "ULEMA",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Ucu bucağı görünmeyen çok büyük deniz, okyanus.",
@@ -9944,7 +9793,7 @@
     {
       "q": "Yüksek mevkideki birinin yardımcısı, emir eri.",
       "a": "YAVER",
-      "level": 4
+      "level": 3
     },
     {
       "q": "Hayvanların yeni doğmuş çocuğu.",
@@ -10144,61 +9993,3582 @@
     {
       "q": "Giyiminde ve tavırlarında aşırı gülünçlük derecesinde gösteriş yapan kimse.",
       "a": "ZÜPPE",
-      "level": 4
+      "level": 3
     }
   ],
   "6": [
-    {
-      "a": "BİNA",
-      "q": "Duvarları ve çatısı olan büyük yapı? (Aslen 4 harf, test için 6 harf olarak düşünülecek kelimeler: BİNAYA, KAPLAN...)",
-      "level": 3
-    },
-    {
-      "a": "KAPLAN",
-      "q": "Çizgili, büyük ve yırtıcı kedi?",
-      "level": 3
-    },
-    {
-      "a": "MEYDAN",
-      "q": "Şehrin ortasındaki geniş açık alan?",
-      "level": 3
-    },
-    {
-      "a": "YILDIZ",
-      "q": "Gece gökyüzünde parlayan gök cismi?",
-      "level": 3
-    },
-    {
-      "a": "YAPRAK",
-      "q": "Ağacın genelde yeşil renkli fotosentez organı?",
-      "level": 3
-    }
+    [
+      {
+        "q": "Lamba ışığını süzerek yumuşatan kapak veya siperlik.",
+        "a": "ABAJUR",
+        "level": 1
+      },
+      {
+        "q": "Sayı saymak için kullanılan, boncuklu hesap aracı.",
+        "a": "ABAKÜS",
+        "level": 1
+      },
+      {
+        "q": "Çok sert ve siyah renkli bir odun türü.",
+        "a": "ABANOZ",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi olduğundan daha büyük veya çok gösterme, mübalağa.",
+        "a": "ABARTI",
+        "level": 2
+      },
+      {
+        "q": "Namaz kılmadan önce yapılan temizlik ve hazırlık.",
+        "a": "ABDEST",
+        "level": 2
+      },
+      {
+        "q": "Bir yerin dış dünya ile bağlantısını kesmek için yapılan kuşatma.",
+        "a": "ABLUKA",
+        "level": 3
+      },
+      {
+        "q": "Mantığa uymayan, saçma ve akıl dışı olan.",
+        "a": "ABSÜRT",
+        "level": 2
+      },
+      {
+        "q": "Şaşırtıcı, alışılmamış veya garip olan durum.",
+        "a": "ACAYİP",
+        "level": 1
+      },
+      {
+        "q": "Bir kuruluşun işlerini yürüten aracı kurum veya şube.",
+        "a": "ACENTE",
+        "level": 2
+      },
+      {
+        "q": "Hak ve hukuka uygunluk, hak gözetme.",
+        "a": "ADALET",
+        "level": 1
+      },
+      {
+        "q": "Bir şeye uyum sağlamış veya uydurulmuş.",
+        "a": "ADAPTE",
+        "level": 2
+      },
+      {
+        "q": "Hukuk işlerinin yürütüldüğü bina, mahkemeler topluluğu.",
+        "a": "ADLİYE",
+        "level": 1
+      },
+      {
+        "q": "Yaramaz ama sevimli çocuklar için kullanılan sıfat.",
+        "a": "AFACAN",
+        "level": 1
+      },
+      {
+        "q": "Yemek yerken veya sonrasında dilenen sağlık ve esenlik sözü.",
+        "a": "AFİYET",
+        "level": 1
+      },
+      {
+        "q": "Hristiyanlıkta dinden çıkarma veya toplumdan dışlama.",
+        "a": "AFOROZ",
+        "level": 3
+      },
+      {
+        "q": "Bir kimsenin kendisinden büyük olan erkek kardeşi.",
+        "a": "AĞABEY",
+        "level": 1
+      },
+      {
+        "q": "Ağırbaşlı, yavaş ve temkinli hareket eden.",
+        "a": "AHESTE",
+        "level": 3
+      },
+      {
+        "q": "Günlük işlerin not edildiği tarihli defter.",
+        "a": "AJANDA",
+        "level": 1
+      },
+      {
+        "q": "Yılın son ayı veya iki şey arasındaki boşluk.",
+        "a": "ARALIK",
+        "level": 1
+      },
+      {
+        "q": "Salkım çiçekli, gölge yapan bir ağaç türü.",
+        "a": "AKASYA",
+        "level": 3
+      },
+      {
+        "q": "Leşle beslenen, başı tüysüz, büyük bir kuş türü.",
+        "a": "AKBABA",
+        "level": 1
+      },
+      {
+        "q": "Bir sonucun veya işin sonu, akıbet.",
+        "a": "AKIBET",
+        "level": 3
+      },
+      {
+        "q": "Aynı kökten gelen, kan bağı olan kimseler.",
+        "a": "AKRABA",
+        "level": 1
+      },
+      {
+        "q": "Bir kurumu temsil eden ayırt edici işaret veya sembol.",
+        "a": "AMBLEM",
+        "level": 2
+      },
+      {
+        "q": "Vücudun bazı maddelere karşı gösterdiği aşırı duyarlılık.",
+        "a": "ALERJİ",
+        "level": 1
+      },
+      {
+        "q": "Bir dildeki harflerin belirli bir sıraya göre dizilişi.",
+        "a": "ALFABE",
+        "level": 1
+      },
+      {
+        "q": "Evlilik yüzüğü.",
+        "a": "ALYANS",
+        "level": 2
+      },
+      {
+        "q": "Bir işi meslek olarak değil, sadece zevk için yapan kimse.",
+        "a": "AMATÖR",
+        "level": 2
+      },
+      {
+        "q": "Deniz kuvvetlerinde yüksek rütbeli subay.",
+        "a": "AMİRAL",
+        "level": 3
+      },
+      {
+        "q": "Hafıza kaybı, unutkanlık hastalığı.",
+        "a": "AMNEZİ",
+        "level": 3
+      },
+      {
+        "q": "Bir konuyu parçalarına ayırarak ayrıntılı inceleme.",
+        "a": "ANALİZ",
+        "level": 2
+      },
+      {
+        "q": "Dışı pullu, içi sarı ve egzotik bir meyve.",
+        "a": "ANANAS",
+        "level": 1
+      },
+      {
+        "q": "Yazarı veya yapanı belli olmayan eser.",
+        "a": "ANONİM",
+        "level": 2
+      },
+      {
+        "q": "Çok eski ve maddi değeri yüksek olan eşya.",
+        "a": "ANTİKA",
+        "level": 2
+      },
+      {
+        "q": "Subayların omuzlarındaki rütbe işareti.",
+        "a": "APOLET",
+        "level": 3
+      },
+      {
+        "q": "Binalarda katlar arasında yük ve insan taşıyan kabin.",
+        "a": "ASANSÖR",
+        "level": 1
+      },
+      {
+        "q": "Bilgisayar programlarıyla kullanıcı arasındaki iletişimi sağlayan görsel tasarım.",
+        "a": "ARAYÜZ",
+        "level": 2
+      },
+      {
+        "q": "Seslerin, notaların birbirine uyumu, ahenk.",
+        "a": "ARMONİ",
+        "level": 2
+      },
+      {
+        "q": "Gürültülü patırtılı kavga, karmaşa.",
+        "a": "ARBEDE",
+        "level": 3
+      },
+      {
+        "q": "Genellikle tiyatro ve sinema oyuncuları için kullanılan terim.",
+        "a": "ARTİST",
+        "level": 1
+      },
+      {
+        "q": "Başka bir canlının üzerinden beslenen, ona zarar veren organizma.",
+        "a": "ASALAK",
+        "level": 2
+      },
+      {
+        "q": "Bir yerin düzen ve güvenliği, huzur ortamı.",
+        "a": "ASAYİŞ",
+        "level": 2
+      },
+      {
+        "q": "Ojeleri tırnaktan temizlemek için kullanılan çözücü sıvı.",
+        "a": "ASETON",
+        "level": 1
+      },
+      {
+        "q": "Yolların kaplanmasında kullanılan siyah, yapışkan madde.",
+        "a": "ASFALT",
+        "level": 1
+      },
+      {
+        "q": "En az, en aşağı seviyede olan miktar.",
+        "a": "ASGARİ",
+        "level": 2
+      },
+      {
+        "q": "Sanatçıların veya zanaatkarların çalıştığı yer, işlik.",
+        "a": "ATÖLYE",
+        "level": 2
+      },
+      {
+        "q": "Doğan gibi yırtıcı, avcı ve hızlı bir kuş türü.",
+        "a": "ATMACA",
+        "level": 2
+      },
+      {
+        "q": "Her şeye kolayca inanan, saf ve şaşkın kimse.",
+        "a": "AVANAK",
+        "level": 2
+      },
+      {
+        "q": "Bir spor müsabakasında atılan ve yenilen gol/sayı farkı.",
+        "a": "AVERAJ",
+        "level": 2
+      },
+      {
+        "q": "Mahkemelerde kişilerin haklarını savunan meslek sahibi.",
+        "a": "AVUKAT",
+        "level": 1
+      },
+      {
+        "q": "Çocuk dilinde Ay'a verilen isim.",
+        "a": "AYDEDE",
+        "level": 1
+      },
+      {
+        "q": "Alışılmışa, kurala veya mantığa uymayan durum.",
+        "a": "AYKIRI",
+        "level": 2
+      },
+      {
+        "q": "Duvarları boyamak için kullanılan kireçli veya boyalı sıvı.",
+        "a": "BADANA",
+        "level": 1
+      },
+      {
+        "q": "Birdenbire ortaya çıkan tehlikeli durum, sıkıntı.",
+        "a": "BADİRE",
+        "level": 3
+      },
+      {
+        "q": "Kelimeleri veya cümleleri birbirine bağlayan sözcük türü (ve, ama, veya).",
+        "a": "BAĞLAÇ",
+        "level": 2
+      },
+      {
+        "q": "Bir düşünceye veya inanışa körü körüne bağlanan kimse.",
+        "a": "BAĞNAZ",
+        "level": 3
+      },
+      {
+        "q": "Bir kusuru gizlemek için ileri sürülen uydurma sebep.",
+        "a": "BAHANE",
+        "level": 1
+      },
+      {
+        "q": "Yapılan bir hizmetten dolayı verilen küçük miktar para.",
+        "a": "BAHŞİŞ",
+        "level": 1
+      },
+      {
+        "q": "Mahalle aralarında gıda ve ihtiyaç maddesi satan küçük esnaf.",
+        "a": "BAKKAL",
+        "level": 1
+      },
+      {
+        "q": "Denizlerde yaşayan en büyük memeli hayvan.",
+        "a": "BALİNA",
+        "level": 1
+      },
+      {
+        "q": "Evlerin dışarıya doğru uzanan, çevresi korkuluklu bölümü.",
+        "a": "BALKON",
+        "level": 1
+      },
+      {
+        "q": "Taş kırmaya yarayan, iki ucu düz ağır çekiç.",
+        "a": "BALYOZ",
+        "level": 2
+      },
+      {
+        "q": "Davul ve zillerden oluşan vurmalı çalgı takımı.",
+        "a": "BATERİ",
+        "level": 1
+      },
+      {
+        "q": "Ürünlerin üzerine basılan, fiyat ve bilgi içeren çizgili kod.",
+        "a": "BARKOD",
+        "level": 1
+      },
+      {
+        "q": "Yürürken destek alınan ağaç veya metal sopa.",
+        "a": "BASTON",
+        "level": 1
+      },
+      {
+        "q": "Hedefe ulaşma, istenilen sonucu elde etme durumu.",
+        "a": "BAŞARI",
+        "level": 1
+      },
+      {
+        "q": "Bir kurumu, derneği veya devleti yöneten kişi.",
+        "a": "BAŞKAN",
+        "level": 1
+      },
+      {
+        "q": "Geceleri avlanan, başı büyük, iri gözlü yırtıcı kuş.",
+        "a": "BAYKUŞ",
+        "level": 1
+      },
+      {
+        "q": "Bir milletin bağımsızlık sembolü olan renkli kumaş.",
+        "a": "BAYRAK",
+        "level": 1
+      },
+      {
+        "q": "Milletçe kutlanan neşeli ve özel gün.",
+        "a": "BAYRAM",
+        "level": 1
+      },
+      {
+        "q": "Bir işi yapabilme yeteneği, ustalık, maharet.",
+        "a": "BECERİ",
+        "level": 1
+      },
+      {
+        "q": "Karşılığında para ödenmeyen, ücretsiz.",
+        "a": "BEDAVA",
+        "level": 1
+      },
+      {
+        "q": "Her şeyi kötü yanından gören, karamsar.",
+        "a": "BEDBİN",
+        "level": 3
+      },
+      {
+        "q": "Birinin kötü duruma düşmesi için söylenen söz, ilenç.",
+        "a": "BEDDUA",
+        "level": 2
+      },
+      {
+        "q": "Tarihi çarşılarda aynı işi yapan esnafların bulunduğu bölüm.",
+        "a": "ARASTA",
+        "level": 3
+      },
+      {
+        "q": "Saç ve sakal kesimi yapan zanaatkar.",
+        "a": "BERBER",
+        "level": 1
+      },
+      {
+        "q": "Motorlu araçlarda yakıt olarak kullanılan petrol türevi.",
+        "a": "BENZİN",
+        "level": 1
+      },
+      {
+        "q": "Doğru çizgiler çizmeye veya ölçüm yapmaya yarayan araç.",
+        "a": "CETVEL",
+        "level": 1
+      },
+      {
+        "q": "Un ve ekmek yapımında kullanılan temel tahıl.",
+        "a": "BUĞDAY",
+        "level": 1
+      },
+      {
+        "q": "Güzel ötüşüyle tanınan, şarkılara konu olan kuş.",
+        "a": "BÜLBÜL",
+        "level": 1
+      },
+      {
+        "q": "Ameliyat yapan uzman doktor.",
+        "a": "CERRAH",
+        "level": 1
+      },
+      {
+        "q": "İp üzerinde gösteri yapan sanatçı veya hileli işler çeviren kimse.",
+        "a": "CAMBAZ",
+        "level": 2
+      },
+      {
+        "q": "Beş kenarı ve beş açısı olan geometrik şekil.",
+        "a": "BEŞGEN",
+        "level": 1
+      },
+
+      {
+        "q": "Süslemede kullanılan, ortası delik, küçük, renkli tane.",
+        "a": "BONCUK",
+        "level": 1
+      },
+      {
+        "q": "Kanı süzerek idrar oluşumunu sağlayan boşaltım organı.",
+        "a": "BÖBREK",
+        "level": 2
+      },
+
+      {
+        "q": "Sadece kendini düşüran, çıkarcı kimse.",
+        "a": "BENCİL",
+        "level": 2
+      },
+      {
+        "q": "Bilgisayarda bilgilerin saklandığı donanım birimi, hafıza.",
+        "a": "BELLEK",
+        "level": 2
+      },
+      {
+        "q": "Kuru ve ağaçsız, geniş düzlüklerden oluşan yer yapısı.",
+        "a": "BOZKIR",
+        "level": 2
+      },
+      {
+        "q": "Çok anlayışsız, aptalca davranan kimse.",
+        "a": "BUDALA",
+        "level": 2
+      },
+      {
+        "q": "Şehir içinde, iki yanında ağaçlar bulunan geniş yol.",
+        "a": "BULVAR",
+        "level": 2
+      },
+      {
+        "q": "Ölen birinin gömülmeden önceki hali veya töreni.",
+        "a": "CENAZE",
+        "level": 2
+      },
+      {
+        "q": "Eskiden giyilen, kolların üzerine tam oturmayan bir tür kısa üst giysisi.",
+        "a": "CEPKEN",
+        "level": 3
+      },
+      {
+        "q": "Çölde yaşayan, göçebe hayat süren kimse.",
+        "a": "BEDEVİ",
+        "level": 3
+      },
+      {
+        "q": "Mahkeme kararıyla suçsuz bulunma, aklanma.",
+        "a": "BERAAT",
+        "level": 3
+      },
+      {
+        "q": "Tekli, arkası yüksek ve yanları kapalı koltuk türü.",
+        "a": "BERJER",
+        "level": 3
+      },
+      {
+        "q": "Çok derin bilgi sahibi olan, alim.",
+        "a": "BİLGİN",
+        "level": 2
+      },
+      {
+        "q": "Toplumsal veya ruhsal büyük sarsıntı, kriz.",
+        "a": "BUHRAN",
+        "level": 3
+      },
+      {
+        "q": "Başkalarının kötülüğünü isteyen, kötü niyetli kimse.",
+        "a": "BEDHAH",
+        "level": 3
+      },
+      {
+        "q": "Eski dilde kapıcı veya nöbetçi.",
+        "a": "BEVVAP",
+        "level": 3
+      },
+      {
+        "q": "Vücutta oluşan yara, bereleniş (Eski dil).",
+        "a": "CERİHA",
+        "level": 3
+      },
+      {
+        "q": "Doğru çizgiler çizmeye veya ölçüm yapmaya yarayan araç.",
+        "a": "CETVEL",
+        "level": 1
+      },
+      {
+        "q": "Hızlı koşan, gözlerinin güzelliğiyle bilinen bir hayvan.",
+        "a": "CEYLAN",
+        "level": 1
+      },
+      {
+        "q": "Tavuğun yeni çıkmış yavrusu.",
+        "a": "CİVCİV",
+        "level": 1
+      },
+      {
+        "q": "Ateş çıkarmaya yarayan araç.",
+        "a": "ÇAKMAK",
+        "level": 1
+      },
+      {
+        "q": "Yatağa serilen veya örtünmeye yarayan geniş kumaş.",
+        "a": "ÇARŞAF",
+        "level": 1
+      },
+      {
+        "q": "Bir bütünün dörtte biri.",
+        "a": "ÇEYREK",
+        "level": 1
+      },
+      {
+        "q": "Acı ve keskin bağırtı.",
+        "a": "ÇIĞLIK",
+        "level": 1
+      },
+      {
+        "q": "Üzerinde giysi olmayan.",
+        "a": "ÇIPLAK",
+        "level": 1
+      },
+      {
+        "q": "Geçimini toprağı ekerek sağlayan kimse.",
+        "a": "ÇİFTÇİ",
+        "level": 1
+      },
+      {
+        "q": "Altmış saniyelik zaman dilimi.",
+        "a": "DAKİKA",
+        "level": 1
+      },
+      {
+        "q": "Su altına dalmayı meslek edinen kişi.",
+        "a": "DALGIÇ",
+        "level": 1
+      },
+      {
+        "q": "İnce iplikle örülen süslü örgü.",
+        "a": "DANTEL",
+        "level": 1
+      },
+      {
+        "q": "Birine küsmüş olan kimse.",
+        "a": "DARGIN",
+        "level": 1
+      },
+      {
+        "q": "Toprak altına saklanmış değerli eşyalar.",
+        "a": "DEFİNE",
+        "level": 1
+      },
+      {
+        "q": "Yazı yazmak için bir araya getirilmiş kağıtlar.",
+        "a": "DEFTER",
+        "level": 1
+      },
+      {
+        "q": "Çay demlenen kap.",
+        "a": "DEMLİK",
+        "level": 1
+      },
+      {
+        "q": "Kıl çekmeye yarayan küçük metal maşa.",
+        "a": "CIMBIZ",
+        "level": 1
+      },
+      {
+        "q": "Para ve kimlik taşımaya yarayan küçük kap.",
+        "a": "CÜZDAN",
+        "level": 1
+      },
+      {
+        "q": "Somunla birlikte kullanılan vidalı metal parça.",
+        "a": "CIVATA",
+        "level": 2
+      },
+      {
+        "q": "Müzikli eğlence veya bir telli çalgı türü.",
+        "a": "CÜMBÜŞ",
+        "level": 2
+      },
+      {
+        "q": "Aynı çağda yaşayan, uygar.",
+        "a": "ÇAĞDAŞ",
+        "level": 2
+      },
+      {
+        "q": "Birbiriyle kesişen biçimde olan.",
+        "a": "ÇAPRAZ",
+        "level": 2
+      },
+      {
+        "q": "Kuyudan su çekmeye yarayan düzenek.",
+        "a": "ÇIKRIK",
+        "level": 2
+      },
+      {
+        "q": "İlkbaharda çiçek açan soğanlı bir bitki.",
+        "a": "ÇİĞDEM",
+        "level": 2
+      },
+      {
+        "q": "Denizlerde yaşayan lezzetli bir balık türü.",
+        "a": "ÇİPURA",
+        "level": 2
+      },
+      {
+        "q": "Matematikte üçten fazla kenarı olan kapalı şekil.",
+        "a": "ÇOKGEN",
+        "level": 2
+      },
+      {
+        "q": "Topraktan yapılmış tencere veya kap.",
+        "a": "ÇÖMLEK",
+        "level": 2
+      },
+      {
+        "q": "Saçı tamamen dökülmüş veya kazınmış olan.",
+        "a": "DAZLAK",
+        "level": 2
+      },
+      {
+        "q": "Kamyonun yük boşaltan hareketli kasası.",
+        "a": "DAMPER",
+        "level": 2
+      },
+      {
+        "q": "Bir olayı daha önce yaşamış olma hissi.",
+        "a": "DEJAVU",
+        "level": 2
+      },
+      {
+        "q": "Bankacılıkta yapılan işlemin belgesi.",
+        "a": "DEKONT",
+        "level": 2
+      },
+      {
+        "q": "Kağıtları delmeye yarayan araç.",
+        "a": "DELGEÇ",
+        "level": 2
+      },
+      {
+        "q": "Çevik, hareketli, atak.",
+        "a": "CEVVAL",
+        "level": 3
+      },
+      {
+        "q": "Salgın bir deri hastalığı.",
+        "a": "CÜZZAM",
+        "level": 3
+      },
+      {
+        "q": "Pis ve bulanık su veya edepsiz kimse.",
+        "a": "ÇİRKEF",
+        "level": 3
+      },
+      {
+        "q": "İskelede gemileri bağlayan görevli.",
+        "a": "ÇIMACI",
+        "level": 3
+      },
+      {
+        "q": "Üstü kapalı dar geçit veya koridor.",
+        "a": "DEHLİZ",
+        "level": 3
+      },
+      {
+        "q": "Deri tabaklayan kimse.",
+        "a": "DEBBAĞ",
+        "level": 3
+      },
+      {
+        "q": "Çok büyük çuval.",
+        "a": "ÇIRNIK",
+        "level": 3
+      },
+      {
+        "q": "İçeri kelimesinin zıttı.",
+        "a": "DIŞARI",
+        "level": 1
+      },
+      {
+        "q": "Tıp eğitimi almış, hastaları iyileştiren kişi.",
+        "a": "DOKTOR",
+        "level": 1
+      },
+      {
+        "q": "Esnafın satış yaptığı veya işlettiği küçük yer.",
+        "a": "DÜKKÂN",
+        "level": 1
+      },
+      {
+        "q": "İlaç satılan dükkan.",
+        "a": "ECZANE",
+        "level": 1
+      },
+      {
+        "q": "Giyilen her türlü kıyafetin genel adı.",
+        "a": "ELBİSE",
+        "level": 1
+      },
+      {
+        "q": "Seksen dokuzdan sonra gelen sayı.",
+        "a": "DOKSAN",
+        "level": 1
+      },
+      {
+        "q": "Yer kabuğundaki sarsıntı, zelzele.",
+        "a": "DEPREM",
+        "level": 1
+      },
+      {
+        "q": "Aynı cinsten on iki parçalık takım.",
+        "a": "DÜZİNE",
+        "level": 2
+      },
+      {
+        "q": "Dilden dile dolaşan, olağanüstü hikaye.",
+        "a": "EFSANE",
+        "level": 2
+      },
+      {
+        "q": "Sadece kendini düşünen, bencil kimse.",
+        "a": "EGOİST",
+        "level": 2
+      },
+      {
+        "q": "Doğruluğu temel ilke edinen, yalan söylemeyen.",
+        "a": "DÜRÜST",
+        "level": 2
+      },
+      {
+        "q": "Olağanüstü olayları anlatan uzun halk şiiri veya anlatı.",
+        "a": "DESTAN",
+        "level": 2
+      },
+      {
+        "q": "Kendi kararlarını verme yetkisine sahip olan, bağımsız.",
+        "a": "EGEMEN",
+        "level": 2
+      },
+      {
+        "q": "Bir konu hakkındaki kısa ve açıklayıcı yazı, not.",
+        "a": "DİPNOT",
+        "level": 2
+      },
+      {
+        "q": "Bir mesleğin kıdemli ve en saygın kişisi.",
+        "a": "DUAYEN",
+        "level": 3
+      },
+      {
+        "q": "Yabancı uyruklu, dış ülkeden olan kimse.",
+        "a": "ECNEBİ",
+        "level": 3
+      },
+      {
+        "q": "Geçici olarak konulmuş, tam yerleşmemiş veya emanet gibi duran.",
+        "a": "EĞRETİ",
+        "level": 3
+      },
+      {
+        "q": "Her istediğini yaptırmak isteyen, baskıcı yönetici.",
+        "a": "DESPOT",
+        "level": 3
+      },
+      {
+        "q": "Deli, meczup veya bir şeye aşırı tutkun olan.",
+        "a": "DİVANE",
+        "level": 3
+      },
+      {
+        "q": "Bina ve gemilerin ahşap kısımlarını yapan usta marangoz.",
+        "a": "DÜLGER",
+        "level": 3
+      },
+      {
+        "q": "Genel kural, ilke veya yol yordam.",
+        "a": "DÜSTUR",
+        "level": 3
+      },
+      {
+        "q": "Giderken söylenen son esenlik sözü.",
+        "a": "ELVEDA",
+        "level": 1
+      },
+      {
+        "q": "Birine koruması için geçici olarak bırakılan şey.",
+        "a": "EMANET",
+        "level": 1
+      },
+      {
+        "q": "Tasa, kaygı veya kuşku duyma hali.",
+        "a": "ENDİŞE",
+        "level": 1
+      },
+      {
+        "q": "İş yapabilme gücü veya canlılık.",
+        "a": "ENERJİ",
+        "level": 1
+      },
+      {
+        "q": "Halanın veya teyzenin kocası.",
+        "a": "ENİŞTE",
+        "level": 1
+      },
+      {
+        "q": "Bir malın fiyatını veya içeriğini gösteren küçük kağıt.",
+        "a": "ETİKET",
+        "level": 1
+      },
+      {
+        "q": "Kitaba bakmadan, ezber yoluyla öğrenilen.",
+        "a": "EZBERE",
+        "level": 1
+      },
+      {
+        "q": "Satılan bir malın bedelini gösteren resmi belge.",
+        "a": "FATURA",
+        "level": 1
+      },
+      {
+        "q": "En çok beğenilen veya kazanması beklenen taraf.",
+        "a": "FAVORİ",
+        "level": 1
+      },
+      {
+        "q": "Mutfak ve banyo duvarlarını kaplayan seramik levha.",
+        "a": "FAYANS",
+        "level": 1
+      },
+      {
+        "q": "Sert kabuklu, yuvarlak ve lezzetli bir kuruyemiş.",
+        "a": "FINDIK",
+        "level": 1
+      },
+      {
+        "q": "Kahve veya çay içmeye yarayan kulplu küçük kap.",
+        "a": "FINCAN",
+        "level": 1
+      },
+      {
+        "q": "On birer kişilik iki takım arasında oynanan top oyunu.",
+        "a": "FUTBOL",
+        "level": 1
+      },
+      {
+        "q": "Sanat eserlerinin sergilendiği salon veya dükkan.",
+        "a": "GALERİ",
+        "level": 1
+      },
+      {
+        "q": "Kuvvetle muhtemel, sanki anlamında kullanılan söz.",
+        "a": "GALIBA",
+        "level": 1
+      },
+      {
+        "q": "Lokantalarda yemek servisi yapan görevli.",
+        "a": "GARSON",
+        "level": 1
+      },
+      {
+        "q": "Çaba, çalışma isteği.",
+        "a": "GAYRET",
+        "level": 1
+      },
+      {
+        "q": "Günlük haberleri ve bilgileri veren kağıt yayın.",
+        "a": "GAZETE",
+        "level": 1
+      },
+      {
+        "q": "Kendini başkasının yerine koyarak hissetme becerisi.",
+        "a": "EMPATİ",
+        "level": 2
+      },
+      {
+        "q": "Şeritler halinde kesilmiş bir tür ev makarnası.",
+        "a": "ERİŞTE",
+        "level": 2
+      },
+      {
+        "q": "Tutsaklık veya kölelik durumu.",
+        "a": "ESARET",
+        "level": 2
+      },
+      {
+        "q": "Beslenmesinde sadece et kullanan canlı.",
+        "a": "ETOBUR",
+        "level": 2
+      },
+      {
+        "q": "Kurdeleyle yapılan kelebek şeklindeki düğüm.",
+        "a": "FİYONK",
+        "level": 2
+      },
+      {
+        "q": "Acı bir çığlık veya yüksek sesle ağlama.",
+        "a": "FERYAT",
+        "level": 2
+      },
+      {
+        "q": "Kaçak durumda olan, hapisten veya görevden kaçan.",
+        "a": "FİRARİ",
+        "level": 2
+      },
+      {
+        "q": "Fakir, yoksul ve yardıma muhtaç kimse.",
+        "a": "FUKARA",
+        "level": 2
+      },
+      {
+        "q": "İnsafsız, acımasız ve merhameti olmayan.",
+        "a": "GADDAR",
+        "level": 2
+      },
+      {
+        "q": "Kıtır kıtır fırınlanmış ekmek dilimi.",
+        "a": "GALETA",
+        "level": 2
+      },
+      {
+        "q": "Müzikli, eğlenceli ve genellikle yemekli yer.",
+        "a": "GAZİNO",
+        "level": 2
+      },
+      {
+        "q": "Peygamberler kelimesinin eski dildeki karşılığı.",
+        "a": "ENBİYA",
+        "level": 3
+      },
+      {
+        "q": "Dalgınlık, boş bulunma veya aymazlık hali.",
+        "a": "GAFLET",
+        "level": 3
+      },
+      {
+        "q": "Osmanlı'da padişahın verdiği yazılı emir.",
+        "a": "FERMAN",
+        "level": 3
+      },
+      {
+        "q": "Engebesi olmayan, pürüzsüz ve dümdüz olan.",
+        "a": "DÜMDÜZ",
+        "level": 1
+      },
+      {
+        "q": "Bir sonucun ortaya çıkmasına yardımcı olan etken.",
+        "a": "FAKTÖR",
+        "level": 2
+      },
+      {
+        "q": "Atlar tarafından çekilen binek arabası.",
+        "a": "FAYTON",
+        "level": 2
+      },
+      {
+        "q": "Çok konuşan, çenesi düşük kimse.",
+        "a": "GEVEZE",
+        "level": 1
+      },
+      {
+        "q": "Gözleri kusurlu olanların daha iyi görmesini sağlayan araç.",
+        "a": "GÖZLÜK",
+        "level": 1
+      },
+      {
+        "q": "Kat kat ve çıtır çıtır olan, çocukların sevdiği bisküvi türü.",
+        "a": "GOFRET",
+        "level": 1
+      },
+      {
+        "q": "Vücudun üst kısmına giyilen, düğmeli giysi.",
+        "a": "GÖMLEK",
+        "level": 1
+      },
+      {
+        "q": "Birine karşılık beklemeden verilen armağan.",
+        "a": "HEDİYE",
+        "level": 1
+      },
+      {
+        "q": "Yeryüzünü kağıt üzerinde gösteren coğrafi çizim.",
+        "a": "HARİTA",
+        "level": 1
+      },
+      {
+        "q": "Taş, metal veya kilden yapılan insan ya da hayvan sureti.",
+        "a": "HEYKEL",
+        "level": 1
+      },
+      {
+        "q": "Güneşin doğuşundan batışına kadar geçen aydınlık süre.",
+        "a": "GÜNDÜZ",
+        "level": 1
+      },
+      {
+        "q": "Başkasına ait bir şeyi izinsiz alan kimse.",
+        "a": "HIRSIZ",
+        "level": 1
+      },
+      {
+        "q": "Sürekli gezen, yeni yerler görmeyi seven kimse.",
+        "a": "GEZGİN",
+        "level": 2
+      },
+      {
+        "q": "Doğup büyüdüğü yerden uzak kalma, sıla hasreti çekilen yer.",
+        "a": "GURBET",
+        "level": 2
+      },
+      {
+        "q": "Toplumda konuşulan, günün konusu olan maddelerin bütünü.",
+        "a": "GÜNDEM",
+        "level": 2
+      },
+      {
+        "q": "Süt ve mısır nişastasıyla yapılan geleneksel Ramazan tatlısı.",
+        "a": "GÜLLAÇ",
+        "level": 2
+      },
+      {
+        "q": "Duygusal veya fiziksel etkilere karşı çok hassas olan.",
+        "a": "HASSAS",
+        "level": 2
+      },
+      {
+        "q": "Gömülü veya saklanmış büyük servet, altın birikimi.",
+        "a": "HAZİNE",
+        "level": 2
+      },
+      {
+        "q": "Bir şeyi akılda tutma yetisi, bellek.",
+        "a": "HAFIZA",
+        "level": 2
+      },
+      {
+        "q": "Birine duyulan derin özlem.",
+        "a": "HASRET",
+        "level": 2
+      },
+      {
+        "q": "Görünüşüyle hayranlık uyandıran, ihtişamlı.",
+        "a": "GÖRKEM",
+        "level": 2
+      },
+      {
+        "q": "Başkalarının arkasından konuşma, dedikodu yapma.",
+        "a": "GIYBET",
+        "level": 3
+      },
+      {
+        "q": "Suların kendi ekseni etrafında hızla dönmesiyle oluşan çevrinti.",
+        "a": "GİRDAP",
+        "level": 3
+      },
+      {
+        "q": "Güzel yazı yazma sanatıyla uğraşan usta kişi.",
+        "a": "HATTAT",
+        "level": 3
+      },
+      {
+        "q": "Seçkin, üstün nitelikli, beğenilen.",
+        "a": "GÜZİDE",
+        "level": 3
+      },
+      {
+        "q": "Savunma amacıyla kazılan uzun ve derin çukur.",
+        "a": "HENDEK",
+        "level": 3
+      },
+      {
+        "q": "Dini bir amaçla bir yerden başka bir yere göç etme.",
+        "a": "HİCRET",
+        "level": 3
+      },
+      {
+        "q": "Hayranlık uyandıran, çok güzel, fevkalade.",
+        "a": "HARİKA",
+        "level": 1
+      },
+      {
+        "q": "Yalnızca bir süre için geçerli olan, kalıcı olmayan.",
+        "a": "GEÇİCİ",
+        "level": 2
+      },
+      {
+        "q": "Gelişmiş, gürbüz ve sağlıklı çocuk veya bitki.",
+        "a": "GÜMBRAH",
+        "level": 3
+      },
+      {
+        "q": "Sinirli, öfkeli veya gergin olma durumu.",
+        "a": "GERGİN",
+        "level": 2
+      },
+      {
+        "q": "Et veya balık pişirmeye yarayan telli metal araç.",
+        "a": "IZGARA",
+        "level": 1
+      },
+      {
+        "q": "Güney Amerika'da yaşayan, benekli ve çok hızlı bir kedi türü.",
+        "a": "JAGUAR",
+        "level": 1
+      },
+      {
+        "q": "Pencerelerde ışığı kontrol etmeye yarayan, açılıp kapanan perde.",
+        "a": "JALUZİ",
+        "level": 2
+      },
+      {
+        "q": "Yer bilimi ile uğraşan, taşları ve yer katmanlarını inceleyen uzman.",
+        "a": "JEOLOG",
+        "level": 2
+      },
+      {
+        "q": "Çölde yaşayan, yaprakları dikene dönüşmüş, su depo eden bitki.",
+        "a": "KAKTÜS",
+        "level": 1
+      },
+      {
+        "q": "Futbol maçlarında kaleyi koruyan oyuncu.",
+        "a": "KALECİ",
+        "level": 1
+      },
+      {
+        "q": "Bir nesnenin veya hizmetin ne kadar iyi olduğunu belirleyen ölçüt.",
+        "a": "KALİTE",
+        "level": 2
+      },
+      {
+        "q": "Vücudun sırt kısmındaki kemik çıkıntısı veya eğrilik.",
+        "a": "KAMBUR",
+        "level": 2
+      },
+      {
+        "q": "Görüntü kaydetmeye yarayan elektronik cihaz.",
+        "a": "KAMERA",
+        "level": 1
+      },
+      {
+        "q": "Yük taşımak için kullanılan büyük ve güçlü kara taşıtı.",
+        "a": "KAMYON",
+        "level": 1
+      },
+      {
+        "q": "Genellikle okullarda bulunan, yiyecek ve içecek satılan yer.",
+        "a": "KANTİN",
+        "level": 1
+      },
+      {
+        "q": "İki dağ arasındaki dar ve derin vadi, geçit.",
+        "a": "KANYON",
+        "level": 2
+      },
+      {
+        "q": "Asya ormanlarında yaşayan, turuncu üzerine siyah çizgili büyük kedi.",
+        "a": "KAPLAN",
+        "level": 1
+      },
+      {
+        "q": "Gemi veya uçakları yöneten en üst düzey görevli.",
+        "a": "KAPTAN",
+        "level": 1
+      },
+      {
+        "q": "Dışı yeşil, içi kırmızı, yaz aylarının meşhur sulu meyvesi.",
+        "a": "KARPUZ",
+        "level": 1
+      },
+      {
+        "q": "Göklerin hakimi olarak bilinen, çok güçlü ve yırtıcı bir kuş.",
+        "a": "KARTAL",
+        "level": 1
+      },
+      {
+        "q": "Önü siperli bir tür şapka.",
+        "a": "KASKET",
+        "level": 2
+      },
+      {
+        "q": "Kışın boyna sarılan yünlü atkı.",
+        "a": "KAŞKOL",
+        "level": 2
+      },
+      {
+        "q": "Yaz ortasında olgunlaşan, sarı-turuncu renkli, çekirdekli meyve.",
+        "a": "KAYISI",
+        "level": 1
+      },
+      {
+        "q": "Tekerlekli bir tahta üzerinde ayakta gidilen eğlence aracı.",
+        "a": "KAYKAY",
+        "level": 1
+      },
+      {
+        "q": "Konuşurken kelimeleri tekrarlayan veya takılan kimse.",
+        "a": "KEKEME",
+        "level": 2
+      },
+      {
+        "q": "Dilde anlamı olan en küçük birim, sözcük.",
+        "a": "KELİME",
+        "level": 1
+      },
+      {
+        "q": "Kovboyların hayvan yakalamak için fırlattığı ucu ilmikli ip.",
+        "a": "KEMENT",
+        "level": 2
+      },
+      {
+        "q": "Güneş ısısı veya ışınımının teknik adı.",
+        "a": "IŞINIM",
+        "level": 3
+      },
+      {
+        "q": "Eski dilde öğrenme, bir haberi alma.",
+        "a": "ITTILA",
+        "level": 3
+      },
+      {
+        "q": "Önemli bir başarı veya jübile töreni için yapılan etkinlik.",
+        "a": "JÜBİLE",
+        "level": 3
+      },
+      {
+        "q": "Çok eski, başlangıcı bilinmeyen zamanlardan kalan.",
+        "a": "KADİMÎ",
+        "level": 3
+      },
+      {
+        "q": "Eskiden padişahların veya üst düzey kişilerin giydiği süslü dış giysi.",
+        "a": "KAFTAN",
+        "level": 3
+      },
+      {
+        "q": "Güneşte kurutulmuş çamur ve samandan yapılan kerpiç yapı malzemesi.",
+        "a": "KERPİÇ",
+        "level": 3
+      },
+      {
+        "q": "Geçmişte uzak yerlere mal taşıyan deve veya at topluluğu.",
+        "a": "KERVAN",
+        "level": 3
+      },
+      {
+        "q": "Eski savaşlarda kullanılan üç direkli, büyük yelkenli gemi.",
+        "a": "KALYON",
+        "level": 3
+      },
+      {
+        "q": "Ateş yakmaya yarayan, ucu yanıcı madde kaplı küçük çöp.",
+        "a": "KİBRİT",
+        "level": 1
+      },
+      {
+        "q": "Domatesle yapılan, patates kızartmasının vazgeçilmez sosu.",
+        "a": "KETÇAP",
+        "level": 1
+      },
+      {
+        "q": "Bilgisayarda yazı yazmamızı sağlayan tuşlu düzenek.",
+        "a": "KLAVYE",
+        "level": 1
+      },
+      {
+        "q": "Bir kişinin kim olduğunu kanıtlayan resmi belge.",
+        "a": "KİMLİK",
+        "level": 1
+      },
+      {
+        "q": "Denizlerde gemilere saldıran, yağmacı deniz savaşçısı.",
+        "a": "KORSAN",
+        "level": 1
+      },
+      {
+        "q": "Gömlek yakasına takılan, uzun ve şık boyun bağı.",
+        "a": "KRAVAT",
+        "level": 1
+      },
+      {
+        "q": "Göz kapaklarının kenarındaki koruyucu kısa kıllar.",
+        "a": "KİRPİK",
+        "level": 1
+      },
+      {
+        "q": "Genellikle tiyatroda giyilen özel kıyafetlerin genel adı.",
+        "a": "KOSTÜM",
+        "level": 1
+      },
+      {
+        "q": "Yazın deniz kenarında güneşlenilen kumluk alan.",
+        "a": "KUMSAL",
+        "level": 1
+      },
+      {
+        "q": "Birinin peşinden ayrılmayan, ona çok kızgın olan kimse.",
+        "a": "KIZGIN",
+        "level": 1
+      },
+      {
+        "q": "Gözü bağlı olarak oynanan meşhur çocuk oyunu.",
+        "a": "KÖREBE",
+        "level": 1
+      },
+      {
+        "q": "Kütlece ağır olan, fazla kilosu bulunan kimse.",
+        "a": "KİLOLU",
+        "level": 1
+      },
+      {
+        "q": "Gevrek ve tuzlu bir bisküvi türü.",
+        "a": "KRAKER",
+        "level": 1
+      },
+      {
+        "q": "Fırınlanmış patatesin içine malzeme doldurularak yapılan yemek.",
+        "a": "KUMPİR",
+        "level": 1
+      },
+      {
+        "q": "Ateşli silahlardan atılan mermi çekirdeği.",
+        "a": "KURŞUN",
+        "level": 1
+      },
+      {
+        "q": "İşini hileyle ve kurnazlıkla yürüten, açıkgöz.",
+        "a": "KURNAZ",
+        "level": 1
+      },
+      {
+        "q": "Sığır çobanı, özellikle Amerikan filmlerindeki atlı karakter.",
+        "a": "KOVBOY",
+        "level": 1
+      },
+      {
+        "q": "Kişinin veya nesnenin değeri, önemi.",
+        "a": "KIYMET",
+        "level": 1
+      },
+      {
+        "q": "Sıvıları süzmeye yarayan delikli mutfak aracı.",
+        "a": "KEVGİR",
+        "level": 2
+      },
+      {
+        "q": "Atları sürmek için kullanılan, ucu şeritli uzun vuraç.",
+        "a": "KIRBAÇ",
+        "level": 2
+      },
+      {
+        "q": "Şehir dışındaki yerleşim yerleri, köy ve doğa hayatı.",
+        "a": "KIRSAL",
+        "level": 2
+      },
+      {
+        "q": "Yengeç veya akrebin avını yakalamaya yarayan organı.",
+        "a": "KISKAÇ",
+        "level": 2
+      },
+      {
+        "q": "Dosyaların konulduğu kapaklı ve geniş kırtasiye ürünü.",
+        "a": "KLASÖR",
+        "level": 2
+      },
+      {
+        "q": "Uçaklarda pilotun oturduğu yönetim kabini.",
+        "a": "KOKPİT",
+        "level": 2
+      },
+      {
+        "q": "Ağaçlarda yaşayan ve baraj kuran kemirgen su hayvanı.",
+        "a": "KUNDUZ",
+        "level": 2
+      },
+      {
+        "q": "Hastalara bakılan sağlık merkezi veya özel hastane.",
+        "a": "KLİNİK",
+        "level": 2
+      },
+      {
+        "q": "Japonların geleneksel geniş kollu giysisi.",
+        "a": "KİMONO",
+        "level": 2
+      },
+      {
+        "q": "Yemeklere tat veren, kokulu bir baharat türü.",
+        "a": "KİMYON",
+        "level": 2
+      },
+      {
+        "q": "Ayakkabı tabanı yapılan sert ve kalın deri.",
+        "a": "KÖSELE",
+        "level": 2
+      },
+      {
+        "q": "Yanardağ ağzındaki çukur veya büyük delik.",
+        "a": "KRATER",
+        "level": 2
+      },
+      {
+        "q": "Bir şeyi ölçmek için kullanılan temel kural.",
+        "a": "KRİTER",
+        "level": 2
+      },
+      {
+        "q": "Yarışlarda sporcuların koştuğu şeritlerden her biri.",
+        "a": "KULVAR",
+        "level": 2
+      },
+      {
+        "q": "Bebeklerin sarıldığı bez veya tüfeğin ahşap kısmı.",
+        "a": "KUNDAK",
+        "level": 2
+      },
+      {
+        "q": "Topraktan yapılmış yemek tenceresi.",
+        "a": "ÇÖMLEK",
+        "level": 2
+      },
+      {
+        "q": "İnce iplikle yapılan, küçük makarnaya benzeyen yemek.",
+        "a": "KUSKUS",
+        "level": 2
+      },
+      {
+        "q": "Dişi at.",
+        "a": "KISRAK",
+        "level": 2
+      },
+      {
+        "q": "Gözün en dışındaki saydam tabaka.",
+        "a": "KORNEA",
+        "level": 3
+      },
+      {
+        "q": "Yağlı güreşte pehlivanların giydiği deri pantolon.",
+        "a": "KİSPET",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi doğrudan değil, üstü kapalı ve iğneleyerek anlatma.",
+        "a": "KİNAYE",
+        "level": 3
+      },
+      {
+        "q": "İki kara parçasını birbirine bağlayan dar kara şeridi.",
+        "a": "KISTAK",
+        "level": 3
+      },
+      {
+        "q": "Osmanlı'da bilgi toplayan görevli veya izci.",
+        "a": "KEŞŞAF",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi ölçmek için temel alınan kıstas.",
+        "a": "KISTAS",
+        "level": 3
+      },
+      {
+        "q": "Dokuma tezgahlarında kullanılan tarak benzeri araç.",
+        "a": "KİRKİT",
+        "level": 3
+      },
+      {
+        "q": "Evrenle veya uzayla ilgili olan.",
+        "a": "KOZMİK",
+        "level": 3
+      },
+      {
+        "q": "Büyük lüfer balığı.",
+        "a": "KOFANA",
+        "level": 3
+      },
+      {
+        "q": "Salgın bir hastalık türü.",
+        "a": "KOLERA",
+        "level": 3
+      },
+      {
+        "q": "Sömürge veya topluluk.",
+        "a": "KOLONİ",
+        "level": 3
+      },
+      {
+        "q": "Birine yapılan gizli ve kötü düzen, tuzak.",
+        "a": "KOMPLO",
+        "level": 2
+      },
+      {
+        "q": "Hileli düzen veya dolap.",
+        "a": "KUMPAS",
+        "level": 3
+      },
+      {
+        "q": "Güç, takat veya iktidar.",
+        "a": "KUDRET",
+        "level": 3
+      },
+      {
+        "q": "Üst düzey rütbeli subay.",
+        "a": "KURMAY",
+        "level": 3
+      },
+      {
+        "q": "Yavaş yavaş yağan ince yağmur veya donmuş su buharı.",
+        "a": "KIRAĞI",
+        "level": 2
+      },
+      {
+        "q": "Kaba dokunmuş, çok büyük çuval.",
+        "a": "ÇIRNIK",
+        "level": 3
+      },
+      {
+        "q": "Ayakkabı tamircisi.",
+        "a": "KÖŞKER",
+        "level": 3
+      },
+      {
+        "q": "Okuma, özellikle Kuran'ı usulüne göre okuma.",
+        "a": "KIRAAT",
+        "level": 3
+      },
+      {
+        "q": "Deri su kabı.",
+        "a": "KIRBA",
+        "level": 3
+      },
+      {
+        "q": "Kin besleyen, öfkesini saklayan kimse.",
+        "a": "KİNDAR",
+        "level": 3
+      },
+      {
+        "q": "Engel, bağ veya köstek olma durumu.",
+        "a": "KÖSTEK",
+        "level": 3
+      },
+      {
+        "q": "Omurgalı hayvanların gövdesinin arkasındaki uzantı.",
+        "a": "KUYRUK",
+        "level": 1
+      },
+      {
+        "q": "Kadayıf ve özel peynirle yapılan, sıcak servis edilen şerbetli tatlı.",
+        "a": "KÜNEFE",
+        "level": 1
+      },
+      {
+        "q": "Kat kat yaprakları olan, turşusu ve sarması yapılan bir sebze.",
+        "a": "LAHANA",
+        "level": 1
+      },
+      {
+        "q": "Esnek madde veya taşıt tekerleği.",
+        "a": "LASTİK",
+        "level": 1
+      },
+      {
+        "q": "El ve yüz yıkamak için kullanılan, su tesisatlı çukur kap.",
+        "a": "LAVABO",
+        "level": 1
+      },
+      {
+        "q": "Benekli postuyla bilinen, yırtıcı bir kedi türü.",
+        "a": "LEOPAR",
+        "level": 1
+      },
+      {
+        "q": "Uzun gagalı ve bacaklı, çatılara yuva yapan göçmen kuş.",
+        "a": "LEYLEK",
+        "level": 1
+      },
+      {
+        "q": "Heyecan verici ve sıra dışı olaylar dizisi.",
+        "a": "MACERA",
+        "level": 1
+      },
+      {
+        "q": "Dağ yamacında veya yer altında kendiliğinden oluşmuş büyük boşluk.",
+        "a": "MAĞARA",
+        "level": 1
+      },
+      {
+        "q": "Çamaşırları ipe tutturmaya yarayan araç veya sürgü.",
+        "a": "MANDAL",
+        "level": 1
+      },
+      {
+        "q": "Açık havada et pişirmek için kullanılan içine kömür konulan kap.",
+        "a": "MANGAL",
+        "level": 1
+      },
+      {
+        "q": "Nemli yerlerde yetişen, bazı türleri yenebilen sporlu canlı.",
+        "a": "MANTAR",
+        "level": 1
+      },
+      {
+        "q": "Su taşımaya yarayan metal veya plastik kap.",
+        "a": "MATARA",
+        "level": 1
+      },
+      {
+        "q": "Delik delmeye yarayan alet.",
+        "a": "MATKAP",
+        "level": 1
+      },
+      {
+        "q": "İnsana en çok benzeyen, ağaçlarda yaşayan memeli hayvan.",
+        "a": "MAYMUN",
+        "level": 1
+      },
+      {
+        "q": "Yemekten sonra diş aralarını temizlemeye yarayan küçük çöp.",
+        "a": "KÜRDAN",
+        "level": 1
+      },
+      {
+        "q": "Giyim eşyalarını sergileyen kişi veya vitrin bebeği.",
+        "a": "MANKEN",
+        "level": 1
+      },
+      {
+        "q": "Karga ailesinden, tamamen siyah tüylü ve iri bir kuş türü.",
+        "a": "KUZGUN",
+        "level": 2
+      },
+      {
+        "q": "Yeni doğum yapmış kadın.",
+        "a": "LOHUSA",
+        "level": 2
+      },
+      {
+        "q": "Utangaç, sıkılgan kimse.",
+        "a": "MAHCUP",
+        "level": 2
+      },
+      {
+        "q": "Yerin altında bulunan, yiyecek veya eşya saklanan depo.",
+        "a": "MAHZEN",
+        "level": 2
+      },
+      {
+        "q": "Alınan bir paranın veya belgenin karşılığında verilen fiş.",
+        "a": "MAKBUZ",
+        "level": 2
+      },
+      {
+        "q": "Zahmetli ve sıkıntılı iş veya büyük masraf.",
+        "a": "KÜLFET",
+        "level": 3
+      },
+      {
+        "q": "Isı değeri düşük bir kömür türü.",
+        "a": "LİNYİT",
+        "level": 3
+      },
+      {
+        "q": "Kemiklerin birleştiği hareketli eklem yeri.",
+        "a": "MAFSAL",
+        "level": 3
+      },
+      {
+        "q": "Yazar veya şairlerin kullandığı takma ad.",
+        "a": "MAHLAS",
+        "level": 3
+      },
+      {
+        "q": "Atı hızlandırmak için binicinin çizme arkasına taktığı demir.",
+        "a": "MAHMUZ",
+        "level": 3
+      },
+      {
+        "q": "Bir verginin miktarını belirlemek için temel alınan değer.",
+        "a": "MATRAH",
+        "level": 3
+      },
+      {
+        "q": "Din ve dünya işlerini birbirinden ayıran, laiklikle ilgili.",
+        "a": "LADİNİ",
+        "level": 3
+      },
+      {
+        "q": "Eski dilde seçkin, beğenilen, çok sevilen.",
+        "a": "MAKBUL",
+        "level": 2
+      },
+      {
+        "q": "Müzikte sözsüz, sadece enstrümanlarla yapılan.",
+        "a": "MANUEL",
+        "level": 2
+      },
+      {
+        "q": "Çok üzgün, kederli kimse.",
+        "a": "MAHZUN",
+        "level": 2
+      },
+      {
+        "q": "Haberleşmek için kağıda yazılıp zarfa konulan ileti.",
+        "a": "MEKTUP",
+        "level": 1
+      },
+      {
+        "q": "Evlerde yemek pişirilen oda veya bölme.",
+        "a": "MUTFAK",
+        "level": 1
+      },
+      {
+        "q": "Suyu açıp kapamaya yarayan metal düzenek.",
+        "a": "MUSLUK",
+        "level": 1
+      },
+      {
+        "q": "Camilerde ezan okunan, ince ve yüksek kule.",
+        "a": "MİNARE",
+        "level": 1
+      },
+      {
+        "q": "Şehirlerdeki geniş, açık alan veya alanın merkezi.",
+        "a": "MEYDAN",
+        "level": 1
+      },
+      {
+        "q": "Hastalık yapan, gözle görülmeyen çok küçük canlı.",
+        "a": "MİKROP",
+        "level": 1
+      },
+      {
+        "q": "Ucunda sivri metal bulunan, fırlatılan uzun silah.",
+        "a": "MIZRAK",
+        "level": 1
+      },
+      {
+        "q": "İnşaatlarda kullanılan değerli ve sert kireç taşı.",
+        "a": "MERMER",
+        "level": 1
+      },
+      {
+        "q": "Burun silmek veya el kurulamak için kullanılan küçük kumaş.",
+        "a": "MENDİL",
+        "level": 1
+      },
+      {
+        "q": "Gülmece ile ilgili olan, güldüren.",
+        "a": "MİZAHİ",
+        "level": 2
+      },
+      {
+        "q": "Akıl yoluyla açıklanamayan, olağanüstü olay.",
+        "a": "MUCİZE",
+        "level": 2
+      },
+      {
+        "q": "Küçük renkli taşların yan yana getirilmesiyle oluşan sanat.",
+        "a": "MOZAİK",
+        "level": 2
+      },
+      {
+        "q": "Otobüslerde bilet kesen veya şoföre yardım eden görevli.",
+        "a": "MUAVİN",
+        "level": 2
+      },
+      {
+        "q": "Savaşçıların başını koruyan çelik başlık.",
+        "a": "MİĞFER",
+        "level": 2
+      },
+      {
+        "q": "İki nokta arasındaki uzaklık, aralık.",
+        "a": "MESAFE",
+        "level": 2
+      },
+      {
+        "q": "Ucunda yanıcı madde bulunan aydınlatma aracı.",
+        "a": "MEŞALE",
+        "level": 2
+      },
+      {
+        "q": "Doğru düşünme kural ve yollarını öğreten disiplin.",
+        "a": "MANTIK",
+        "level": 2
+      },
+      {
+        "q": "Leyla ile meşhur olan halk hikayesi kahramanı, çılgın aşık.",
+        "a": "MECNUN",
+        "level": 2
+      },
+      {
+        "q": "Rendelenmiş kabak, un ve yumurta ile yapılan kızartma.",
+        "a": "MÜCVER",
+        "level": 2
+      },
+      {
+        "q": "Geceleyin ayın yansıttığı parlak ışık.",
+        "a": "MEHTAP",
+        "level": 2
+      },
+      {
+        "q": "Bilinmeyen, kimliği veya sonucu belli olmayan.",
+        "a": "MEÇHUL",
+        "level": 3
+      },
+      {
+        "q": "Anlaşılması güç olan, gizemli durum veya bilmece.",
+        "a": "MUAMMA",
+        "level": 3
+      },
+      {
+        "q": "Ekin yetiştirmeye elverişli, verimli toprak.",
+        "a": "MÜMBİT",
+        "level": 3
+      },
+      {
+        "q": "Bir işin bitirilmesi için verilen ek süre, tanınan zaman.",
+        "a": "MÜHLET",
+        "level": 3
+      },
+      {
+        "q": "Olması mümkün olan, gerçekleşebilir.",
+        "a": "MÜMKÜN",
+        "level": 2
+      },
+      {
+        "q": "Benzerlerinden üstün tutulan, seçkin ve seçkinleştirilmiş.",
+        "a": "MÜMTAZ",
+        "level": 3
+      },
+      {
+        "q": "Kale duvarlarındaki ok atmaya yarayan dar delik veya boşluk.",
+        "a": "MAZGAL",
+        "level": 3
+      },
+      {
+        "q": "Çok sayıda yolcu taşıyan büyük kara taşıtı.",
+        "a": "OTOBÜS",
+        "level": 1
+      },
+      {
+        "q": "Hamur açmaya yarayan silindir şeklindeki ince çubuk.",
+        "a": "OKLAVA",
+        "level": 1
+      },
+      {
+        "q": "Boksta rakibin aldığı darbe sonucu ayağa kalkamaması.",
+        "a": "NAKAVT",
+        "level": 1
+      },
+      {
+        "q": "Birinden veya bir şeyden aşırı derecede soğuma ve tiksinme duygusu.",
+        "a": "NEFRET",
+        "level": 1
+      },
+      {
+        "q": "Sevgi göstergesi olarak dudakla yapılan dokunuş.",
+        "a": "ÖPÜCÜK",
+        "level": 1
+      },
+      {
+        "q": "Çok şık, narin ve genellikle pahalı bir çiçek türü.",
+        "a": "ORKİDE",
+        "level": 1
+      },
+      {
+        "q": "Gerekli özelliklere tam olarak uyan, kurala uygun.",
+        "a": "NORMAL",
+        "level": 1
+      },
+      {
+        "q": "Kızgın olma durumu, hiddet.",
+        "a": "ÖFKELİ",
+        "level": 1
+      },
+      {
+        "q": "Şehirler arası yolcu otobüslerinin kalkış noktası.",
+        "a": "OTOGAR",
+        "level": 1
+      },
+      {
+        "q": "Vücudun temel desteğini oluşturan kemik dizisi.",
+        "a": "OMURGA",
+        "level": 2
+      },
+      {
+        "q": "Sadece bitkilerle beslenen canlı türü.",
+        "a": "OTOBUR",
+        "level": 2
+      },
+      {
+        "q": "Çivi, boya, kilit gibi teknik malzemeler satan esnaf.",
+        "a": "NALBUR",
+        "level": 2
+      },
+      {
+        "q": "Bir şeyin örneği, numunesi.",
+        "a": "NUMUNE",
+        "level": 2
+      },
+      {
+        "q": "Bozulmuş bir şeyi eski ve işler haline getirme, tamir.",
+        "a": "ONARIM",
+        "level": 2
+      },
+      {
+        "q": "Ameliyatlarda kullanılan çok keskin, küçük bıçak.",
+        "a": "NEŞTER",
+        "level": 2
+      },
+      {
+        "q": "Hoş kokulu, sarı-beyaz renkli bir ilkbahar çiçeği.",
+        "a": "NERGİS",
+        "level": 2
+      },
+      {
+        "q": "Gelecekte olabilecekleri önceden kestirme yetisi.",
+        "a": "ÖNGÖRÜ",
+        "level": 2
+      },
+      {
+        "q": "Karakter veya nesne olarak çok az bulunan, değerli.",
+        "a": "NADİDE",
+        "level": 2
+      },
+      {
+        "q": "İyilik bilmeyen, kendisine yapılan yardımı unutan.",
+        "a": "NANKÖR",
+        "level": 1
+      },
+      {
+        "q": "Gereksiz yere harcama yapan, parasını saçıp savuran.",
+        "a": "MÜSRİF",
+        "level": 3
+      },
+      {
+        "q": "Belirsiz, ne olduğu tam olarak anlaşılamayan.",
+        "a": "MÜPHEM",
+        "level": 3
+      },
+      {
+        "q": "Boşta olan, görevli bekleyen kadro veya makam.",
+        "a": "MÜNHAL",
+        "level": 3
+      },
+      {
+        "q": "Kendi kendini yöneten sistem veya araç.",
+        "a": "OTONOM",
+        "level": 3
+      },
+      {
+        "q": "Ölüm nedenini belirlemek için yapılan tıbbi inceleme.",
+        "a": "OTOPSİ",
+        "level": 3
+      },
+      {
+        "q": "Dini veya hukuki bir kuralın sonucu, netice.",
+        "a": "NETİCE",
+        "level": 2
+      },
+      {
+        "q": "Geleneksel müzikte 'Ney' çalan sanatçı.",
+        "a": "NEYZEN",
+        "level": 2
+      },
+      {
+        "q": "Sürekli hale gelmiş, iyileşmesi zor hastalık.",
+        "a": "MÜZMİN",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyin eksik olması durumu, kusur.",
+        "a": "NOKSAN",
+        "level": 2
+      },
+      {
+        "q": "Kuyumculukta süsleme yapan sanatçı.",
+        "a": "NAKKAŞ",
+        "level": 3
+      },
+      {
+        "q": "Gerekli bir iş için ayrılan para, bütçe.",
+        "a": "ÖDENEK",
+        "level": 3
+      },
+      {
+        "q": "Elin veya ayağın uç kısımlarındaki beş parçadan her biri.",
+        "a": "PARMAK",
+        "level": 1
+      },
+      {
+        "q": "Sütten yapılan, kahvaltının vazgeçilmezi olan besin.",
+        "a": "PEYNİR",
+        "level": 1
+      },
+      {
+        "q": "Gece yatarken giyilen rahat kıyafet.",
+        "a": "PİJAMA",
+        "level": 1
+      },
+      {
+        "q": "Güzel havada açık alanda yenilen yemek ve eğlence.",
+        "a": "PİKNİK",
+        "level": 1
+      },
+      {
+        "q": "Tuşlu ve telli, büyük bir müzik aleti.",
+        "a": "PİYANO",
+        "level": 1
+      },
+      {
+        "q": "Yön bulmaya yarayan, mıknatıslı araç.",
+        "a": "PUSULA",
+        "level": 1
+      },
+      {
+        "q": "Doktorun hastası için yazdığı ilaç listesi.",
+        "a": "REÇETE",
+        "level": 1
+      },
+      {
+        "q": "Belirli bir kurala göre tekrarlayan şekil veya sayı dizisi.",
+        "a": "ÖRÜNTÜ",
+        "level": 2
+      },
+      {
+        "q": "Başkası için kendi yararından vazgeçme, fedakarlık.",
+        "a": "ÖZVERİ",
+        "level": 2
+      },
+      {
+        "q": "Pencereleri ışık ve dış etkilerden koruyan kapaklı düzenek.",
+        "a": "PANJUR",
+        "level": 2
+      },
+      {
+        "q": "Vücuda hoş koku vermek için sürülen sıvı.",
+        "a": "PARFÜM",
+        "level": 2
+      },
+      {
+        "q": "Bir yere giriş yapmak için kullanılan gizli kelime.",
+        "a": "PAROLA",
+        "level": 2
+      },
+      {
+        "q": "Yemek yerken ağız silmeye yarayan kağıt veya kumaş.",
+        "a": "PEÇETE",
+        "level": 1
+      },
+      {
+        "q": "Meyve sularının kaynatılarak koyulaştırılmasıyla yapılan tatlı sıvı.",
+        "a": "PEKMEZ",
+        "level": 2
+      },
+      {
+        "q": "Daire çizmeye yarayan metal veya plastik araç.",
+        "a": "PERGEL",
+        "level": 2
+      },
+      {
+        "q": "Gerekli kiloya ulaşmak veya sağlık için uygulanan beslenme düzeni.",
+        "a": "PERHİZ",
+        "level": 2
+      },
+      {
+        "q": "Pilavın ana malzemesi olan küçük beyaz taneler.",
+        "a": "PİRİNÇ",
+        "level": 1
+      },
+      {
+        "q": "Yaptığı bir işten dolayı üzüntü duyma hali.",
+        "a": "PİŞMAN",
+        "level": 2
+      },
+      {
+        "q": "İçine peynir veya kıyma konularak fırınlanan hamur işi.",
+        "a": "POĞAÇA",
+        "level": 1
+      },
+      {
+        "q": "Kuzeybatıdan esen soğuk rüzgar türü.",
+        "a": "POYRAZ",
+        "level": 2
+      },
+      {
+        "q": "Kullanışlı, işe yarar ve kolay uygulanan.",
+        "a": "PRATİK",
+        "level": 2
+      },
+      {
+        "q": "Yol gösteren kimse veya açıklayıcı kitapçık.",
+        "a": "REHBER",
+        "level": 2
+      },
+      {
+        "q": "Kulağı yutağa bağlayan kanalın adı.",
+        "a": "ÖSTAKİ",
+        "level": 3
+      },
+      {
+        "q": "Uzak Doğu tapınaklarına verilen ad.",
+        "a": "PAGODA",
+        "level": 3
+      },
+      {
+        "q": "İki para birimi arasındaki değer eşitliği.",
+        "a": "PARİTE",
+        "level": 3
+      },
+      {
+        "q": "Eski dilde güzel koku, ıtır.",
+        "a": "RAYİHA",
+        "level": 3
+      },
+      {
+        "q": "Atın bir tür hızlı ve sarsmayan yürüyüş biçimi.",
+        "a": "RAHVAN",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi doğrudan anlatmak yerine taklit yoluyla yapılan sanat.",
+        "a": "PASTİŞ",
+        "level": 3
+      },
+      {
+        "q": "Alın üzerinden kaşlara doğru sarkan saç tutamı.",
+        "a": "PERÇEM",
+        "level": 3
+      },
+      {
+        "q": "Eski dilde gizli, saklı olan.",
+        "a": "PİNHAN",
+        "level": 3
+      },
+      {
+        "q": "Eskiden kullanılan tek atışlık bir tabanca türü.",
+        "a": "PİŞTOV",
+        "level": 3
+      },
+      {
+        "q": "Toprağın altında yetişen, kırmızı renkli ve şekerli kök bitki.",
+        "a": "PANCAR",
+        "level": 2
+      },
+      {
+        "q": "Ürün veya hizmeti tanıtmak için yapılan çalışma.",
+        "a": "REKLAM",
+        "level": 1
+      },
+      {
+        "q": "Resim yapan sanatçı.",
+        "a": "RESSAM",
+        "level": 1
+      },
+      {
+        "q": "Havanın yer değiştirmesiyle oluşan esinti.",
+        "a": "RÜZGÂR",
+        "level": 1
+      },
+      {
+        "q": "Vücut ve ruhun esenlik içinde olması durumu.",
+        "a": "SAĞLIK",
+        "level": 1
+      },
+      {
+        "q": "Domates, salatalık ve yeşilliklerle yapılan soğuk yiyecek.",
+        "a": "SALATA",
+        "level": 1
+      },
+      {
+        "q": "Eşya saklamaya yarayan, tahta veya metal büyük kutu.",
+        "a": "SANDIK",
+        "level": 1
+      },
+      {
+        "q": "Gelecek yıl.",
+        "a": "SENEYE",
+        "level": 1
+      },
+      {
+        "q": "Mutluluk duygusu.",
+        "a": "SEVİNÇ",
+        "level": 1
+      },
+      {
+        "q": "Gözün ışığa duyarlı en iç tabakası.",
+        "a": "RETİNA",
+        "level": 2
+      },
+      {
+        "q": "Şerbetli, irmikli klasik bir Türk tatlısı.",
+        "a": "REVANİ",
+        "level": 2
+      },
+      {
+        "q": "Güzel kokulu bir bitki veya bir kadın ismi.",
+        "a": "REYHAN",
+        "level": 2
+      },
+      {
+        "q": "Gemilerin yanaştığı, kıyı boyunca uzanan yer.",
+        "a": "RIHTIM",
+        "level": 2
+      },
+      {
+        "q": "Allah rızası için verilen yardım.",
+        "a": "SADAKA",
+        "level": 2
+      },
+      {
+        "q": "Yemeklere renk ve koku veren çok değerli bir baharat.",
+        "a": "SAFRAN",
+        "level": 2
+      },
+      {
+        "q": "İçten, yapmacıksız davranış.",
+        "a": "SAMİMİ",
+        "level": 2
+      },
+      {
+        "q": "Ham maddelerin işlendiği tesislerin bütünü.",
+        "a": "SANAYİ",
+        "level": 2
+      },
+      {
+        "q": "Yazın giyilen açık ayakkabı.",
+        "a": "SANDAL",
+        "level": 2
+      },
+      {
+        "q": "Yayınların denetlenmesi veya kısıtlanması.",
+        "a": "SANSÜR",
+        "level": 2
+      },
+      {
+        "q": "Değerli madenlerin alım satımını yapan kişi.",
+        "a": "SARRAF",
+        "level": 2
+      },
+      {
+        "q": "Arkasını gösteren, şeffaf.",
+        "a": "SAYDAM",
+        "level": 2
+      },
+      {
+        "q": "Üstün nitelikli, seçilmiş olan.",
+        "a": "SEÇKİN",
+        "level": 2
+      },
+      {
+        "q": "Bir düşünceyi veya durumu temsil eden işaret.",
+        "a": "SEMBOL",
+        "level": 2
+      },
+      {
+        "q": "Işık, ısı veya hareketi algılayan cihaz.",
+        "a": "SENSÖR",
+        "level": 2
+      },
+      {
+        "q": "Büyük zenginlik, mal mülk.",
+        "a": "SERVET",
+        "level": 2
+      },
+      {
+        "q": "Yemek sunumu veya araç bakımı gibi işlerin bütünü.",
+        "a": "SERVİS",
+        "level": 2
+      },
+      {
+        "q": "Vücudun tam iyilik hali, sağlık.",
+        "a": "SIHHAT",
+        "level": 2
+      },
+      {
+        "q": "Akım şiddetini ayarlamaya yarayan direnç.",
+        "a": "REOSTA",
+        "level": 3
+      },
+      {
+        "q": "Tiyatroda oyuncunun sözlerinden her biri.",
+        "a": "REPLİK",
+        "level": 3
+      },
+      {
+        "q": "Parlaklık, göz alıcılık.",
+        "a": "REVNAK",
+        "level": 3
+      },
+      {
+        "q": "Anason kokulu, tıbbi ve aromatik bir bitki.",
+        "a": "REZENE",
+        "level": 3
+      },
+      {
+        "q": "Kurallara uyma, saygı gösterme.",
+        "a": "RİAYET",
+        "level": 3
+      },
+      {
+        "q": "İncelik, naziklik veya dikkat.",
+        "a": "RİKKAT",
+        "level": 3
+      },
+      {
+        "q": "Küçük kitap, broşür.",
+        "a": "RİSALE",
+        "level": 3
+      },
+      {
+        "q": "Bitki tohumunun içinde bulunan embriyo, öz.",
+        "a": "RÜŞEYM",
+        "level": 3
+      },
+      {
+        "q": "Geçmişte işlenmiş suç kaydı.",
+        "a": "SABIKA",
+        "level": 3
+      },
+      {
+        "q": "Bir asılma noktasından sallanan ağırlık düzeneği.",
+        "a": "SARKAÇ",
+        "level": 3
+      },
+      {
+        "q": "Mağara tavanlarından aşağı doğru sarkan kireç birikintisi.",
+        "a": "SARKIT",
+        "level": 3
+      },
+      {
+        "q": "Birinin gizli sırlarını bilen çok yakın dost.",
+        "a": "SIRDAŞ",
+        "level": 3
+      },
+      {
+        "q": "Ağaçlarda yaşayan, palamut ve fındık seven, uzun kuyruklu kemirgen.",
+        "a": "SİNCAP",
+        "level": 1
+      },
+      {
+        "q": "Film izlemek için gidilen büyük salon veya sanat dalı.",
+        "a": "SİNEMA",
+        "level": 1
+      },
+      {
+        "q": "Trafikte dönüş yaparken diğer araçları uyarmak için yakılan ışık.",
+        "a": "SİNYAL",
+        "level": 1
+      },
+      {
+        "q": "Bir amaca ulaşmak için kullanılan slogan veya kısa söz.",
+        "a": "SLOGAN",
+        "level": 1
+      },
+      {
+        "q": "Özellikle özel davetlerde erkeklerin giydiği çok şık takım elbise.",
+        "a": "SMOKİN",
+        "level": 2
+      },
+      {
+        "q": "Arkadaşça yapılan tatlı ve içten konuşma.",
+        "a": "SOHBET",
+        "level": 1
+      },
+      {
+        "q": "Ucu bucağı olmayan, bitmeyen.",
+        "a": "SONSUZ",
+        "level": 1
+      },
+      {
+        "q": "Kelimelerin anlamlarını veya başka dildeki karşılıklarını gösteren kitap.",
+        "a": "SÖZLÜK",
+        "level": 1
+      },
+      {
+        "q": "Televizyon veya radyoda haber sunan görevli.",
+        "a": "SPİKER",
+        "level": 2
+      },
+      {
+        "q": "Taşıtlarda bulunan yedek lastik.",
+        "a": "STEPNE",
+        "level": 2
+      },
+      {
+        "q": "Mikroplardan tamamen arındırılmış, tertemiz.",
+        "a": "STERİL",
+        "level": 2
+      },
+      {
+        "q": "Rakamları belirli bir kurala göre kutulara yerleştirme oyunu.",
+        "a": "SUDOKU",
+        "level": 1
+      },
+      {
+        "q": "Hoş kokulu, soğanlı, mor veya pembe çiçekleri olan bahar bitkisi.",
+        "a": "SÜMBÜL",
+        "level": 2
+      },
+      {
+        "q": "Suyu çok iyi emen, temizlikte kullanılan gözenekli madde.",
+        "a": "SÜNGER",
+        "level": 1
+      },
+      {
+        "q": "Su veya içecek koymaya yarayan, kulplu cam kap.",
+        "a": "SÜRAHİ",
+        "level": 1
+      },
+      {
+        "q": "Süt, şeker ve pirinçle yapılan geleneksel bir fırın tatlısı.",
+        "a": "SÜTLAÇ",
+        "level": 1
+      },
+      {
+        "q": "Sıvıları katı maddelerden ayırmaya yarayan delikli mutfak aracı.",
+        "a": "SÜZGEÇ",
+        "level": 1
+      },
+      {
+        "q": "Yüksekten dökülen büyük su akıntısı, çağlayan.",
+        "a": "ŞELALE",
+        "level": 1
+      },
+      {
+        "q": "Meyve suyu ve şekerle yapılan geleneksel içecek.",
+        "a": "ŞERBET",
+        "level": 2
+      },
+      {
+        "q": "Gök gürültüsü ile birlikte görülen güçlü ve anlık ışık parlaması.",
+        "a": "ŞİMŞEK",
+        "level": 1
+      },
+      {
+        "q": "Kilo fazlası olan, zayıf karşıtı.",
+        "a": "ŞİŞMAN",
+        "level": 1
+      },
+      {
+        "q": "Elektrik devresini açıp kapayan anahtar düzeneneği.",
+        "a": "ŞALTER",
+        "level": 2
+      },
+      {
+        "q": "Üzerine mum dikilen, süslü ve genellikle metal tutucu.",
+        "a": "ŞAMDAN",
+        "level": 2
+      },
+      {
+        "q": "Birinin gizli bir bilgisini açıklama tehdidiyle çıkar sağlama.",
+        "a": "ŞANTAJ",
+        "level": 3
+      },
+      {
+        "q": "Bir nesnenin sadece dış hatlarıyla beliren gölgesi, karaltısı.",
+        "a": "SİLÜET",
+        "level": 3
+      },
+      {
+        "q": "Gizli bir şekilde sızma veya bir yerden başka bir yere geçme.",
+        "a": "SIZMAK",
+        "level": 2
+      },
+      {
+        "q": "Geleneksel Türk ordusundaki atlı askerlere verilen isim.",
+        "a": "SİPAHİ",
+        "level": 3
+      },
+      {
+        "q": "Gürültülü, neşeli ve bazen boş konuşmalarla geçen eğlence.",
+        "a": "ŞAMATA",
+        "level": 2
+      },
+      {
+        "q": "Yol gösteren kimse veya açıklayıcı, yol gösterici metin.",
+        "a": "ŞİRAZE",
+        "level": 3
+      },
+      {
+        "q": "Işık geçiren, arkası görülebilen.",
+        "a": "ŞEFFAF",
+        "level": 2
+      },
+      {
+        "q": "Soyun devamını gösteren ağaç şeklindeki çizelge.",
+        "a": "ŞECERE",
+        "level": 3
+      },
+      {
+        "q": "Meyve bahçesi veya çiçek bahçesi.",
+        "a": "ŞENLİK",
+        "level": 2
+      },
+      {
+        "q": "Banyoda su ısıtmak için kullanılan cihaz.",
+        "a": "ŞOFBEN",
+        "level": 1
+      },
+      {
+        "q": "Eskiden ısınmak için odalarda yakılan, duvar içinde bulunan bacalı yer.",
+        "a": "ŞÖMİNE",
+        "level": 1
+      },
+      {
+        "q": "Ressamların tuvallerini koyduğu üç ayaklı destek.",
+        "a": "ŞÖVALE",
+        "level": 2
+      },
+      {
+        "q": "Yapılan bir iyiliğe karşı hissedilen minnet duygusu.",
+        "a": "ŞÜKRAN",
+        "level": 2
+      },
+      {
+        "q": "Dükkanların önünde asılı duran tanıtım levhası.",
+        "a": "TABELA",
+        "level": 1
+      },
+      {
+        "q": "Dokunmatik ekranlı, taşınabilir bilgisayar.",
+        "a": "TABLET",
+        "level": 1
+      },
+      {
+        "q": "Sırtlığı olmayan, tek kişilik küçük iskemle.",
+        "a": "TABURE",
+        "level": 1
+      },
+      {
+        "q": "Doğayı, bitkileri ve çevreyi kapsayan genel kavram.",
+        "a": "TABİAT",
+        "level": 2
+      },
+      {
+        "q": "Bir sonucun ne olacağını önceden kestirmeye çalışmak.",
+        "a": "TAHMİN",
+        "level": 1
+      },
+      {
+        "q": "Yıkma, bozma, kullanılamaz hale getirme işi.",
+        "a": "TAHRİP",
+        "level": 2
+      },
+      { "q": "Bir şeyi inceleme, analiz etme.", "a": "TAHLİL", "level": 2 },
+      {
+        "q": "Öğrenim görme veya borcu toplama eylemi.",
+        "a": "TAHSİL",
+        "level": 2
+      },
+      {
+        "q": "Birini birine tanıştırma veya sunum yapma.",
+        "a": "TAKDİM",
+        "level": 2
+      },
+      {
+        "q": "Beğenilen bir şeyi ödüllendirme veya değerini bilme.",
+        "a": "TAKDİR",
+        "level": 2
+      },
+      {
+        "q": "Günleri, ayları ve yılları gösteren çizelge.",
+        "a": "TAKVİM",
+        "level": 1
+      },
+      {
+        "q": "Borcun belirli zamanlarda ödenen parçalarından her biri.",
+        "a": "TAKSİT",
+        "level": 1
+      },
+      {
+        "q": "Belirli bir hedefe ulaşmak için planlanan yöntem.",
+        "a": "TAKTİK",
+        "level": 2
+      },
+      { "q": "Öğrenim gören kimse, öğrenci.", "a": "TALEBE", "level": 1 },
+      {
+        "q": "Sıvı madde taşıyan büyük gemi veya kamyon.",
+        "a": "TANKER",
+        "level": 1
+      },
+      {
+        "q": "Yere çukur kazılarak yapılan özel ekmek fırını.",
+        "a": "TANDIR",
+        "level": 2
+      },
+      {
+        "q": "Hoş kokulu, kabuk şeklinde kullanılan bir baharat.",
+        "a": "TARÇIN",
+        "level": 1
+      },
+      { "q": "Zihinde hazırlanan plan, proje.", "a": "TASARI", "level": 2 },
+      {
+        "q": "Uzun kulaklı, hızlı koşan ve havuç seven memeli hayvan.",
+        "a": "TAVŞAN",
+        "level": 1
+      },
+      {
+        "q": "Okyanuslarda görülen çok şiddetli fırtına.",
+        "a": "TAYFUN",
+        "level": 2
+      },
+      {
+        "q": "Ceket ve etekten oluşan kadın giysisi.",
+        "a": "TAYYÖR",
+        "level": 3
+      },
+      {
+        "q": "Yeni ölen birinin yakınlarına duyulan acıyı paylaşma.",
+        "a": "TAZİYE",
+        "level": 2
+      },
+      {
+        "q": "Hastalığı iyileştirmek için uygulanan yöntemler.",
+        "a": "TEDAVİ",
+        "level": 1
+      },
+      {
+        "q": "Bir tehlikeyi önlemek için önceden alınan önlem.",
+        "a": "TEDBİR",
+        "level": 2
+      },
+      {
+        "q": "Orduda rütbesi asteğmen ile üsteğmen arasında olan subay.",
+        "a": "TEĞMEN",
+        "level": 2
+      },
+      { "q": "Yeniden yapma, yineleme.", "a": "TEKRAR", "level": 1 },
+      {
+        "q": "Üzerinde tek bir pırlanta bulunan yüzük.",
+        "a": "TEKTAŞ",
+        "level": 1
+      },
+      {
+        "q": "Bozulan bir durumu düzeltme, zararı giderme.",
+        "a": "TELAFİ",
+        "level": 2
+      },
+      {
+        "q": "Kablo olmadan haberleşmeyi sağlayan cihaz.",
+        "a": "TELSİZ",
+        "level": 2
+      },
+      { "q": "Çalışmayı sevmeyen, uyuşuk kimse.", "a": "TEMBEL", "level": 1 },
+      {
+        "q": "Bir şeyi yapması için birine verilen sıkı uyarı.",
+        "a": "TEMBİH",
+        "level": 2
+      },
+      { "q": "Yılın yedinci ayı.", "a": "TEMMUZ", "level": 1 },
+      {
+        "q": "Birini veya bir topluluğu başkaları önünde canlandırma.",
+        "a": "TEMSİL",
+        "level": 2
+      },
+      { "q": "İnce sacdan yapılmış hafif kap.", "a": "TENEKE", "level": 1 },
+      { "q": "Ağırlık ölçmeye yarayan araç.", "a": "TERAZİ", "level": 1 },
+      { "q": "Ev içinde giyilen hafif ayakkabı.", "a": "TERLIK", "level": 1 },
+      {
+        "q": "İçecekleri sıcak veya soğuk tutan yalıtımlı kap.",
+        "a": "TERMOS",
+        "level": 1
+      },
+      { "q": "Dikiş dikme ve giysi yapma ustası.", "a": "TERZİ", "level": 1 },
+      { "q": "Bir şeyi sıralama, düzenleme işi.", "a": "TERTİP", "level": 2 },
+      {
+        "q": "Doğruluğu ispatlanması gereken bilimsel önerme.",
+        "a": "TEOREM",
+        "level": 3
+      },
+      {
+        "q": "Denetleme, her şeyi yerinde kontrol etme.",
+        "a": "TEFTİŞ",
+        "level": 3
+      },
+      { "q": "Yüksek faizle para ödünç veren kimse.", "a": "TEFECİ", "level": 3 },
+      {
+        "q": "Eski dilde ölümden sonra cesedin bozulmaması için yapılan işlem.",
+        "a": "TAHNİT",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi başka bir şeye dönüştürme veya değerli kağıt.",
+        "a": "TAHVİL",
+        "level": 3
+      },
+      {
+        "q": "Mahkeme kararının üst mahkemece incelenmesi süreci.",
+        "a": "TEMYİZ",
+        "level": 3
+      },
+      { "q": "Bir eseri veya düşünceyi eleştirme.", "a": "TENKİT", "level": 3 },
+      {
+        "q": "Kuran-ı Kerim'i yorumlama ve açıklama bilimi.",
+        "a": "TEFSİR",
+        "level": 3
+      },
+      { "q": "Yükleme yapma, bir araca yük koyma.", "a": "TAHMİL", "level": 3 },
+      {
+        "q": "Bir şeyi resmi olarak bildirme, duyuru.",
+        "a": "TEBLİĞ",
+        "level": 3
+      },
+      { "q": "Bir şeyi parçalara ayırarak inceleme.", "a": "TEFRİK", "level": 3 },
+      { "q": "Bir yeri döşeme, mobilya ile donatma.", "a": "TEFRİŞ", "level": 3 },
+      {
+        "q": "Toplumda eskiden beri süregelen kural dışı uygulama.",
+        "a": "TEAMÜL",
+        "level": 3
+      },
+      {
+        "q": "Birini dış dünyadan ayırma, yalnız bırakma.",
+        "a": "TECRİT",
+        "level": 3
+      },
+      { "q": "Sıkıştırma, baskı veya basınç yapma.", "a": "TAZYİK", "level": 3 },
+      {
+        "q": "Bir şeyin ana hatlarını gösteren ön hazırlık, çizim.",
+        "a": "TASLAK",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi resimle veya sözle canlandırma.",
+        "a": "TASVİR",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi bir yere yerleştirme veya ayırma.",
+        "a": "TAHSİS",
+        "level": 3
+      },
+      { "q": "Müzikte telli bir çalgı türü.", "a": "TAMBUR", "level": 2 },
+      { "q": "İlaçlarda hap veya yassı biçim.", "a": "TABLET", "level": 1 },
+      { "q": "Fiziksel veya ruhsal tedavi yöntemi.", "a": "TERAPİ", "level": 2 },
+      {
+        "q": "Sıcak su kaynaklarıyla ilgili sağlık tesisi.",
+        "a": "TERMAL",
+        "level": 2
+      },
+      { "q": "Hızlı koşan bir av köpeği türü.", "a": "TAZICI", "level": 2 },
+      {
+        "q": "Boru içindeki basıncı veya akışı ölçen alet.",
+        "a": "TANNAN",
+        "level": 3
+      },
+      {
+        "q": "Bir işin yapılması için sunulan öneri.",
+        "a": "TEKLİF",
+        "level": 2
+      },
+      { "q": "Bir şeyi onaylama, imzalama.", "a": "TASDİK", "level": 3 },
+      { "q": "Hata veya yanlışları düzeltme.", "a": "TASHİH", "level": 3 },
+      { "q": "Parmak uçlarını koruyan sert tabaka.", "a": "TIRNAK", "level": 1 },
+      {
+        "q": "Kelebek olmadan önceki çok ayaklı tırtılın ilerlemiş hali.",
+        "a": "TIRTIL",
+        "level": 1
+      },
+      {
+        "q": "Nehirlerde yaşayan, güçlü çeneli, büyük ve tehlikeli sürüngen.",
+        "a": "TİMSAH",
+        "level": 1
+      },
+      {
+        "q": "Yazın giyilen, kısa kollu, pamuklu üst giysisi.",
+        "a": "TİŞÖRT",
+        "level": 1
+      },
+      {
+        "q": "Yeryüzünün bitki yetişen en üst katmanı.",
+        "a": "TOPRAK",
+        "level": 1
+      },
+      { "q": "Yollardaki araç yoğunluğu ve akışı.", "a": "TRAFİK", "level": 1 },
+      {
+        "q": "Gezmek amacıyla bir yerden başka bir yere giden kişi.",
+        "a": "TURİST",
+        "level": 1
+      },
+      {
+        "q": "Mutfak masasında duran, içine tuz konulan kap.",
+        "a": "TUZLUK",
+        "level": 1
+      },
+      {
+        "q": "Birbirine dik olan iki çizginin oluşturduğu durum.",
+        "a": "TEKSİZ",
+        "level": 2
+      },
+      {
+        "q": "Dik kenarları olan, derin ve tehlikeli yer, uçurum.",
+        "a": "UÇURUM",
+        "level": 1
+      },
+      {
+        "q": "Bir şeyi yapacağına dair kendine güvenme, ümit etme.",
+        "a": "UMUTLU",
+        "level": 1
+      },
+      { "q": "Boyu normalden çok daha uzun olan.", "a": "UPUZUN", "level": 1 },
+      {
+        "q": "İnsan yapımı araçlarla başka gezegenlere giden varlık.",
+        "a": "UZAYLI",
+        "level": 1
+      },
+      { "q": "Sıralamada ikinciden sonra gelen.", "a": "ÜÇÜNCÜ", "level": 1 },
+      {
+        "q": "Dua ederken veya meditasyon yaparken kullanılan boncuk dizisi.",
+        "a": "TESPİH",
+        "level": 2
+      },
+      {
+        "q": "Bir durumun veya nesnenin ne olduğunu kesin olarak belirleme.",
+        "a": "TESPİT",
+        "level": 2
+      },
+      {
+        "q": "Doktorun bir hastalığın ne olduğunu belirlemesi.",
+        "a": "TEŞHİS",
+        "level": 2
+      },
+      {
+        "q": "Bir işi yapması için birine cesaret verme, isteklendirme.",
+        "a": "TEŞVİK",
+        "level": 2
+      },
+      { "q": "Derinlemesine inceleme, araştırma.", "a": "TETKİK", "level": 2 },
+      {
+        "q": "Marangozların veya zanaatkarların üzerinde çalıştığı masa.",
+        "a": "TEZGÂH",
+        "level": 2
+      },
+      {
+        "q": "Bahçedeki kuru yaprakları toplamaya yarayan taraklı araç.",
+        "a": "TIRMIK",
+        "level": 2
+      },
+      {
+        "q": "Ekinleri biçmeye yarayan, uzun saplı ve büyük kavisli bıçak.",
+        "a": "TIRPAN",
+        "level": 2
+      },
+      {
+        "q": "Doğaüstü gücü olduğuna inanılan büyülü nesne veya durum.",
+        "a": "TILSIM",
+        "level": 2
+      },
+      { "q": "Zayıf olmayan, kilolu veya gürbüz.", "a": "TOMBUL", "level": 1 },
+      {
+        "q": "Ortak bir amaçla bir arada yaşayan insan topluluğu.",
+        "a": "TOPLUM",
+        "level": 2
+      },
+      {
+        "q": "Stadyumlarda seyircilerin oturduğu basamaklı yer.",
+        "a": "TRİBÜN",
+        "level": 2
+      },
+      {
+        "q": "Ticaretle uğraşan, mal alıp satan kişi.",
+        "a": "TÜCCAR",
+        "level": 2
+      },
+      {
+        "q": "Düz yoldaki küçük yükselti, küçük tepe.",
+        "a": "TÜMSEK",
+        "level": 1
+      },
+      {
+        "q": "Kadınların başlarına bağladıkları örtü türü.",
+        "a": "TÜRBAN",
+        "level": 2
+      },
+      {
+        "q": "Gezip görme ve dinlenme amacıyla yapılan seyahatlerin bütünü.",
+        "a": "TURİZM",
+        "level": 2
+      },
+      {
+        "q": "Birbirine yapıştırılacak nesneler arasına sürülen madde.",
+        "a": "TUTKAL",
+        "level": 2
+      },
+      { "q": "Savaşta düşman eline düşen kişi.", "a": "TUTSAK", "level": 2 },
+      {
+        "q": "Alçakgönüllülük, kibirli olmama durumu.",
+        "a": "TEVAZU",
+        "level": 3
+      },
+      {
+        "q": "Bir şeyi belgelerle kanıtlama, belgeleme.",
+        "a": "TEVSİK",
+        "level": 3
+      },
+      { "q": "Süsleme, bezeme sanatı.", "a": "TEZYİN", "level": 3 },
+      { "q": "Kurma, oluşturma, meydana getirme.", "a": "TEŞKİL", "level": 3 },
+      { "q": "Bir yere gelerek orayı onurlandırma.", "a": "TEŞRİF", "level": 3 },
+      {
+        "q": "Anatomi, bir şeyi parçalara ayırarak inceleme.",
+        "a": "TEŞRİH",
+        "level": 3
+      },
+      {
+        "q": "Hukuki olarak birini tutuklama, alıkoyma.",
+        "a": "TEVKİF",
+        "level": 3
+      },
+      {
+        "q": "Birlik, birleme; Allah'ın birliğine inanma.",
+        "a": "TEVHİT",
+        "level": 3
+      },
+      {
+        "q": "Bir kimsenin yaradılıştan gelen huyu, karakteri.",
+        "a": "TIYNAT",
+        "level": 3
+      },
+      { "q": "Kötü bir zanda bırakma, suçlama.", "a": "TÖHMET", "level": 3 },
+      {
+        "q": "Kutup bölgelerinde görülen bodur bitki örtüsü.",
+        "a": "TUNDRA",
+        "level": 3
+      },
+      { "q": "Kötü koku veya iltihaplı durum.", "a": "UFUNET", "level": 3 },
+      { "q": "Dünya ötesi, ahiret ile ilgili olan.", "a": "UHREVİ", "level": 3 },
+      {
+        "q": "Saz çalarken kullanılan küçük plastik fildişi gereç.",
+        "a": "TEZENE",
+        "level": 3
+      },
+      {
+        "q": "Vücutta boyun bölgesinde bulunan önemli bir bez.",
+        "a": "TİROİT",
+        "level": 2
+      },
+      { "q": "Vücuda zarar veren zehirli madde.", "a": "TOKSİN", "level": 2 },
+      { "q": "Bir şeyi hoş görme, katlanma.", "a": "TOLERE", "level": 2 },
+      {
+        "q": "Mücevherlerin veya antikaların üzerine işlenen altın kaplama.",
+        "a": "TOMBAK",
+        "level": 3
+      },
+      {
+        "q": "Matematikte sayıların birleşimiyle elde edilen sonuç.",
+        "a": "TOPLAM",
+        "level": 1
+      },
+      {
+        "q": "Değiş tokuş, bir şeyi başka bir şeyle takas etme.",
+        "a": "TRAMPA",
+        "level": 3
+      },
+      {
+        "q": "Sirklerde cambazların üzerinde gösteri yaptığı asılı bar.",
+        "a": "TRAPEZ",
+        "level": 3
+      },
+      {
+        "q": "Sıcak ve nemli kuşak, dönenceler arası bölge.",
+        "a": "TROPİK",
+        "level": 2
+      },
+      {
+        "q": "Yolculuk sırasında duyulan kesintisiz ve boğuk ses.",
+        "a": "UĞULTU",
+        "level": 2
+      },
+      {
+        "q": "Bir yerden bir yere gitmeyi sağlayan sistem.",
+        "a": "ULAŞIM",
+        "level": 1
+      },
+      {
+        "q": "Milletin tamamını ilgilendiren, milli.",
+        "a": "ULUSAL",
+        "level": 1
+      },
+      {
+        "q": "Berberlerin kullandığı çok keskin bıçak.",
+        "a": "USTURA",
+        "level": 2
+      },
+      {
+        "q": "Uykusu gelmiş olan veya uykudan yeni kalkmış.",
+        "a": "UYKULU",
+        "level": 1
+      },
+      {
+        "q": "Parçaların birbirine uyması hali, ahenk.",
+        "a": "UYUMLU",
+        "level": 1
+      },
+      { "q": "Bir şeyin parçası, eki veya kolu.", "a": "UZANTI", "level": 2 },
+      { "q": "Uyumadan duran, dikkati yerinde olan.", "a": "UYANIK", "level": 1 },
+      { "q": "Uykuyu çok seven kişi.", "a": "UYKUCU", "level": 1 },
+      {
+        "q": "Eskiden kitapları elle yazan ve süsleyen sanatçı.",
+        "a": "TEZHİP",
+        "level": 3
+      },
+      {
+        "q": "Hammaddeden yeni bir mal ortaya çıkarma süreci.",
+        "a": "ÜRETİM",
+        "level": 2
+      },
+      {
+        "q": "Korku veren, insanın tüylerini diken diken eden.",
+        "a": "ÜRKÜNÇ",
+        "level": 1
+      },
+      {
+        "q": "Böbrek ve idrar yolları hastalıkları uzmanı doktor.",
+        "a": "ÜROLOG",
+        "level": 2
+      },
+      {
+        "q": "Soğuk etkisiyle titreme veya üşüme hissetme.",
+        "a": "ÜŞÜMEK",
+        "level": 1
+      },
+      {
+        "q": "Gerçekleşmesi imkansız, hayali ve mükemmel toplum tasarımı.",
+        "a": "ÜTOPYA",
+        "level": 3
+      },
+      {
+        "q": "Eyerin iki yanında asılı duran, ayak basılan metal halka.",
+        "a": "ÜZENGİ",
+        "level": 3
+      },
+      {
+        "q": "Bir olaydan dolayı duyulan keder, ruhsal acı.",
+        "a": "ÜZÜNTÜ",
+        "level": 1
+      },
+      {
+        "q": "Hristiyanlıkta suya daldırılarak yapılan kutsama töreni.",
+        "a": "VAFTİZ",
+        "level": 3
+      },
+      {
+        "q": "Anne kelimesinin eski dildeki saygılı karşılığı.",
+        "a": "VALİDE",
+        "level": 2
+      },
+      {
+        "q": "Efsanelere göre geceleri kan emerek yaşayan canlı.",
+        "a": "VAMPİR",
+        "level": 1
+      },
+      {
+        "q": "Dokunaçları sayesinde cam gibi yüzeylere tutunabilen araç.",
+        "a": "VANTUZ",
+        "level": 2
+      },
+      {
+        "q": "Zenginlik veya sahip olunan her türlü değer.",
+        "a": "VARLIK",
+        "level": 1
+      },
+      {
+        "q": "Bir yerden bir yere gitmeyi sağlayan her türlü araç.",
+        "a": "VASITA",
+        "level": 1
+      },
+      {
+        "q": "Tramvay süren görevli kişiye verilen isim.",
+        "a": "VATMAN",
+        "level": 3
+      },
+      {
+        "q": "Yapılması gereken iş, sorumluluk, görev.",
+        "a": "VAZİFE",
+        "level": 2
+      },
+      {
+        "q": "Dostluğuna sadık, sevgisini unutmayan kimse.",
+        "a": "VEFALI",
+        "level": 1
+      },
+      {
+        "q": "Fizik ve matematikte yönü ve büyüklüğü olan nicelik.",
+        "a": "VEKTÖR",
+        "level": 3
+      },
+      {
+        "q": "Ahşap yüzeyleri korumak ve parlatmak için sürülen sıvı.",
+        "a": "VERNİK",
+        "level": 2
+      },
+      {
+        "q": "İnsanın içindeki doğru ve yanlışı ayırma yetisi, iç ses.",
+        "a": "VİCDAN",
+        "level": 2
+      },
+      {
+        "q": "Yazıda eş görevli kelimeleri ayırmaya yarayan noktalama işareti.",
+        "a": "VİRGÜL",
+        "level": 1
+      },
+      {
+        "q": "Renkli cam parçalarının birleştirilmesiyle yapılan pencere süsü.",
+        "a": "VİTRAY",
+        "level": 3
+      },
+      {
+        "q": "Mağazalarda ürünlerin sergilendiği büyük camlı bölüm.",
+        "a": "VİTRİN",
+        "level": 1
+      },
+      {
+        "q": "Gelecekle ilgili geniş bakış açısı veya öngörü.",
+        "a": "VİZYON",
+        "level": 2
+      },
+      {
+        "q": "Yer altındaki lavları püskürten yanardağ.",
+        "a": "VOLKAN",
+        "level": 1
+      },
+      {
+        "q": "Sevilen bir kişiye veya amaca kavuşma, birleşme.",
+        "a": "VUSLAT",
+        "level": 3
+      },
+      {
+        "q": "Doğada kendiliğinden yetişen, evcil olmayan.",
+        "a": "YABANİ",
+        "level": 1
+      },
+      {
+        "q": "Bulutlardaki su buharının damlalar halinde yere düşmesi.",
+        "a": "YAĞMUR",
+        "level": 1
+      },
+      {
+        "q": "Geceleri uçan, mağaralarda yaşayan tek memeli hayvan.",
+        "a": "YARASA",
+        "level": 1
+      },
+      {
+        "q": "Denizlerde yan yan yürüyen, kıskaçlı canlı.",
+        "a": "YENGEÇ",
+        "level": 1
+      },
+      { "q": "Altmış dokuzdan sonra gelen sayı.", "a": "YETMİŞ", "level": 1 },
+      {
+        "q": "Geceleri gökyüzünde parlayan uzak gök cisimleri.",
+        "a": "YILDIZ",
+        "level": 1
+      },
+      {
+        "q": "Sütün mayalanmasıyla elde edilen beyaz besin.",
+        "a": "YOĞURT",
+        "level": 1
+      },
+      { "q": "Geçimini zor sağlayan, fakir kimse.", "a": "YOKSUL", "level": 1 },
+      {
+        "q": "Uyurken üstümüze örttüğümüz içi yün veya pamuklu örtü.",
+        "a": "YORGAN",
+        "level": 1
+      },
+      {
+        "q": "Çok çalışmaktan dolayı enerjisi tükenmiş olan.",
+        "a": "YORGUN",
+        "level": 1
+      },
+      {
+        "q": "Gemiye yön veren, rüzgarla dolan büyük kumaş.",
+        "a": "YELKEN",
+        "level": 2
+      },
+      {
+        "q": "Mahkemede adaletli karar vermekle yükümlü hakim.",
+        "a": "YARGIÇ",
+        "level": 2
+      },
+      {
+        "q": "Parçaları birleştirerek bütünü oluşturma oyunu.",
+        "a": "YAPBOZ",
+        "level": 1
+      },
+      {
+        "q": "Ağaçların sonbaharda döktüğü ince yeşil kısımları.",
+        "a": "YAPRAK",
+        "level": 1
+      },
+      {
+        "q": "Kendi çıkarı için başkalarına aşırı övgü dizen.",
+        "a": "YALAKA",
+        "level": 2
+      },
+      {
+        "q": "Birinin yanında kimse olmama durumu, tek başınalık.",
+        "a": "YALNIZ",
+        "level": 1
+      },
+      { "q": "Kontrolden çıkmış yakıcı büyük ateş.", "a": "YANGIN", "level": 1 },
+      {
+        "q": "Doğru olmayan, hatalı işlem veya bilgi.",
+        "a": "YANLIŞ",
+        "level": 1
+      },
+      {
+        "q": "Başın altına konulan yumuşak uyku eşyası.",
+        "a": "YASTIK",
+        "level": 1
+      },
+      {
+        "q": "Güzel ahlaklı ve dürüst karakterli kimse.",
+        "a": "YETKİN",
+        "level": 2
+      },
+      {
+        "q": "Askerlikte binbaşı ile albay arasındaki rütbe.",
+        "a": "YARBAY",
+        "level": 2
+      },
+      {
+        "q": "Hafif ve ince kumaştan yapılan bir tür ayakkabı veya örtü.",
+        "a": "YEMENİ",
+        "level": 3
+      },
+      {
+        "q": "İnce iplikle yapılan bir tür nakış sanatı.",
+        "a": "YAZMİÇ",
+        "level": 3
+      },
+      {
+        "q": "Bir işin nasıl yapıldığını gösteren alışılmış yol, usul.",
+        "a": "YORDAM",
+        "level": 3
+      },
+      {
+        "q": "Zihinde canlandırılan kurgu, hayal gücü ürünü.",
+        "a": "ÜTOPİK",
+        "level": 2
+      },
+      {
+        "q": "Bir topluluğun her bir üyesi olma durumu.",
+        "a": "ÜYELİK",
+        "level": 1
+      },
+      { "q": "Üzüm yetiştirip satan kişi.", "a": "ÜZÜMCÜ", "level": 1 },
+      {
+        "q": "Belirli bir süreye bağlanmış, vadesi olan.",
+        "a": "VADELİ",
+        "level": 2
+      },
+      {
+        "q": "Büyük felaket, kıyım veya dehşet veren olay.",
+        "a": "VAHŞET",
+        "level": 2
+      },
+      {
+        "q": "Bir şeyin miktarını veya değerini belirten sayısal veri.",
+        "a": "VARİDE",
+        "level": 3
+      },
+      { "q": "Orta seviyede olan, ne iyi ne kötü.", "a": "VASATİ", "level": 3 },
+      { "q": "Özlü ve anlamlı kısa söz, veciz.", "a": "VECİZE", "level": 3 },
+      {
+        "q": "Kayıp bir şeyi geri almak için yapılan işlem.",
+        "a": "VİRMÂN",
+        "level": 3
+      },
+      {
+        "q": "Mağaza camlarında sergilenen düzenleme.",
+        "a": "VİTRİN",
+        "level": 1
+      },
+      {
+        "q": "Bir kimsede veya şeyde bulunan niteliklerin bütünü.",
+        "a": "YAPILI",
+        "level": 2
+      },
+      {
+        "q": "Güç bir işin altından kalkmak için yapılan katkı.",
+        "a": "YARDIM",
+        "level": 1
+      },
+      { "q": "Yaşanan zaman, ömür sürme eylemi.", "a": "YAŞAMA", "level": 1 },
+      { "q": "Bir yerde konaklayan, geceleyen kişi.", "a": "YATILI", "level": 2 },
+      {
+        "q": "Yaz mevsiminde kullanılan veya oraya uygun olan.",
+        "a": "YAZLIK",
+        "level": 1
+      },
+      {
+        "q": "Resmi yazışmaları yürüten görevli, sekreter.",
+        "a": "YAZMAN",
+        "level": 2
+      },
+      { "q": "Eşi benzeri olmayan, tek.", "a": "YEGÂNE", "level": 3 },
+      { "q": "Aslanın boynundaki uzun kıllar.", "a": "YELELİ", "level": 2 },
+      {
+        "q": "Toplumda kabul gören doğru davranış kuralları.",
+        "a": "YETKİN",
+        "level": 3
+      },
+      {
+        "q": "Bir yıl boyunca süren veya bir yıla sığan.",
+        "a": "YILLIK",
+        "level": 1
+      },
+      { "q": "Yol boyunca eşlik eden arkadaş.", "a": "YOLDAŞ", "level": 2 },
+      { "q": "Bir şeyi kesip biçerek şekil verme.", "a": "YONTMA", "level": 3 },
+      {
+        "q": "Bir yerden başka bir yere gönderilen nesne veya kişi.",
+        "a": "GÖNDER",
+        "level": 2
+      },
+      {
+        "q": "Halk tiyatrosunda komik hikayeler anlatan sanatçı.",
+        "a": "MEDDAH",
+        "level": 3
+      },
+      {
+        "q": "Vücut ısısının normalin altına düşmesiyle oluşan donma riski.",
+        "a": "ÜŞÜTME",
+        "level": 2
+      },
+      { "q": "Bir suçtan dolayı duyulan şüphe, zan.", "a": "TÖHMET", "level": 3 },
+      {
+        "q": "Bir işi yapmak için izlenen düzenli yol, metod.",
+        "a": "YÖNTEM",
+        "level": 2
+      },
+      { "q": "Aşağı kelimesinin zıttı.", "a": "YUKARI", "level": 1 },
+      { "q": "Sıkılmış el, elin içe bükülmüş hali.", "a": "YUMRUK", "level": 1 },
+      { "q": "Adım atarak ilerleme eylemi.", "a": "YÜRÜME", "level": 1 },
+      { "q": "Cümlede yargı bildiren ana kelime.", "a": "YÜKLEM", "level": 2 },
+      { "q": "Alçak kelimesinin karşıtı.", "a": "YÜKSEK", "level": 1 },
+      {
+        "q": "Dikiş dikerken iğnenin parmağa batmasını engelleyen koruyucu.",
+        "a": "YÜKSÜK",
+        "level": 2
+      },
+      {
+        "q": "Balıkların suda dengede kalmasını ve ilerlemesini sağlayan organ.",
+        "a": "YÜZGEÇ",
+        "level": 1
+      },
+      { "q": "Suda batmadan ilerleme sporu.", "a": "YÜZMEK", "level": 1 },
+      { "q": "Yüz yıllık zaman dilimi, asır.", "a": "YÜZYIL", "level": 1 },
+      {
+        "q": "Belediye sınırları içinde düzeni ve yasakları denetleyen görevli.",
+        "a": "ZABITA",
+        "level": 1
+      },
+      {
+        "q": "Bir işin yapılması sırasında çekilen güçlük ve yorgunluk.",
+        "a": "ZAHMET",
+        "level": 2
+      },
+      {
+        "q": "Pembe veya beyaz çiçekli, zehirli bir süs bitkisi.",
+        "a": "ZAKKUM",
+        "level": 2
+      },
+      {
+        "q": "Güzel kokulu, büyük ve beyaz çiçekli bir süs bitkisi.",
+        "a": "ZAMBAK",
+        "level": 2
+      },
+      {
+        "q": "El ustalığı ve beceri gerektiren işlerin genel adı.",
+        "a": "ZANAAT",
+        "level": 2
+      },
+      {
+        "q": "Kaçınılmaz olan, çok gerekli ve mecburi.",
+        "a": "ZARURİ",
+        "level": 2
+      },
+      {
+        "q": "Bir şeyin zarar görmesi, hafifçe ezilmesi durumu.",
+        "a": "ZEDELİ",
+        "level": 2
+      },
+      { "q": "Çok parası ve malı olan kimse.", "a": "ZENGİN", "level": 1 },
+      {
+        "q": "Havadan hafif gazla uçan, dev balon benzeri hava aracı.",
+        "a": "ZEPLİN",
+        "level": 2
+      },
+      {
+        "q": "Ege yöresine özgü yiğit veya bu yörenin halk oyunu.",
+        "a": "ZEYBEK",
+        "level": 1
+      },
+      {
+        "q": "Kahvaltıda yenen, yağı da çıkarılan küçük çekirdekli meyve.",
+        "a": "ZEYTİN",
+        "level": 1
+      },
+      {
+        "q": "Eğri büğrü çizgi, giderek yön değiştiren hat.",
+        "a": "ZİKZAK",
+        "level": 1
+      },
+      {
+        "q": "Birbirine geçmiş metal halkalardan oluşan bağ.",
+        "a": "ZİNCİR",
+        "level": 1
+      },
+      {
+        "q": "Eski kalelerde yer alan karanlık ve yeraltı hapishanesi.",
+        "a": "ZİNDAN",
+        "level": 1
+      },
+      {
+        "q": "Tarım işleri, toprağı ekip biçme bilimi.",
+        "a": "ZİRAAT",
+        "level": 2
+      },
+      {
+        "q": "Parlak yeşil renkli, çok değerli süs taşı.",
+        "a": "ZÜMRÜT",
+        "level": 2
+      },
+      {
+        "q": "Dünyanın en uzun boyunlu ve benekli memeli hayvanı.",
+        "a": "ZÜRAFA",
+        "level": 1
+      },
+      { "q": "Kilise hizmetlisi, çan çalan kimse.", "a": "ZANGOÇ", "level": 3 },
+      { "q": "Kabe yakınındaki kutsal su.", "a": "ZEMZEM", "level": 2 },
+      {
+        "q": "Hayvan bilimci, hayvanları inceleyen uzman.",
+        "a": "ZOOLOG",
+        "level": 2
+      },
+      { "q": "Para veya mal kaybı, eksilen miktar.", "a": "ZAYİAT", "level": 3 },
+      {
+        "q": "Asla, sakın anlamında kullanılan eski bir uyarı sözü.",
+        "a": "ZİNHAR",
+        "level": 3
+      },
+      { "q": "Süs eşyası, mücevherat.", "a": "ZİYNET", "level": 3 },
+      {
+        "q": "Bir işin yapılması önündeki engel, güçlük.",
+        "a": "ZORLUK",
+        "level": 1
+      },
+      { "q": "Parası bitmiş, yoksul kalmış kimse.", "a": "ZÜĞÜRT", "level": 2 },
+      { "q": "Mektup kılıfına konulmuş olan.", "a": "ZARFLI", "level": 1 },
+      {
+        "q": "Gülünç derecede dar veya kısa giyinen, ciddiyetsiz kimse.",
+        "a": "ZİBİDİ",
+        "level": 3
+      },
+      {
+        "q": "Sazdan veya kamıştan örülmüş sepet veya yaygı.",
+        "a": "ZEMBİL",
+        "level": 3
+      },
+      { "q": "Karanlık, ışığı olmayan yer.", "a": "ZULMET", "level": 3 },
+      {
+        "q": "Balık avlamak için kullanılan ucu çengelli mızrak.",
+        "a": "ZIPKIN",
+        "level": 2
+      },
+      {
+        "q": "Birine koruması için teslim edilen eşya veya sorumluluk.",
+        "a": "ZİMMET",
+        "level": 3
+      },
+      {
+        "q": "İnce iplikle yapılan bir tür oya sanatı.",
+        "a": "ZAHİRİ",
+        "level": 3
+      },
+      { "q": "İstemeyerek, zorla yapılan.", "a": "ZORAKİ", "level": 2 },
+      { "q": "Hızlı koşan bir tür av köpeği.", "a": "ZAĞARA", "level": 3 },
+      {
+        "q": "Bir yerin veya eşyanın sahibi olma durumu.",
+        "a": "ZİLYET",
+        "level": 3
+      },
+      {
+        "q": "Dolaylı olarak, açıkça söylemeden ifade edilen.",
+        "a": "ZIMNEN",
+        "level": 3
+      },
+      { "q": "Müzikte temponun ve ritmin uyumu.", "a": "RİTMİK", "level": 2 },
+      { "q": "Bir şeyi yutma eylemi.", "a": "YUTMAK", "level": 1 },
+      {
+        "q": "Düşünce ve akıl ile ilgili olan, zihni.",
+        "a": "ZİHNEN",
+        "level": 2
+      },
+      {
+        "q": "Suyu emerek veya ağızda çevirerek bitirme.",
+        "a": "YUNMAK",
+        "level": 3
+      },
+      {
+        "q": "Çok koyu, kapkara anlamında bir renk sıfatı.",
+        "a": "ZİFİRİ",
+        "level": 2
+      },
+      {
+        "q": "Hayali bir zaman dilimi, o dönemin insanları.",
+        "a": "ZAMANE",
+        "level": 2
+      },
+      {
+        "q": "Osmanlı'da bir toprak yönetim biçimi veya rütbe.",
+        "a": "ZEAMET",
+        "level": 3
+      },
+      { "q": "Aşağılama, küçük düşürme durumu.", "a": "ZİLLET", "level": 3 },
+      { "q": "Süzülmüş balın peteği veya mumu.", "a": "ZAMKLI", "level": 2 },
+      {
+        "q": "Göz alıcı, parlak ve zarif kimseler (Eski dil).",
+        "a": "ZÜREFA",
+        "level": 3
+      },
+      { "q": "Ciddiyetsiz ve boş konuşan kimse.", "a": "ZEVZEK", "level": 2 },
+      { "q": "Yol veya metodun eş anlamlısı.", "a": "YÖNTEM", "level": 2 }
+    ]
   ],
   "7": [
     {
       "a": "OTOBÜS",
       "q": "Toplu taşımada kullanılan büyük yolcu aracı? (6 Harf)",
-      "level": 4
+      "level": 3
     },
     {
       "a": "TELEFON",
       "q": "Uzaktakilerle iletişim kurmaya yarayan cihaz?",
-      "level": 4
+      "level": 3
     },
     {
       "a": "PENCERE",
       "q": "Odaların dışarıya açılan, genellikle camlı kısmı?",
-      "level": 4
+      "level": 3
     },
     {
       "a": "ŞEMSİYE",
       "q": "Yağmurdan veya güneşten korunmak için kullanılan eşya?",
-      "level": 4
+      "level": 3
     },
     {
       "a": "SAKLAMBAÇ",
       "q": "Birinin yumup diğerlerinin saklandığı çocuk oyunu? (9 Harf)",
-      "level": 4
+      "level": 3
     }
   ]
 }
